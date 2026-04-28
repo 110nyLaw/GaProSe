@@ -1,0 +1,59 @@
+{
+  "id": 219125,
+  "name": "Aaron Forbes vs. Executor of P. H. Morel",
+  "name_abbreviation": "Forbes v. Morel",
+  "decision_date": "1816-01",
+  "docket_number": "",
+  "first_page": "23",
+  "last_page": "25",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 23"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 325,
+    "char_count": 5140,
+    "ocr_confidence": 0.471,
+    "sha256": "63dfc7f35ee1e4ee7f2b0b721ace43f6588abeecf30b271f9c99f1138ce8fe55",
+    "simhash": "1:2e079ce5ae24a4cb",
+    "word_count": 872
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Aaron Forbes vs. Executor of P. H. Morel."
+    ],
+    "opinions": [
+      {
+        "text": "By BEBBtSEN, Jrnclg\u00a9.\nTHE present motion on the part of the defendant, presents for consideration two objections to the account of sales rendered by the Sheriff under the above execution.\nThese objections are made to the two following charges : first, extra charge for the trouble of the Sheriff and his Deputy in going to Bryan: second, to subsistence of the negroes from the levy until the sale. The first of these objections mus't be sustained, the law and the Sheriff\u2019s oath, both inhibit him from receiving more than his lawful fees, and no private contract can dispense with the obligations which they impose, much less can the Court be called upon to lend its sanction to the enforcement of an agreement which violates the mandates of the one, or'the injunctions of the other. Upon the fullest consideration 1 entertain a different view of the second objection. It is not denied that the charge to which this objection applies is provided for and allowed by the Fee Bill. But it is contended, that for as much as these negroes were not actually in the custody of the Sheriff during the period intervening between, the levy and sale, but were by him permitted to remain in the possession of the defendant, that the Sheriff has therefore no right to subsistence money. Upon this subject I find a decision in point by my immediate predecessor on this bench. That decision does indeed negative the claim of the Sheriff in the particular case then under consideration, but it expressly affirms that right; in cases analogous to that which is now submitted for adjudication. I shall depart with extreme reluctance from a precedent deliberately established, and supported by so many considerations of humanity and of equity. The decision of the present motion does not necessarily involve the final determination of the rights of these parties. The object of the motion is to* obtain the interposition of this Court in the exercise of its extraordinary powers by the summary process of attachment. The claim of the defendant in this case is stricti juris, and the refusal to acquiesce in it, does not necessarily decide the question of right. The extraordinary powers of the Court are committed to its discretion. If their exercise be withheld, thp party is left to the prosecution of his ordinary remedy. In refusing to sustain this objection for the purposes of the present motion, therefore I decide only*\u00bb that the defendant has not presented such a case as entitles him to claim from this Court the-exercise of its extraordinary powers by awarding against the plaintiff the process of attachment. If that claim be founded in right, the ordinary remedy by action for a right with-held, is still open to him. The considerations which lead to this refusal, present themselves to my mind with a force which is irresistible. The property seized is in consideration of law in the custody of the Sheriff from the moment of the levy, and the necessary consequence of this principle, is, that he is responsible for its forthcoming at the day of sale. He is entitled to retain the possession for the purpose of securing him, under the responsibility to which he is subjected. If the property is permitted to remain in the possession of the defendant, it is an indulgence to him, at the risk of the Sheriff and his securities. And surely such a defendant comes with an ill grace before the Court to ask its assistance in resisting a claim to which a more rigorous execution of the Sheriff\u2019s power which has been dispensed with for his benefit would have subjected him. Finally, there are strong considerations of humanity which array themselves in opposition to the motion of the defendant. If the principle which it seeks to establish were affirmed, the consequences which would result are obvious to the most casual observation. It cannot be required that the Sheriff should be subject to the responsibility which the law imposes, without security against the risk, or compensation for incurring it. If the latter be with-held, the former will be enforced, and besides the injury to debtors, our jails would be crowded with the miserable victims of the principle which this motion is calculated to establish.\nWith this view of the subject the motion for an attachment in this case will be discharged upon payment of the sum to which the first objection is applicable, and also of'the costs of this motion.\nHopkins and Odingsell vs. Bolton. 1 Charlton\u2019s Report 294.",
+        "type": "majority",
+        "author": "By BEBBtSEN, Jrnclg\u00a9."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Aaron Forbes vs. Executor of P. H. Morel.\nOn foreclosure of Mortgage.\nNo private contract, nor extraordinary trouble, can authorize the Sheriff to receive other or higher fees than are prescribed by law.\nft seems that the Sheriff is entitled to charge the legal fee for dieting negroes, levied on by him under execution, although such negroes were allowed to remain in possession of defendant, and no subsistence was furnished by the Sheriff.\nIn such case, the Court will not grant an attachment against the Sheriff, to compel him to bring into Court the money retained by him to answer this charge, but will leave the party to the prosecution of his ordinary remedy, by action."
+  },
+  "file_name": "0023-01",
+  "first_page_order": 35,
+  "last_page_order": 37
+}

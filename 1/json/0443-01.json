@@ -1,0 +1,61 @@
+{
+  "id": 219035,
+  "name": "The State vs. John I. Dews",
+  "name_abbreviation": "State v. Dews",
+  "decision_date": "1835-01-02",
+  "docket_number": "",
+  "first_page": "443",
+  "last_page": "443",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 443"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 82,
+    "char_count": 1119,
+    "ocr_confidence": 0.525,
+    "sha256": "72e586652857251d28be7c1b84fab3e7f15d08bab3d700a83d3b91a49d42d5f9",
+    "simhash": "1:6610891194bac0c7",
+    "word_count": 197
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. John I. Dews."
+    ],
+    "opinions": [
+      {
+        "text": "On motion of the Recorder and Mr. M\u2019Allister, on behalf of the Mayor and Aldermen of the City of Savannah and the hamlets thereof, for a mandamus to issue to John I. Dews, Sheriff of Chatham county, commanding him to deliver to the said Mayor and-Aldermen, the possession of the Jail of said county, and the custody of the prisoners therein confined, and on reading the affidavits and papers, stating the facts on which said motion is grounded; and on hearing Messrs. Berrien and Cuyler, and Mr. Daw, on behalf of the said John I. Dexos, opposing the said motion\u2014It is ordered, that a peremptory mandamus do issue, to be directed to the said John I. Dews, Sheriff as aforesaid, commanding him to deliver the possession of the said Jail, and the custody of the prisoners therein confined, to the said Mayor and Aldermen of the City of Savannah, and the hamlets thereof, or to Young S. Pickard, the Jailor appointed by the said Mayor and Aldermen.",
+        "type": "majority",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Wm. H. Bulloch, Recorder, and M. H. M\u2019Allister, for the relators\u2014Berrien & Cuyler, and Law, for defendant"
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. John I. Dews.\nChatham, Superior Court,\nJan. 2, 1835.\nWm. H. Bulloch, Recorder, and M. H. M\u2019Allister, for the relators\u2014Berrien & Cuyler, and Law, for defendant"
+  },
+  "file_name": "0443-01",
+  "first_page_order": 455,
+  "last_page_order": 455
+}

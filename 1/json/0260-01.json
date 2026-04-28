@@ -1,0 +1,90 @@
+{
+  "id": 219055,
+  "name": "Hartridge and others, compl'ts. vs. Rockwell and others, def'ts",
+  "name_abbreviation": "Hartridge v. Rockwell",
+  "decision_date": "1828-12",
+  "docket_number": "",
+  "first_page": "260",
+  "last_page": "266",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 260"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Conn. 579",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        6755576
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/2/0579-01"
+      ]
+    },
+    {
+      "cite": "3 Mass. 364",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2005716
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/3/0320-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 667,
+    "char_count": 14542,
+    "ocr_confidence": 0.475,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.00870378929427932
+    },
+    "sha256": "dbc7c79ac56a7e4989d75c76abf1721ae9851630475492a1c8cc852f176679a7",
+    "simhash": "1:dcf6f312547ebdeb",
+    "word_count": 2560
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Hartridge and others, compl\u2019ts. vs. Rockwell and others, def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "By DAVIES, Judge.\nASSUMING for the purposes of this case that the Court has jurisdiction, the first question which presents itself, is whether the Directors had a right to dispose of the stock, previously-purchased by them, or whether upon such purchase the stock lost its character as stock, and was merged in the funds of the institution. Originally the capital stock was divided into shares of fifty dollars each, and as these shares were taken, the amount paid in, constituted the capital stock upon which the future ope- - rations of the Bank were to be carried on.\n, It cannot, I think, be denied, that from circumstances of necessity, or motives of policy, the Directors had a right to invest a portion of the capital stock in various ways. Having a right to manage the affairs of the institution for the benefit of the Stockholders, the Directors must necessarily have a discretion on this subject, within certain limits. In general the capital stock of a Bank is employed in making loans upon personal or other security, and the interest or discount upon such loans forms the profits of the Bank, to which each Stockholder is entitled in proportion to the number of shares held by him. The debts contracted with the Bank must sometimes from necessity be paid in property, or in stock of the Bank itself, or of some other Bank. In'eithcr case it continues a part of the capital stock to which the Stockholders have no immediate claim so long as the institution exists; but is the fund to whicli the creditors of the Bank must look for payment of their claims. If from the course of business, or the state of things, the capital of the Bank cannot be usefully employed in loans, there can, I think, be no objection against the purchase of its own stock. In such purchases a part of the capital stock is withdrawn, but it is represented by the stock purchased ; when dividends are declared, the profits of so much of the stock as may have been purchased, belong to the remaining Stockholders, and is nothing more than the profit to which they would have been entitled, if instead of appropriating so much of the capital to the purchase of stock, it had been used for making loans. But when a different state of things occurs, it may be deemed more profitable to invest again the amount appropriated for the purchase of stock, into cash, to be used for making loans ; then the owners of the stock sold, become entitled to the dividends, and the other Stockholders receive in place thereof, the profits made on the loan of the money received on the sale of the stock. In any other view of the subject, the Directors would have the right of reducing the capital at their pleasure and limiting by that means the sphere of operations without consulting the Stockholders, which, I think, they have no light to do. The Directors must have a discretion in directing the operation of the Bank within the limits and for the objects prescribed by the charter, but they can neither extend nor curtail those limits without the consent of the Stockholders. In purchasing and again selling a part of the stock, they neither extend nor controul those limits, be-because the capital remains the same, neither diminished, nor increased, since the stock represents so much of the capital as was invested in its purchase, and when sold, the money then stands in the place of the stock. No Stockholder has a right to touch any part of the capital so long as the institution exists;\u2014when it is dissolved by its own limitation or from any other cause, then the Stockholders divide the capital. But it is said, if the sale was authorised, then each Stockholder had a right to a preference in the purchase to the extent of the stock previously held by him, I can discover no reason on which this principle can rest\u2014If it were so, then the Stockholders would have the same claim to a preference in relation to any other property which the Bank possessed and was desirous of selling; and so of stock forfeited under the provisions of the amended charter of 1827, and which is directed to be sold. The case of Gray vs. the Portland Bank, 3 Mass. 364, was a very different case. There new stock was to be created by the provisions of the charter, and the Court seems to have been influenced by two considerations : 1st. that according to the terms of the resolution passed, the new stock was to be offered to the original associates and their assignees, and that the committee had no right by their exposition of it to exclude Mr. Gray ; 2dly. that the owners of the new stock would of necessity become interested in the property acquired by the Stockholders, and that it was unjust that on paying no more than the original subscription, they would be entitled to an interest in property derived from the profits of the original investment. On the first ground I think there can be no doubt\u2014on the other ground it seems to me it would not apply to any part of the old stock, if it could when new stock is to be created. The old stock represented a part of the capital, on which the corporation commenced operations; when it was purchased, its price would be enhanced in proportion to the property owned by the Bank, and when sold, the same circumstance must be allowed to operate, to enhance its value ; otherwise, the effect would be to diminish the capital, which could not be done. The new purchaser, therefore, would not come in on the footing of the original stockholder, but would be required to pay more or less according to the condition of the affairs of the Bank. There is nothing in the decision of the Court in the case of ex parte Holmes, 5 Cowen. 426, which conflicts with the view which I have taken of the case. The. only question there, was, whether persons holding stock as Trustees for the Bank were entitled to vote for the shares thus held, and on this question I think there can be no doubt. The Court does say that the company might take their stock in pledge of payment and keep it outstanding in Trustees, to prevent its merger. This they might do, as the best means of effecting their object, but it was not decided that the stock would have been merged but for the intervention of Trustees ; indeed I think it may have been supposed that the stock was thus taken in the Trustees\u2019 names for the purpose of giving the Directors that influence which they attempted to exercise. The case of the Marlb. Man. Comp. vs. Smith, 2 Conn. 579, thereby establishes the principle that the Directors of a company have no right, without the assent of the Stockholders, to apply for a change or increase of the powers given by the chaster. But it is alleged that there was a want of good faith on the part of the Directors in making the sale ; that they did not give such notice as they ought to have done; that some of.the stock was sold before the passage of the resolution authorizing the sale; that it was sold at an underprice; that some of the Dii ectors were themselves the purchasers. Now suppose that all these charges may ultimately be supported, they all bear upon the fact that the sale was at an undervalue, and the Directors will be liable to the Stockholders for the injury done them. It is also charged that all this was done to promote the views of the Directors and to defeat the just rights of complainants, and to deprive them of their influence in the managements in the affahs of the institution. I do not think that these considerations can influence the Court in the present case. If the Directors had a right to sell the stock, as I believe they had, but it was sold under circumstances calculated to reduce the proceeds of the sale, they are liable to answer to those whom they have injured, whatever may have been the motive. On the other hand, if the sale was properly conducted, the motive of the sale cannot, I think, affect the parties in a Court of justice. Inquiries of this kind would lead us into a labyrinth from which we should never be extricated. In all these monied institutions, persons are influenced by motives of interest and policy, which may be very natural. It often happens that there is a contest for influence and power arising from motives which may be very good; most individuals have greater confidence in their own judgment and prudence than they have in others. It is only in cases of great urgency or where irreparable mischief may ensue, that an injunction will be granted ex parte and before answer. (1 Mad. 126. 1 Newland, 218. Ogden vs. Kip, 6 John. Chan. Rep. 161.) In ordinary cases it is only granted upon the defendant\u2019s answer, or upon an order for time to answer, or on an attachment for want of answer. (2 Mad. 220.) What then is the urgency to induce me to interfere in this summary way? If the complainants have sustained a loss by the sale of the stock at the price, and in the manner charged, they have their remedy against the Directors, and that remedy will not be promoted by an injunction. Then the only other injury which the complainants complain of, is the possible result of the approaching election. This rests upon the apprehension of possible events, which, if they do occur, are rather matters of feeling than of interest, as they regard the affairs of the Bank. It cannot be rendered certain at this time who will be elected Directors, if the new Stockholders are permitted to vote, and it is neither certain nor probable that any great or irreparable injury will result to the institution, if the apprehension of complainants are realized. The past conduct of the present Directors is not complained of, on the contrary, it would seem that the Bank has been benefitted under their management. But it is contended that the present defendants are Trustees and therefore could not themselves be the purchasers. Admit this to be the case, I cannot from the bill know the extent of their purchases; nor am I at present disposed to believe that this principle is applicable, to the managers or Directors of the affairs of a corporation. They can.hardly-be considered as Trustees. The company\u2014the corporation, may rather be considered as the Trustees\u2014the Stockholders the cestui que trusts. The legal title to the property is in the corporation, not in the Directors ; though from the necessity of the' thing, the affairs of the company must be directed by individuals; and in many cases, and generally, the Directors are themselves cestui que trusts. \u201cInjunctions are allowed against those who have a legal estate of inheritance, but being a-Trustee -is not liable to an action of waste ; to inhibit them from committing waste.\u201d (I Mad. 139.) But actions at law may be maintained -by Stockholders against Directors, which could, not be-if, the latter.-were Trustees having the legal title the application of the principle to Directors of a Bank would affect transactions in which Directors are every day engaged. It may also affect Aldermen and Directors of corporations generally, and would, I think, have a most mischievous effect. Having kept out of view the answers which have been filed, (though I now doubt the propriety of my having done so,) I am bound to notice the circumstances under which this application has been made. A reason has been assigned at the bar for the delay, and I have no doubt that the reason assigned is in fact the cause ; but it cannot operate against the Defendants in cases of this kind. The application should have been made sooner, for many reasons. (1 Newland, 219.) \u201c In the case of Waste and other cases of analogous nature, the Court will grant the injunction without notice, and before appearance, and before subpcena served, provided the plaintiff makes an early application to the Court, after the injury complained of has happened.\u201d In this case there was a notice, but that can avail very little if the proceeding is, as it has been in this case, without answer and in fact ex parte. The purchasers of the stock have a right colourable in point of law, whatever may be the result of ulterior investigations ; if they are prevented from voting at the pending election, they are deprived of a right for which no redress can be afforded them. On the other hand, if they vote improperly, the complainants are divested of no rights, though they may possibly be disappointed in their wishes and expectations as to the result of the election. The one is a positive right, the other a mere matter of feeling, or a possible injury arising from circumstances which may possibly happen, but which for any thing which appears to me is neither certain nor probable. 1 Fonb. (34 Note p.) speaking of a class or cases to which he refers, says, \u201c the principle upon which these cases appear to have proceeded, is, that the injunction might operate irreparable damage to the defendant in the event of the plaintiffs not being exclusively entitled ; whereas the damage sustained by the plaintiff in the event of his establishing his title, allows of compensation.\u201d\nJno. C. Nicoll & M. Myers, for plaintiff\u2014Wi. Law & W. W. Gordon, for defendants.\nThe motion for injunction is refused.\nBut see penal code of 1833, 6th Div. Sec 43d, which declares such purchase to be a misdemeanor and subjects the President and Directors, on conviction, to imprisonment in the Peni icntiary, for uotless than one, nor more than ten years.\u2014(Ed.)",
+        "type": "majority",
+        "author": "By DAVIES, Judge."
+      }
+    ],
+    "attorneys": [
+      "Jno. C. Nicoll & M. Myers, for plaintiff\u2014Wi. Law & W. W. Gordon, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Hartridge and others, compl\u2019ts. vs. Rockwell and others, def\u2019ts.\nIn Equity&emdash;Motion for Injunction.\nIf the capital of a Bank cannot be usefully employed in loans, there can be no objection to investing a portion thereof in the purchase of its own stock. And the Directors of the Bank have a right to dispose of the stock so purchased by them.\nAnd on the re-s\u00e1le of such stock, the Stockholders of the Bank have no right to a preference in, the purchase.\nThe Managers or Directors of the affairs of a Corporation cannot be considered as Trustees, or prohibited as such, from the purchase of the trust property or stock, belonging to the Corporation.\nIn general, an injunction will not be granted ex parte and before answer.\nBut in cases of great urgency, or where irreparable injury may ensue, as in waste, &c- r where the application follows quickly after the injury complained of, the Court will grant the injunction without notice, or appearance, or subpoena served.\nAnd it will not be granted ex parte and before answer, where it would deprive defendant of a right, for which no redress could be given, and where its refusal though productive of possible injury to complainant, could not divest him of any right."
+  },
+  "file_name": "0260-01",
+  "first_page_order": 272,
+  "last_page_order": 278
+}

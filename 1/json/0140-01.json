@@ -1,0 +1,59 @@
+{
+  "id": 219050,
+  "name": "Joseph Cumming-Plff. in Execution, & Eleazar Early-Claimant",
+  "name_abbreviation": "Cumming v. Early",
+  "decision_date": "1822-02",
+  "docket_number": "",
+  "first_page": "140",
+  "last_page": "141",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 243,
+    "char_count": 4016,
+    "ocr_confidence": 0.514,
+    "sha256": "04f774a82844dc1b59444c4dae5a3885650bd7a546b5e71ef1fc9f2402c35f6d",
+    "simhash": "1:426ccfc56e5baf1c",
+    "word_count": 683
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Cumming\u2014Plff. in Execution, & Eleazar Early\u2014Claimant."
+    ],
+    "opinions": [
+      {
+        "text": "By CHABMOIT, Judge.\nTHE decree, or rather verdict of the special Jury in this case, presents the following facts for the decision of the Court.\n\u201cWe find that the negro William was levied on by virtue of an execution founded on the foreclosure of a mortgage, from Benjamin W. Leach to Joseph Camming\u2014that when the levy was made, William was in Early's possession\u2014that Gumming, on the 7th July, 1819, sold the said negro to Leach, and took the mortgage above mentioned, dated 7th July, 1819\u2014that Leach, on the 12th August, 1819, sold the negro to E. Wallen, by bill of sale\u2014that at the time Wallen purchased from Leach, he knew of the mortgage of Camming, and that the same was unsatisfied\u2014 that the bill of Camming to Leach and Leach to Wallen, were both recorded 16th August, 1819\u2014that Camming's mortgage was recorded on the 19th January, 1820\u2014that on the 28th December, 1819, Early purchased the said negro from Wallen for a valuable consideration, and without any notice of the existence of Camming's mortgage. There was no conveyance in writing from Wallen to Early, but the sale was made by parol, and the delivery of the said negro to Early. If upon this finding of facts, the Court should be of opinion that Early is entitled to the negro claimed\u2014then we find the property levied on not subject to the execution\u2014if the Court should be of opinion that Cumming is entitled, we find the property levied on subject to the execution, and assess therefor, the sum of $400 damages and costs of suit. 25th January, 1822.\nALEX\u2019R TELFAIR, Foreman\nThe plaintiff in execution, upon whom the burthen of proof lies, according to our judicial system, gives in evidence a mortgage from Leach to him of this negro, thus levied upon to satisfy the execution, issued on the foreclosure of his mortgage, and the question is, whether this lien, of which Wallen had notice, is to affect the proprietary interest of the claimant Early, who had no notice of the incumbrance, and who purchased for a bona fide, and valuable consideration. It is conceded, that Cumming's bill of sale to Leach, and Leach to Wallen, were both recorded 16th August, 1819, and that Leach's mortgage to Cumming was registered 19th January, 1820. The statutes referred to by the attorney for plaintiff in execution, are all calculated for, and intended to prevent fraud, by requiring a registry of the lien or incumbrance. Record the conveyance or mortgage, the world has then notice, and the purchaser pays his money for the property, under all the penalties and consequences of, caveat emptor. As it relates to a chattel, or personal property, like that in controversy\u2014 the indicia of title are, possession and bill of sale. Possession itself, is prima facie evidence of title, and unless controverted by notice on record, or, other notice, of a better or more legal interest, will protect a vendee for valuable consideration. I say other notice, because any information which may put the vendee on his guard, or suggest the propriety of inquiry, will save and preserve the lien of the mortgage. The records were, at the date of Early's purchase, silent as to this lien, and no other notice was furnished, to awaken suspicion as to Wallen's title.\nUpon the clearest principles of law then, the dormant and concealed mortgage of Cumming, (technically concealed, because not registered, or personally communicated,) cannot defeat the validity of the sale and delivery of the negro, from Wallen to the claimant Early\u2014and therefore; it is the opinion of this Court, that the property is not subject to the execution.",
+        "type": "majority",
+        "author": "By CHABMOIT, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Joseph Cumming\u2014Plff. in Execution, & Eleazar Early\u2014Claimant.\nIf the mortgagee of personal property fail to record his mortgage, a bona fide purchaser, claimiug under mortgagor without notice, will be entitled to retain the property.\nA purchaser for valuable consideration without notice, actual or constructive, will be pro* tected, though he purchase from one who had notice.\nPossession of personal property is prima facie evidence of title."
+  },
+  "file_name": "0140-01",
+  "first_page_order": 152,
+  "last_page_order": 153
+}

@@ -1,0 +1,59 @@
+{
+  "id": 219146,
+  "name": "Welman et : ux: vs. Ruth Armour, Administrator",
+  "name_abbreviation": "Welman v. Armour",
+  "decision_date": "1811-01",
+  "docket_number": "",
+  "first_page": "6",
+  "last_page": "6",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 6"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 117,
+    "char_count": 1609,
+    "ocr_confidence": 0.501,
+    "sha256": "3aadda9eb87b4dcc16bfc87d2b254655801a3bb25bfb9bac13c857a92c915b23",
+    "simhash": "1:4bef3519fbba77c9",
+    "word_count": 271
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Welman et : ux: vs. Ruth Armour, Administrator."
+    ],
+    "opinions": [
+      {
+        "text": "My $ia\u00a33g<e.\nTHE demurrer in this case must be sustained!\nThe legatee of Catherine Eirick has no other remedy for the H^covery of her legacy, but by bill on the equity side of this Court against the representatives of the testatrix: against the executor John Armour, in his life time, or an administrator, de bonis non, &c. since his death. The administratrix of John Armour is not the representative of the testatrix Catherine Eirick; nor as such administratrix is she liable to be called to account for the alleged waste of the estate of Catherine Eirick committed by her intestate, at the instance of a legatee of that estate. If John Armour, the executor has appropriated to his own use, or otherwise wasted the estate of his testatrix, his estate in the hands of his representatives will be answerable to the representatives of Catherine Eirick; and such representation may be procured by the qualification of a surviving executor, if there be one, or by the grant of an administration, de bonis non, &c. on her estate. But his administratrix cannot be so liable at the suit of every separate creditor, legatee or other person claiming to be beneficially interested in, but not pretending legally to represent the estate of Catherine Eirick.\nBill Dismissed.",
+        "type": "majority",
+        "author": "My $ia\u00a33g<e."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Welman et : ux: vs. Ruth Armour, Administrator.\nBill for Discovery and Relief.\nliinumr.\nAn administrator cannot be called to account for tlie alleged waste of his intestate committed on an estate whereof he was executor, by bill brought by a legatee or creditor of such wasted estate. The legal representative of such estate must bring the suit."
+  },
+  "file_name": "0006-01",
+  "first_page_order": 18,
+  "last_page_order": 18
+}

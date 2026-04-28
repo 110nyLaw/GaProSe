@@ -1,0 +1,59 @@
+{
+  "id": 219087,
+  "name": "Oliver Sturges and Theodore A. Schoedde, Appellants, vs. Gardner Tufts",
+  "name_abbreviation": "Sturges v. Tufts",
+  "decision_date": "1811-01",
+  "docket_number": "",
+  "first_page": "17",
+  "last_page": "18",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 17"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 146,
+    "char_count": 2050,
+    "ocr_confidence": 0.433,
+    "sha256": "de186d26d6ccdb5898d99ed2aa7440001868966446d20714969fe8f7947e31f8",
+    "simhash": "1:ca81d393eaa06c1c",
+    "word_count": 340
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Oliver Sturges and Theodore A. Schoedde, Appellants, vs. Gardner Tufts."
+    ],
+    "opinions": [
+      {
+        "text": "SSy ESS3S5.Kff.EW, Stadgc.\nTHE present is a contest for administration on the estate of John Cutler, deceased.\nThe respondent Gardner Tafts is the attorney in fact of the next .of kin, who are residents of another State. The appellants are principal and resident creditors. From the uneoiilradieted depositions which have been submitted, it appears that the estate of the deceased is not competent, or barely so, to the payment of its debts. Its insolvency relieves the Court from the necessity of considering how far the next of kin being non-residents and incapable under our law of taking administration themselves, can constitute an agent for that purpose. No principle is better settled than this, that administration is committed to the next of kin, because of the interest which they have in the estate, the statute being founded on the presumption that the intestate would have committed the administration to them, to whom by neglecting to make a will, he suffers his estate to go : whenever this presumption is repelled the claims of the next of kin necessarily cease. Thus administration cum tes: an: is committed to a residuary legatee, in preference to the next of kin, (11 Vin. 93,) because they have in that case no interest. So in the case of an insolvent estate\u2014as the payment of debts must precede distribution, the next of kin can have no possible interest and of consequence no claim to administration.\nThe decision of the Court of Ordinary in this case is, therefore, reversed, and It is ordered, that administration of the goods and effects of John Cutler, deceased, be committed to Oliver Sturges and Theodore A. Schoedde, the appellants.",
+        "type": "majority",
+        "author": "SSy ESS3S5.Kff.EW, Stadgc."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Oliver Sturges and Theodore A. Schoedde, Appellants, vs. Gardner Tufts.\nAppeal from the Court of Ordinary.\nWhen an estate is not competent, or Barely so, to the payment of debts, in granting administration, a creditor will be preferred to the next of kin.\nQitarc, if the non-resident next of kin, who are thereby prohibited from administration, can constitute an agent for that purpose ?"
+  },
+  "file_name": "0017-01",
+  "first_page_order": 29,
+  "last_page_order": 30
+}

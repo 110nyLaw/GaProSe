@@ -1,0 +1,59 @@
+{
+  "id": 219123,
+  "name": "Joseph Cumming, Plaintiff, in Certiorari, vs. The Mayor and Aldermen of Savannah",
+  "name_abbreviation": "Cumming v. Mayor of Savannah",
+  "decision_date": "1816-05",
+  "docket_number": "",
+  "first_page": "26",
+  "last_page": "28",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 282,
+    "char_count": 4677,
+    "ocr_confidence": 0.451,
+    "sha256": "bc570414171c3afa112b6dbfa75250ca577f9f3665be782fa977f02fd5592a20",
+    "simhash": "1:17c927d175a84b52",
+    "word_count": 811
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph Cumming, Plaintiff, in Certiorari, vs. The Mayor and Aldermen of Savannah."
+    ],
+    "opinions": [
+      {
+        "text": "By BEKKIES, Judge.\nTHE object of the present motion is to test the legal validity of an ordinance of the city council of Savannah.\nThe provisions complained of are substantially as follows : A tax of fifty cents on every hundred dollars shall be levied on all goods, wares and merchandize, not the produce of this State, with the exception of rice, cotton, tobacco, corn, tar and unmanufactured tobacco, the produce of South Carolina, which shall ha sold on commission by any person or persons residing within the limits of the city. It shall he the duty of every commission merchant, &e. to make just and true returns on oath to the city Treasurer, on the first day of January, and the first day of May in each year, <fcc. and within ten days after making such return, to pay the amount of the tax.\nAnd in default of making such return, it shall and may be lawful for the city Treasurer, within twenty days thereafter from the best information which he can obtain, to assess the value of all goods, &c. &c., sold as aforesaid by any such person in default, and a warrant of distress and sale for the amount of tax, conformably to such assessment shall forthwith be issued by the Treasurer, directed to the city Sheriff against the goods and chattels of every such defaulter, and such other proceedings may be had as in the said ordinance are directed.\nJoseph Cumming, a commission merchant of the city, having failed to make the return required by this .ordinance, the Treasurer proceeded to make an assessment and a warrant of distress issued thereon, has been levied upon his goods and chattels in pursuance of its provisions. A rule to shew cause why a certiorari to remove the proceedings before this Court, should not issue, was granted at the instance of the defendant in execution. The cause shewn having been deemed insufficient, that rule was made absolute. A certiorari was issued returnable by consent of parties at a short day, and the proceedings are now judicially before this Court.\nTo these proceedings three objections are presented in behalf of the plaintiff in certiorari. I shall reverse the order of their statement and consideration.\nThe objections are:\nlsi. That the ordinance is not warranted by the Legislative act, under the authority of which it purports to have been made, because the object of taxation in this instance is not liable for taxes to the State.\n2d. Because the tax so imposed, is in violation of the Constitution of the United States.\n3d. Because the means by which the amount of tax is ascertained and its collection enforced, are illegal, unconstitutional and unjust.\nI am of opinion that the first and second of these exceptions cannot be sustained. The provisions of the ordinance so far as they regard the tax imposed, appear to me to be authorized by the act of the Legislature under which it purports to have been made.\nI do not consider the tax in question as an impost or duty on imports. The right to impose, which, belongs exclusively to the Congress of the United States; but as a mere internal regulation, which, whether imposed by the Legislature of the State, or by a corporate body, deriving a competent authority from such Legislature, is a legitimate exercise of the power to regulate their own internal commerce which is reserved to the States respectively.\nBut upon the third objection, I am of opinion that the means adopted for the enforcement of the tax by an arbitrary assessment at the mere will and discretion of the city Treasurer, without revision or control, is a mode of procedure which is violative of the private right of the citizen, not authorized by the laws of the State, nor consonant to the Constitution.\nThe execution in this case must therefore be suspended; and a writ of prohibition is awarded.",
+        "type": "majority",
+        "author": "By BEKKIES, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Joseph Cumming, Plaintiff, in Certiorari, vs. The Mayor and Aldermen of Savannah.\nAn ordinance of the city council of Savannah, passed under the authority of an Act of the Legislature of Georgia, imposed a tax on all goods, &c. not the produce of the Slate, sold on commission by any peison residing within the city : held, that such tax was not an impost or duty on imports, but that it was a legitimate exercise of the power of a State to regulate its internal commerce.\nThe same ordinance required the city Treasurer, in default of any person to make his return of such sales within the time prescribed, to assess the value of goods sold by said defaulter, from the best information he could obtain, and to issue his warrant of distress for the amount of such assessment; held, that such arbitrary assessment was violative of private right, unauthorized by the State law, and unconstitutional."
+  },
+  "file_name": "0026-01",
+  "first_page_order": 38,
+  "last_page_order": 40
+}

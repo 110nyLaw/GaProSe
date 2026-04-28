@@ -1,0 +1,90 @@
+{
+  "id": 219153,
+  "name": "Howland, Ward & Spring vs. John I. Dews, ex'or of W. C. Butler",
+  "name_abbreviation": "Howland, Ward & Spring v. Dews",
+  "decision_date": "1833-05",
+  "docket_number": "",
+  "first_page": "383",
+  "last_page": "390",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 383"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "7 John. Rep. 161",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        369107
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/7/0161-01"
+      ]
+    },
+    {
+      "cite": "1 Cranch 309",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch",
+      "case_ids": [
+        12123191
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/5/0309-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 655,
+    "char_count": 15645,
+    "ocr_confidence": 0.492,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008707071338908176
+    },
+    "sha256": "d615fe45c2673248e2c4090c1f27d40ddd38b9bcfe0ac0ff3ce84ad10a9e3597",
+    "simhash": "1:033fe61786488911",
+    "word_count": 2792
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Howland, Ward & Spring vs. John I. Dews, ex\u2019or of W. C. Butler."
+    ],
+    "opinions": [
+      {
+        "text": "By 1AW, JTvtdge.\nIT appears from the evidence adduced upon the trial of this case; that W. C. Butler, being indebted to one Shaw, made and executed a bill of sale to him of all his stock in trade : that Butler remained in possession, and continued to sell and dispose of the goods : that a new set of hooks was opened in the name of Shaw : that shortly after, upon Shaw\u2019s leaving the State, he gave to Butler apower of attorney to act for him, in selling and disposing of the said goods. It further appeared that Butler was indebted to the defendant in a sum of money, for certain promissory notes of the defendant which he had loaned to Butler to raise money upon; or for liabilities by indorsement under which the defendant had come for him, Butler : that in consideration of this indebtedness on the part of Butler to Dews, an inventory or list of the articles in the store was taken and made out, and Butler, as the agent of Shaw, acknowledged by his receipt at the bottom of said inventory, to have received from the defendant, a certain sum of money in payment for the said articles. In other words, that Butler, as the agent of Shaw, conveyed the stock to Dews, to pay or secure the debt due from Butler to Dews, and which transaction was evidenced by the bill of parcels and receipt before stated. It also appeared that Butler remained in possession and continued to sell and dispose of the goods until the day before his death, on which day, whilst Butler was in extremis, Dews shut up the store; and subsequently to Butler's death, sold a part of the goods at private sale to a commercial firm in the city, and sent the balance to auctions where they were sold by his directions, and the proceeds paid to him.\nThe present action was brought by the plaintiffs who were creditors of Butler, against the defendant, as his executor. The defendant pleaded ne unques executor, and (among other pleas,) various outstanding debts due by Butler, of equal dignity with the plaintiffs\u2019. The Jury returned a verdict for the plaintiffs, and this motion is made for anew trial, upon various grounds, which I will now state and consider. 1st. It is said that the defendant took possession of the goods before the death of Butler, and was therefore only a trespasser and not liable to be charged as ex'or de son tort. In order to determine this point, our enquiry is directed to the effect of a possession, taken under a fraudulent conveyance as against creditors. It is conceded, that, when a man takes possession under colour of title, though he had failed to make out that title completely in every respect, yet he shall not be deemed ex\u2019or de son tort. Such was the doctrine affirmed by Lord Kenyon in Flemings vs. Jarratt, (1 Esp. Rep. 335,) where Peat the deceased had assigned a ship to Jarratt in consideration of engagements under which Jarratt had come on account of the ship, and under which assignment he claimed a lien, and took possession after Peat's death. Flemings had furnished sails for her, and thought to charge Jarratt, as ex\u2019or of Peat. Such were the facts in that case: But in the case of a gift or conveyance to defraud creditors, the rule established in England upon the 13 Eliz. C. 5, has been, to construe such gift or conveyance void as to creditors, and the debtor to have died in full possession, with respect to their claims. In 3 Bacon's Abridgment, (Fraud C. p. 314,) it is said, \u201c if a man make a deed of gift of his goods in his life time, by covin to oust, his creditors of their debts, yet after his death, the vendee shall be charged for them.\u201d Butter, J. in refering to this authority in Edwards vs. Harben, (2 Term, Rep. 597,) asks, \u201c in what manner shall he be charged ? He can only be charged as executor, because any intermeddling with the intestate\u2019s effects makes him so.\u201d In this case of Edwards vs. Harben, the facts were, W. J. Mercer was indebted to Harben, to secure which debt, he gave the bill of sale, with an understanding that the defendant, Harben, should enter upon the effects and sell them after the expiration of 14 days, in case the money should not be sooner paid. Mercer died within the 14 days and Harben entered and sold, and he was held liable, as ex\u2019or de son tort at the suit of the plaintiff, another creditor of Mercer. In the case of Hawes vs. Leader, (Cro. James 270,) it was ruled, that one who took possession of goods under a conveyance fraudulent as to creditors, was liable as an executor de son tort, and the same is ruled in Yelverton 197. In Shep. Touchstone 488, it is said, \u201c Where I take any of the deceased\u2019s goods into my hands by mistake, supposing them to be mine own, of under colour of title, as when I have a good deed of gift or sale of them, without any fraud or covin, such an intermeddling will not make a man chargeable as executor of his own wrong, neither may I be so charged in these cases.\u201d Thus it is most clear, according to the English authorities, that where possession is taken under a deed which is fraudulent as to creditors, the vendee is chargeable as ex\u2019or de son tort; and the latter authority shews most clearly the difference between such a conveyance and a colour of title free from fraud and covin. I remark further upon the authority of the case of Edwards and Harben, and the case of Hamilton vs. Russel, (1 Cranch 309,) by the Supreme Court of the United Slates, that under the statute 10 Eliz. C. 5, which is in affirmance of the common law, where an absolute conveyance of personal property is made and the vendor continues in possession, this is a circumstance which per se makes the conveyance fraudulent as to creditors. There has been, however, much diversity of opinion as to this. I have been referred in the argument, to the case of King vs. Lyman, reported in 1 Root\u2019s Rep. 104, in which it was held, in the State of Connecticut, that intermeddling with the goods of a deceased person, held by a bill of sale from the decedent, although it be fraudulent, will not make a man an executor in his own wrong. I have not been able to see the report of this case, and do not know the reasoning upon which the adjudication is based. It seems to me to be opposed by all the English cases, and there is a directly contrary decision in another State in the case of Dorsey vs. Smithson, reported in 6 Har. & John Rep. 61. It is thus, I think, most obvious, that if this conveyance was fraudulent as to creditors, and the possession of the property was taken after the death of Butler, the defendant would be liable, as executor de son tort. But it is urged, that the defendant took possession, by shutting up the store the day before Butler died. It will be observed in the citation from Bacon\u2019s Abr. that the possession was delivered to the vendee, (and yet he was chargeable,) and as Bullen, J. says, he. could only be charged as executor. In Edwards vs. Harben, possession*was delivered at the time the bill of sale was executed, by the delivery of one cork-screw in name of the whole. In the case of Osborne vs. Moss, (7 John. Rep. 161,) Osborne had recovered a judgment against the intestate in his lifetime, and obtained execution and caused the goods to be levied on by an officer, and gave notice of sale for a day certain. Before that day the intestate died. The sale took place, Osborne purchased the chattels, and the officer delivered them- to him. It nevertheless appearing that the judgment was fraudulently confessed to defeat creditors, it was held that Osborne might be sued as executor de son tort. In cases of bills of sale, the question of fraud for the most part, has turned upon the fact of a remaining possession in the vendor, inconsistent with the absolute character of the conveyance. And hence, to give effect to the construction upon the statute Eliz. which makes property so attempted to be conveyed, assets of the deceased vendor, as much as if no attempt to alien them had been made, the vendor may be charged if he takes possession after the decease of the vendor, as executor de son tort; and although a possession may have been taken, as in this instance, immediately before the death, yet the remaining possession in the vendor from the time of sale until the illness of the party, caused a resort to the act of shutting up the store, (as the remaining possession for 14 daj^s in Edwards and Harben,) would render the conveyance void as to creditors, and the subsequent intermeddling with the goods by sale private and at auction, and receiving the proceeds, would make the defendant liable to be charged as such executor. The principle is, that a fraudulent bill of sale as to creditors is void, and that any interference with the goods conveyed after the death of the vendor, will make the vendee chargeable. In these cases there can be no remedy in favour of the rightful executor or administrator, because the conveyance is good against grantor. It is the creditors only who can charge the vendor.\nThe second ground upon which this motion is placed is, that the property was not Butler's, his interest having been divested by his conveyance to Shaw. The law applicable to conveyances made to defraud creditors was fully stated to the Jury, and the construction placed upon our statute of 1818, (to prevent fraudulent assignment, &c. by which one creditor is preferred,) by the convention of Judges, in the case of Claghorn & Wood, plaintiffs in execution, and L. Lamb, claimant, was explained and given in charge to the Jury\u2014and I see no reason to be dissatisfied with the conclusion at which they arrived, upon the testimony, in relation to this transaction. The bill of sale to Shaw was introduced in evidence by the defendant as constituting a link, and in fact, the basis of his title ; and the Jury were compelled to decide directly upon the validity of Shaw's bill of sale, because if that had been good, the conveyance to the defendant by his agent would have protected him in this suit. The whole arrangement, therefore, as well the conveyance to Shaw, as that to Dews, must have been considered fraudulent in, regard to the other creditors of W. C. Butler.\nThe third ground maintains the proposition, that there cannot be an executor de son tort, when there is a rightful executor or administrator; and this is generally true, for in such cases any intermeddling makes the person a trespasser to such legal representative. But to this, there are exceptions, as where a stranger takes the deceased\u2019s goods and claiming to be executor, pays or receives debts, or pays legacies, or otherwise does those acts which none but an executor can do, in such case he becomes executor in his own wrong, though there be a rightful executor, or administration-has been duly granted. So where the intermeddling is before probate, or administration granted, he may be charged as executor de son tort. (5 Co. 33, 36. Salk. 313. 3 Bacon's Ab. 22.) The reason upon which the doctrine here contended for is based, will not hold where mere letters to collect have been granted. And the facts in the case shew, that the acts relied bn to constitute the defendant a wrongful executor, were done anterior to the grant of administration.\nThe fourth ground alleges the fact, that the defendant\u2019s plea of outstanding debts of equal dignity with the plaintiffs\u2019 demand, was not allowed. It contends that the verdict should have been for the plaintiffs, rateably with the debts of equal degree in the defendant\u2019s plea pleaded. An executor de son tort,'differs from a rightful executor only in this, that he can derive no benefit to himself from his wrongful act. He cannot charge commissions, he cannot maintain an action ; he cannot exercise the right of retainer. But in every other respect, he is considered and treated as executor, and all lawful acts which he does, or payments which he makes in a due course of administration, will be sustained and allowed him. The same form of action is used against him, he is not described as a wrongful executor, but simply alleged to be the executor ; he may be joined with the rightful executor in an action against them. He therefore, can plead any plea which a rightful executor may ; and this question could not have arisen but for the fact, that the defendant has filed a plea of ne unques Executor. (See the statute of Georgia, allowing as many different pleas to be joined as the party pleases.) And the effect of that plea, if found against him, is to make him liable to the plaintiffs\u2019 demand, however small the amount of assets in his hands, upon the ground, that it is a false plea within the knowledge of the party pleading it. It is said in the books that where the assets are very small and inconsiderable, and the debt large, relief may be had in equity. But in this case there was but one of the outstanding debts pleaded supported by evidence, thatwas a noteon which Butler wasindorser for $1000, and the assets found in defendant\u2019s hands, I think, was between $1500 and $2000. The form of the judgment upon the plea of ne unques executor found against him, is de bonis testatoris si vel non, de bonis propriis. How then could the defendant be benefited by a plea which would diminish the assets in his hands liable to the plaintiffs\u2019 demand, and by which his own property would be subjected? Or how can a new trial be granted upon this ground, when upon the pleading if found against the defendant, he would be liable to the plaintiffs\u2019 debt without regard to the amount of assets in his hands?\nWm. W. Gordon, for plaintiffs\u2014Millen & Charlton, for defendant.\nUpon the whole, having bestowed upon this case the most careful reflection, I am constrained by my apprehension of the principles of law applicable to it, to refuse the motion for a new trial.\nNew trial denied.",
+        "type": "majority",
+        "author": "By 1AW, JTvtdge."
+      }
+    ],
+    "attorneys": [
+      "Wm. W. Gordon, for plaintiffs\u2014Millen & Charlton, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Howland, Ward & Spring vs. John I. Dews, ex\u2019or of W. C. Butler.\nDebt.\nIt seems ,that where possession of goods is taken by a vendee, after the death of vendor, under a deed fraudulent as to creditors, the vendee is liable to the creditors of deceased vendor as executor de son tort.\nAnd where the vendor remained in possession of the goods after the execution of the deed, and the vendee took possession the day before the death of the vendor, and whilst he was in ex* tremis, and the Jury found by their verdict that such deed was fraudulent} held, that the vendee was chargeable to the creditors of deceased vendor as executor de son tort.\nBut it seems, in such case, that the vendee can only be charged at the suit of creditors of vendor and that his legal representative has no remedy.\nAnd it seems, that the vendee is not chargeable as executor de son tort, if he took possession under mistake, or without fraud.\nIf one takes possession of the goods of a deceased person, claiming to be executor, or does those acts wnich only an executor can do, he may be charged as executor de son tort, though there be a rightful executor or administrator.\nSo if the intermeddling he before probate, or grant of administration to rightful repiesentative.\nD. sued as executor of B., pleaded, 1st. \u201c Neunques executor ; 21y Outstanding debts of equal dignity with plaintiffs.\u201d The acts done by him having made him executor de son tort, and the Jury having therefore found the first plea against him } held, that having plead a plea false within his own knowledge, he was liable to plaintiffs\u2019 demand, however small the assets in his hands; that he was not entitled to reduce the plaintiffs\u2019 verdict against such assets, by proof of outstanding debts of equal dignity, and that the verdict of de lonis testaloris, si vel non de bonis propriis, for the whole of plaintiffs\u2019 demand, was proper."
+  },
+  "file_name": "0383-01",
+  "first_page_order": 395,
+  "last_page_order": 402
+}

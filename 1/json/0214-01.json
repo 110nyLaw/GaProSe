@@ -1,0 +1,88 @@
+{
+  "id": 219019,
+  "name": "Ex parte Worthington Gale",
+  "name_abbreviation": "Ex parte Gale",
+  "decision_date": "1822-08",
+  "docket_number": "",
+  "first_page": "214",
+  "last_page": "215",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 214"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "15 John. Rep. 229",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141005
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/15/0229-01"
+      ]
+    },
+    {
+      "cite": "16 John. Rep. 121",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        378180
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/16/0121-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 270,
+    "char_count": 3697,
+    "ocr_confidence": 0.511,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008702630925586782
+    },
+    "sha256": "a9c8bcf2ec18f92d75a1ab9a1d2d730677400257d01f1e22f471d82865c32a21",
+    "simhash": "1:92ba5f179f1005c1",
+    "word_count": 622
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Worthington Gale."
+    ],
+    "opinions": [
+      {
+        "text": "My CMULRI/TON, Judge.\nTHIS is an application for the writ of certiorari founded upon the facts stated in the following petition :\n\u201c The petition of Worthington Gale, sheweth, that your petitioner in the term of May 1822, was impleaded by Duhamel <$p Auze before William Belcher a Justice of the Peace for the County of Chatham, in two certain actions, founded upon an account of six thousand tiles, amounting to the sum of sixty dollars ; that the said Duhamel & Auze in order to bring the said account within the jurisdiction of a Justice\u2019s Court, divided the said account of sixty dollars into two accounts of $30 each, upon which the said two actions were instituted against your petitioner at one and the same time\u2014That in June term following the said actions came on to be tried before the said William Belcher, Esq., when your petitioner appeared and objected to the said proceedings as illegal\u2014notwithstanding the said William Belcher, Esq. Justice of the Peace, as aforesaid, did give judgment against your petitioner on the said two actions, for thirty dollars each\u2014that the said Duhamel dp Auze were allowed to prove their accounts generally by their own oaths, without first making oath in writing that they had no other evidence whereby the same could be established\u2014that your petitioner appealed to a Jury from the judgment of the said Wm. Belcher, Esq. which Jury was duly impannelled in the term of July last for the trial of said actions, when with the same illegal testimony before them, and notwithstanding your petitioner excepted to the same, they rendered verdicts against your petitioner for the sum of thirty dollars in each case\u2014all which actings and doings of the said William Belcher, Esq., and the Jury aforesaid, are contrary to the law, as your petitioner is advised and believes, regulating Justices\u2019 Courts within this State. Wherefore your petitioner prays, &c.\u201d\nBy no contrivance or subtlety, under the impression of abstract justice or equity in an inferior judicatory like a Magistrate\u2019s Court, can such subordinate tribunal be permitted to transcend the boundaries, within which it has been confined by the Constitution or laws of the State. It must look to the very letter of the Constitution and laws, from which authority is derived, and not indulge itself with any nice evasions of the limits to which it may be unequivocally restricted. A Magistrate bound to act within his district in civil cases, and no where else, cannot sustain a jurisdiction beyond thirty dollars, and such must be the entirety of the demand, as not to be susceptible of any division, for the purpose of giving jurisdiction, upon distinct citations to different terms. In this case, the continuity of the amount (if I may so express myself,) is broken, for the purpose of throwing the whole demand, at different terms within the jurisdiction of the Magistrate\u2019s Court. The summary justice of that Court, may under the arrangement be very acceptable to the suitor, but with very sincere respect for the probity and intelligence, of Justice Belcher, with whom I have the honor to be intimately acquainted, I must say there was error in his judgment, which I cannot suffer to be confirmed by the verdict of the Jury.\nIt is therefore ordered, that a writ of certiorari do issue as prayed for, and, that in the meantime, upon compliance with the requisitions of the act of Assembly, proceedings be stayed against the defendant.\nS. P. Willard vs. Sperry. (16 John. Rep. 121.) Smith vs. Jones, (15 John. Rep. 229.)\u2014(Ed.)",
+        "type": "majority",
+        "author": "My CMULRI/TON, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ex parte Worthington Gale.\nAn entire contract connot be divided for the purpose of maintaining several suits, and bringing them within the jurisdiction of a Magistrate,"
+  },
+  "file_name": "0214-01",
+  "first_page_order": 226,
+  "last_page_order": 227
+}

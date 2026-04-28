@@ -1,0 +1,61 @@
+{
+  "id": 218993,
+  "name": "John S. Coombs vs. Isaac Low & Co.",
+  "name_abbreviation": "Coombs v. Isaac Low & Co.",
+  "decision_date": "1834-05",
+  "docket_number": "",
+  "first_page": "395",
+  "last_page": "396",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 395"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 284,
+    "char_count": 3757,
+    "ocr_confidence": 0.507,
+    "sha256": "a91ad51dc3c2464371eaac8dd1dc75e2d879e98759099aede22c286dffb3ee17",
+    "simhash": "1:0e4e0275d297cc38",
+    "word_count": 669
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John S. Coombs vs. Isaac Low & Co."
+    ],
+    "opinions": [
+      {
+        "text": "E\u00edy JLAW, iiMge.\nIN this case a plea in abatement was filed for want of proper parties, alleging that a co-partner of the firm of Isaac Low <\u00a7\u2022 Go. had not been joined in the action. The plaintiff at the term at which the plea stood for trial, moved for, and obtained an order to amend his declaration,by adding the party suggested in the plea. The defendant now moves to set that order aside, as having been improvidently granted.\nIt is contended, that under the judiciary Act of Georgia of 1799, this amendment cannot be allowed. That statute simply declares, that no petition, or other proceeding, in any civil cause, shall be abated, for any defect in matter \u00f3f form, or any clerical mistake or omission, not affecting the real merits of the cause ; but the Court on motion, shall cause the same to be amended, without any additional costs, at the first term, &c. This statute prescribes as a right, and without terms, in cases of formal defects, what before was discretionary with the Court, and which might be allowed upon terms. But it is a provision applicable only to defects in form, and cannot be construed to divest the Courts of the common law right to amend in matters of substance, according to the discretion of the Court, and upon such terms as justice might seem to require. At common law then, amendments in all cases, are entirely in the discretion of the Court, and are allowed only in furtherance of justice. (See 2 Arch. Pr. 231. 7 Term. Rep. 699.) At common law the Court may amend in all cases, whilst the proceedings are in paper, that is, until judgment signed. (2 Burr 756. 1 Salk. 47. 2 Salk. 566. 3 Salk. 31.)\nJohn C. Nxcolx., forpl\u2019ff\u2014Wi. W. Gordon, for def\u2019ts.\nThe declaration maybe amended at common law in the title, in the venue, in the names of parties, and in the body of the declaration, in form or substance. And with the exception of penal actions, the Court will allow a new count to be added, upon payment of costs. (See 2 Arch. Pr. 235, 6, where the cases in support of these several particulars are collected.) The Court have entertained the application for an amendment in these respects, even after a plea in abatement for the mistake sought to be amended. (1 Str. 11. 3 Maule & Selwyn 450. 7 Term Rep. 698.) Tidd says, upon the authority of many cases collected, that the declaration may be amended, in form or in substance, even after a plea in abatement. .(1 Tidd\u2019s Prac. 653.) It will be seen by reference to some of the authorities cited, that the Courts have allowed amendments, under particular circumstances, after two terms had elapsed, after issue joined, and even after verdict, under peculiar circumstances. And the modern practice has certainly been more liberal in allowing amendments than formerly. The order to amend, was taken in this case, under peculiar circumstances. The plea was called for trial, and in the absence of defendant\u2019s counsel, was at the disposal of the counsel for the plaintiff,. The order was therefore taken without being opposed, and no terms were imposed. The present motion to set aside that order, is opposed upon the ground, that the defendant upon whom service was effected, resides in England, and has left this country ; that, consequently, if the suit abates, the plaintiff will have to go into a foreign Court to obtain his rights. It does appear to me, to be a case in which the amendment ought to be allowed. The motion to set aside the order granted, is therefore refused.\nBut see Casnard vs. Eve, et. al. Dudley's (Geo.) Rep. 108. (Ed.)",
+        "type": "majority",
+        "author": "E\u00edy JLAW, iiMge."
+      }
+    ],
+    "attorneys": [
+      "John C. Nxcolx., forpl\u2019ff\u2014Wi. W. Gordon, for def\u2019ts."
+    ],
+    "corrections": "",
+    "head_matter": "John S. Coombs vs. Isaac Low & Co.\nCase.\nA Court hag the discretion to allow a Writ to be amended, by the insertion of the name of a party, aa defendant, even after plea of abatement filed for the want of proper parties."
+  },
+  "file_name": "0395-01",
+  "first_page_order": 407,
+  "last_page_order": 408
+}

@@ -1,0 +1,128 @@
+{
+  "id": 219072,
+  "name": "Rogers vs. Bullen's Administratrix",
+  "name_abbreviation": "Rogers v. Bullen's Administratrix",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "196",
+  "last_page": "205",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 196"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Cranch. 117",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        6759562,
+        12121499
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/1/0117-01",
+        "/us/5/0117-01"
+      ]
+    },
+    {
+      "cite": "5 John. Rep. 163",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2131524
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/5/0163-01"
+      ]
+    },
+    {
+      "cite": "12 John. Rep. 395",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139267
+      ],
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0395-01"
+      ]
+    },
+    {
+      "cite": "1 Cranch. 116",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        6759525,
+        6759543
+      ],
+      "pin_cites": [
+        {
+          "page": "117"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/1/0116-01",
+        "/dc/1/0116-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 790,
+    "char_count": 21263,
+    "ocr_confidence": 0.512,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008704368478625588
+    },
+    "sha256": "945a7b9ff67f3b3239762a3207ea56659df3e21ae55b6099a7a85d93fbeadb46",
+    "simhash": "1:b3e3c7e80412f429",
+    "word_count": 3788
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Rogers vs. Bullen\u2019s Administratrix."
+    ],
+    "opinions": [
+      {
+        "text": "By \u20acMAK.lLilEl\u00aeW, Jiuadge.\nTHE administratrix of Bullen obtained a judgment against Luke Mann, and under a ji. fa. issued thereon, made the sum of $ , which sum being in the hands of the Sheriff of Bryan county, he was notified to hold the same subject to the order of the Court, on the application of this plaintiff, under an execution against the administratrix of Bullen. The money made on the execution against Mann, by consent lias been placed in the hands of William Davies, Esquire, for the convenience of the parties, (such is .the language of the statement submitted to me by Wayne and Cuyler,) subject to the order of the Couit.\nThis is a motion by Wayne and Cuyler, for an order directing the Sheriff of Bryan to pay over the money thus collected under the execution of Bullen\u2019s administratrix vs. Mann, in satisfaction of a judgment obtained by this plaintiff, Abner Rogers, against the administratrix of Bullen. William Craig, the assignee of this judgment and execution of Rogers against Bullen\u2019s administratrix, in the affidavit he has laid before me, in support of the motion of his attorneys, swears, \u201c that he has been diligently employed for several years past in seeking property to satisfy the above execution, that for this purpose he has employed counsel, that he has been unable to find any property of the defendant, or the estate of Bullen, liable to the same\u2014that he verily believes there is no property in this State which is liable to the above judgment and execution\u2014and that he has no reasonable prospect of the payment of said debt, unless the money in the hands of the Sheriff, be paid over on account of said judgment and execution.\u201d In aid of the motion, the counsel for the assignee has referred to 1 Dougl. 230. 1 Cranch. 116, 117. 12 John. Rep. 395, 320. Davies and Berrien, opposed to the motion, relied upon the cases in 4 East. 510: 9 East. 46: 5 John. Rep. 163. With these conflicting authorities before me, the point and question for my determination is\u2014can this Court, under the facts and circumstances submitted, direct the money made under the execution against Mann, to be paid over to this plaintiff? I shall place in review the authorities which have been cited on both sides, and endeavour to establish the principles and doctrines infused by them into the jurisprudence of Georgia. Cases of this complexion, must, I presume, have before occurred within this, or other districts of this State, but, as usual, I can find no recorded decision to guide me, and therefore must consider this as a case of the first impression, (at' least in this district)\u2014encumbered with all the difficulties which commonly associate themselves with an unadjudicated principle. The first case, in the order of those cited in support of the motion, is Armistead vs. Philpot. (1 Dougl. 230.) In that case, \u201c Kirby moved for a rule to shew cause, why the Sheriff of Middlesex should not retain in his hands, for the use of the plaintiff, a sum of money which he had levied for the present defendant, in anothei action in which he was plaintiff. The ground of the motion was, that the plaintiff had not been able to levy on the effects of the defendant to the amount of his demand.\u201d In all its features, this case is similar to the one before us. The motion was not opposed, \u201c only so far as that the attorney\u2019s bill in the cause in which the money had been levied, should be paid in the first instance.\u201d The rule was made absolute, (says the authority) with that qualification. Lord Mansfield said, \u201c he believed there were old cases where it had been held that the Sheriff could not take money in execution even though found in the defendant\u2019s scrutore, and that a quaint reason was given for it, viz. that money could not be sold. It is perfectly surprising that the Judges and bar of the Court of King\u2019s Bench, should, in the year 1779, agree, that the motion of Kirby was of the first impression: and that such slight illustration of the doctrine, should have been afforded by the learned Ch. Justice. The next case is that of Turner vs. Fendall. (1 Cranch. 117.) The opinion of the Court is delivered by Ch. Justice Marshal, a man not inferior to Lord Mansfield, or any other Judge who ever sat in Westminster Hall: at least that is the opinion formed by my humble intellect, and as an American citizen, I feel great pleasure and pride, in announcing it from this seat. In this case it is stated, that \u201c Turner had been sergeant of the town of Alexandria, and had returned on a writ of fieri facias, issued on a judgment rendered by the Court of Hustings, for that corporation, in favor of Philip Richard Fendall, that he had made the debt and levied thereon a writ of fieri facias, issued on a judgment obtained by William, Deneale, against Robert Young and Philip R. Fendall, merchants, trading under the firm of Robert Young <$\u2022 Co.\u2019\u2019 One of the errors assigned in the translation of this case to the Supreme Court, was, \u201c that the officer had a right to levy the execution of Deneale on the money of Philip R. Fendall, in his hands.\u201d The Ch. Justice says, (in 1801) \u201c the principle that an execution cannot be levied on money, has been argued to be maintainable, under the authority of adjudged cases. Yet, (continues he,) no such adjudged case has been adduced.\u201d The Ch. Justice adverts to the case of Armistead vs. Philpot in Douglass; to Rex vs. Webb, (2 Show. 166,) where it is decided, \u201c that by levari facias, the Sheriff may take ready moneyto Dalton\u2019s Sheriff) 145, where it is also stated in terms, that money may be taken in execution on a fieri facias, and Barnes\u2019 notes, 214, Staple vs. Bird, \u201c where a Sheriff had levied an execution on money in his hands, that he should, notwithstanding this execution, pay the money to the person entitied to the benefit of the first judgment.\u201d This case from Barnes is thus reported in his notes. \u201c Staple vs. Bird, Trin. 32 & 33, Geo. 2: defendant being arrested by capias ad satisfaciendum, 7th May, 1759, paid to Sheriff of Kent's bailiff 30l. 6s. 6d., the sum mentioned in the writ, which sum the bailiffimmediately sent to the under Sheriff in London ; on 10th of same month, May, Mr. Elihu Bridcoak, plaintiff\u2019s attorney, (to whom the judgment whereon said ca. sa. was issued, had been assigned by plaintiff,) demanded said money of the under Sheriff who excused himself, the ca. sa. not being then returnable. At the return the Sheriff returned, that he took defendant who paid into his hands said 30l. 6s. 6d., and that afterwards, and before the return, to wit. 11th May, a fi. fa. against the goods of Staple, the plaintiff in the ca. sa. advs. Bird, executor, &e.\u2014the defendant in the ca. sa. for 29l. 10s., was delivered to the Sheriff and that he levied the same out of the money in his hands, which with poundage exceeds the money received under the ca. sa. Upon this return, and an affidavit of the fact, Bridcoak applied to the Court, and obtained a rule for the Sheriff to shew cause why he should not pay him said 30l. 6s. 6d. deducting poundage, which rule was made absolute upon hearing counsel on both sides.\u201d I give this case at length, because the Ch. Justice of the United States has given a weight of authority which no other tribunal has bestowed upon it, and because it contributes to the establishment of his doctrine in the case of Turner vs. Fendall. Alluding to this case in Barnes, the Ch. Justice says: \u201cIt is true in that case, the person in whose name the judgment was rendered, was not entitled to the money received under it, but the case is not stated to have been decided on that principle, and the very frequency of such a state of things, furnishes an argument, of no inconsiderable weight, against the right to levy an execution on money so circumstanced.\u201d This case from Cranch establishes then the proposition, that \u201c money may be taken in execution, if in possession of the defendant;\u201d but says the Chief Justice, \u201c the question of greater difficulty is, whether it may be taken by the officer before it has been paid by the officer to the person entitled to receive it!\u201d The case decides that the Sheriff, before the return day of the execution, may pay the money over to the creditor: otherwise, the mandate of the writ to bring the money into Court must be obeyed, \u201c there to be disposed of as the Court may direct.\u201d \u201c This was done,\u201d (says the Ch. Justice,) \u201cin the case of Armistead vs. Philpot\u2014 and this ought to be done whenever the legal and equitable right to the money, is in the person, whose goods and chattels are liable to such execution.\u201d This case, adjudged by the Supreme Court of the United States, removes every doubt and difficulty as to the granting the application before me\u2014unless this case and its principles can be superseded 'and controlled by the authorities adverted to by my brother, Davies. The first in order, of these authorities, is the case of Fieldhouse vs. Croft. (4 East. 510.) It is thus reported. \u201c Wigley moved for a rule to shew cause, why the sum of 317l. 11s. 9d., belonging to the defendant, in the hands of the late Sheriff of Worcester, should not be paid over by him to the present plaintiff, which money was part of a balance of 9001. and upwards, in the late Sheriff\u2019s hands, over and above the sum levied by the same Sheriff under a prior execution\u2014and notice of this motion was given to the defendant, and to the late Sheriff. (The case then states the facts of the affidavit on which the rule was moved.) The plaintiff had recovered judgment for 3071. and costs, in February last, against the defendant, in another action in the Court of pleas in the city of Worcester, on which a writ of fieri facias issued to the Sergeants at Mace, who levied thereon 45l. 10s., and returned that the defendant had no other goods in the city. Whereupon the record being removed into this Court, another writ of fi. fa. issued to the present Sheriff of the county, but no other effects of the defendant could be found whereon to levy, than these in the hands of the. late Sheriff, which he had notice not to pay over. Wigley admitted that he could find no authority in print: but the case which came nearest was Armistead vs. Philpot, where a rule was made absolute, (though without resistance, except so far as regarded the lien of the attorney,) for staying in the Sheriff\u2019s hands for the use of the plaintiff in that action, money, which the Sheriff had levied for the use of the defendant in another action, in which he was plaintiff\u2014Lord Ellenborov gh, C. J.\u2014\u201cThe question comes to this, whether a plaintiff can have execution of money belonging to the defendant in the hands of a third person ? This is a motion of the first impression, and shall not have its first effect from me. It was the duty of the late Sheriff, if he took in execution more than was necessary to satisfy the former execution with which he was charged, to pay over the surplus immediately to the defendant\u2014 per curiam, rule refused.\u201d\nIt will be perceived, that the Court takes no notice of the case of Armistead vs. PMlpot, or any of the more ancient cases which decide that money may, or may not be taken in execution. This was a determination of the Court of King\u2019s Bench in 1804, and Lord Ellenborough says, it is a motion of the first impression, as had been also previously said by the bar and Court of King\u2019s Bench in 1779, consequently the cases in Shower, Dalton\u2019s Sheriff, and Barnes, must be considered as no authorities for the principle, that money may be taken in execution on &fi,fa., and that no combination of circumstances similar to these of Armistead vs. PMlpot, or the case now before me, could legally justify the direction given in Armistead vs. PMlpot, or by the Supreme Court in Turner vs. Fendall. The next case referred to by Davies and Berrien, was Knight vs. Griddle. (9 East. 48.) I shall also give that case as I find it reported. \u201c The present defendant had recovered judgment and sued out execution against one S. II. for his debt and costs ; and in discharge of that execution, S. H. paid into the hands of the Sheriff of Hantz, 60l. in Bank notes; and before that money was paid over, the present plaintiff recovered judgment, and sued out his writ of fi. fa. for 33l. 10s., debt and costs against the defendant, which was delivered to the same Sheriff, and now upon an affidavit of these facts by the Sheriff\u2019s officer, and that he had in pursuance of the Sheriff\u2019s warrant levied the debt and costs in this cause out of the 60l in Bank notes, remaining in the Sheriff\u2019s hands, and that he could not find any other goods and chattels of the defendant, whereof to levy the said debt and costs. Gaselee moved for a rule to shew cause why the Sheriff, Hants, should not pay over to the plaintiff the amount of his debt and costs in this cause, out of the sum received by him on account of the defendant as before mentioned, and in the meantime retain the sum in his hands, and he cited Armistead vs. Phil-pot, where a similar rule was made absolute without opposition, except so far as to secure the attorney\u2019s lien for his bill. But by Lord Ellenborough, C. J.: \u201cwe cannot force the defendant to come here to shew cause against a rule founded on the assumption that money (and Bank notes for this purpose are the same,) may be taken in execution. It is an innovation on the law, which ought not to be admitted. The case from Douglass was by consent. The other Judges concurred in refusing to grant a rule to shew cause-\u201d Gaselee does not advert to the case in 4 East, decided in 1804, but invokes, as did Wigley in that case, Armistead vs. Philpot. This case of Knight vs. Criddle, decided in 1807, notices none of the ancient cases, pays no respect to the case of Armistead vs. Philpot, because it was by consent\u2014and states the English law always to have been, that money could not be taken in execution, nor could any direction be given by the Court as is contained in the case from Douglass\u2014unless I presume, as in that case, by consent. It results that if the judgment of the Supreme Court of the United States is founded upon the supposed doctrine and principles of English Law, and was particularly influenced by Armistead vs. Philpot, I hope, informed as I am, by the cases in East, that the law of England was not contained in the cases relied upon by the Chief Justice Marshall, and that any British authority which announced that money could be taken in execution, or that the Court could direct it to be paid over under the facts and circumstances of Armistead vs. Philpot, and Turner vs. Fendall, was \u201c an innovation on the law which ought not to be admitted,\u201d\u2014I hope, I say, that thus informed, I would not incur the imputation of presumption or temerity in declaring, that the law of the Supreme Court in Turner vs. Fendall, was not the law of Georgia. But Chief Justice Marshall in delivering the opinion of the Supreme Court, approves of what rvas done in Armistead vs. Philpot, and without reference to any binding authority of that case, or any other British adjudication, decides that what was done in that case, on principle, \u201c ought to be done whenever the legal and equitable right to the money is in the person whose goods and chattels are liable-to such execution.\u201d And without declaring it as a conclusion from British authorities, he also announces as the opinion of the Court, \u201c that money may be taken in execution if in the possession of the defendant,\u201d and in another part of the opinion, says, \u201c the Court can see no reason in the nature of the thing, why an execution should not be levied on money. That given in the books, viz. that it cannot be sold, seems not to be a good one. The reason of a sale is, that money only will satisfy the execution, and if any thing else be taken, it must be turned into money ; but surely that the means of converting the thing into money need not be used, can be no adequate reason for refusing to take the very article, to produce which is the sole object of the execution.\u201d On principle then, and according to the nature and fitness of things, the propositions are settled by a decision of the Supreme Court of the United States, (to which I bow with submission,) 1. That money maybe taken in execution. 2. And that where money is made on the execution of A. (and in the hands of the Sheriff) who afterwards becomes defendant at the suit of B. if A. has \u201c an equitable and legal right to the money,\u201d the Court has power, and ought to direct the Sheriff to pay the money in satisfaction of B\u2019s execution.\u2014But admitting this to be the law of this country, in opposition to English decisions, still it is contended by Mr. Davies, that the Court ought not under the circumstances of the case before it, grant the motion, because, there may be interfering and conflicting claims of the administration to prevent: and he relies upon the case of Williams vs. Rogers,and Ross against the Same reported in 5 Johns, p. 163, which shews, that the Court will not grant a motion like that now submitted, where there are conflicting claims or equitable rights of parties to be ascertained. The case cited is a decision of the Supreme Court of the State ofNew-York in 1809\u2014and on the point urged by Mr. Davies, the substance of the decision is thus mentioned in the marginal reference. \u201cThis Court will not order a Sheriff, who has overplus money in his hands, arising from an execution, to pay it over to a plaintiff on a subsequent execution against the same defendant; especially in a case, where an assignee of the first judgment, and who was a purchaser at the Sheriff\u2019s sale, claimed the surplus moneys,\u2014and the equitable rights of the parties were not clearly ascertained, though they might, perhaps, in a cause where the rights of the parties were clear, and there was no other means of satisfying the plaintifFin the second execution.\u201d In this case the interposing and conflicting claims of the parties appeared from respective statements and affidavits, which induced the Court to say: \u201cas the precise extent of the equitable rights of the claimant to the overplus moneys cannot be ascertained, the Court decline to make any rule on the subject. The Court of Chancery, has more means, and can procure more light in adjusting the equity ofthe interfering claims.\u201d\u2014Buthow extremely dissimilar is the case before me. No conflicting or interfering claim by the administratrix is presented requiring this or a chancery jurisdiction to ascertain or adjust it. No plea was filed to the suit of this plaintiff by which I could be placed in pursuit of any legal or equitable right of the administration, or any other party which would by ulterior investigation defeat the application of the moneys, made under the execution against Mann, to the satisfaction of this plaintiff\u2019s judgment. Years roll away. The assignee of the judgment swears, that during these years, or for years past, he has been endeavoring to trace other property of Bullen, without success, and during all this time, neither the administratrix nor any other party, interposes any claim or pretension by which this money could not be considered as assets liable to Rogers\u2019 judgment, now, or quando acciderint. Then in the absence of all matter of record, or any right legally or equitably exhibited by the administratrix, by means of which she might subs tract this money as assets of the estate of. Bullen, I am required on the oral suggestion of counsel that such claim may be exhibited, or such right may be in existence, because the contrary does not appear, I am required, I say, upon such suggestion patiently to wait for its interposition, after this crass\u00ae negligencia of the administratrix, and that too, without any assurance of which I could take official cognizance, that such claim will ever appear. I cannot persuade myself, that upon any principle of law or equity, under the circumstances of this case, I would be justified in withholding from the assignee of this judgment, his immediate right (it being the eldest judgment against the estate of Bullen) to receive this money from the Sheriff of Bryan, or from the gentleman in whose hands it is placed for the convenience of all parties.\nWayne & Cuyeer, for the motion\u2014Davies & Berrien, contra.\nIt is therefore ordered, that the amount of the proceeds of the judgment against Luke Mann at the suit of the administratrix of Bullen, or so much as will in part, or the whole, satisfy the judgment of Abner Rogers against said administratrix be paid over by said William Davies, Esquire, to the attorney of the plaintiff of record or to his order.",
+        "type": "majority",
+        "author": "By \u20acMAK.lLilEl\u00aeW, Jiuadge."
+      }
+    ],
+    "attorneys": [
+      "Wayne & Cuyeer, for the motion\u2014Davies & Berrien, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Rogers vs. Bullen\u2019s Administratrix.\nMoney may be taken in execution, if in possession of defendant.\nWhere money is made by a Sheriff at the suit of A. who has a legal or equitable claim to it, the Court, on the return of the writ, will, on motion, direct the Sheriff to pay the money oyer to an execution against A.\nAnd when such money was made at the suit of A., as administrator of B., the Court will direct it to be paid over to an execution against A., as administrator of B., where it appears to bo the eldest j udgment against the estate of B., and no interfering or conflicting claims by administrator or other parties are shewn to exist."
+  },
+  "file_name": "0196-01",
+  "first_page_order": 208,
+  "last_page_order": 217
+}

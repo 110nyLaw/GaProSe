@@ -1,0 +1,61 @@
+{
+  "id": 219090,
+  "name": "The State vs. Matthew Simpson",
+  "name_abbreviation": "State v. Simpson",
+  "decision_date": "1822-01",
+  "docket_number": "",
+  "first_page": "122",
+  "last_page": "124",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 122"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 4725,
+    "ocr_confidence": 0.503,
+    "sha256": "233ef15f444fede31c9feec3a40ae49ac980f772df74fa40eafe0aced3e8c60e",
+    "simhash": "1:1827db1e4e4e11e1",
+    "word_count": 815
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Matthew Simpson."
+    ],
+    "opinions": [
+      {
+        "text": "\u00ae8y CMAM1.WM, .Judge.\nIT appears from the return to this habeas corpus, that the prisoner, Matthew Simpson, was confined in the common prison of Chatham county, by process issuing from the Court of Common Pleas and of Oyer and Terminer of the City of Savannah ; that application was made by him for the benefit of the Insolvent Acts ; that fraud being suggested, and an issue made up, and tried thereon, the Jury returned a verdict of \u201c Guilty,\u201d in consequence of which, the defendant was remanded.\nHe is now brought up before me by writ of habeas corpus, and D'Lyon, his counsel, moves for his discharge, upon the grounds, that the jail fees have not been paid, and that the creditors, or the principal creditors, under whose process he is still confined, consent to his discharge, upon the conditions, that they shall not be made liable for expenses, costs and charges incurred: and that they, the creditors, (Cumming and Gwathmey,) are permitted to reserve to themselves the right of taking judgment against the prisoner, on a suit pending, and to be determined in January next. Gordon and Pooler, attorneys for creditors, also expressed a willingness for the discharge of prisoner, provided it can be effected, upon legal principles. I have to observe, that this expression of willingness for the discharge of the prisoner, with its restrictions, amounts to nothing; for in confining the Court to legal principles, it leaves no room for the exercise of the humanity of this Court, or the creditors. If the case is to be decided upon legal principles, it is to be decided as all other cases are, or should be decided; and if the creditors feel commiseration for, and a disposition to set the prisoner free, the illustration of their mercy through me, must have no conditions imposed. I can only then advert to the motion of prisoner\u2019s attorney, founded on the non-payment of jail fees, as expressed in the return of the Jailer to this writ. On the discharge of an insolvent debtor, the true exposition of the Act of the Genera] Assembly of 1801, is, that the fees of confinement are to be paid out of the debtor\u2019s property, placed by assignment, in the hands of the trustee or trustees, for the benefit of all the creditors. The last section of the Act, must contemplate and intend, a payment of fees by the person, at whose instance such insolvent person is confined, where the debtor exhibits no schedule, or surrenders no property, out of which the fees can be paid.. In this case, the debtor failed in his application for the benefit of the Insolvent Acts, and he was remanded under a verdict of a Jury, that he had been guilty of fraud. The effect of this species of imprisonment, in relation to the payment of jail fees, is then the only subject for consideration, on this motion for the discharge of the prisoner. The prisoner is now placed in a situation, which deprives him of any further application for the benefit of insolvency; and the result is, that his confinement must be continued until his debts are discharged, or a spunge put upon them, by the unqualified consent of his creditors. This confinement, is not however, to be considered as a punishment inflicted on a criminal conviction. It is a continuation of the confinement under civil process, and cannot assume the aspect of a crime, technically viewed, in any one of its advances. The onus of jail fees, does not therefore fall upon the pub-lie. The creditors, at whose suits the prisoner is confined, are now responsible for his fees : and his imprisonment, will become illegal, so soon as those creditors refuse to discharge them. These fees, I think, are still paid over to the corporation of Savannah, or accounted for to that body, by the Jailer. If so, a demand made of fees by the Recorder, on the creditors, and a signification of refusal to pay them, through Mm, will entitle the prisoner to his discharge, and it will be granted by this Court, under its present impressions of the law.\nD\u2019Lyon, for prisoner\u2014Gordon & Pooler, for creditors.",
+        "type": "majority",
+        "author": "\u00ae8y CMAM1.WM, .Judge."
+      }
+    ],
+    "attorneys": [
+      "D\u2019Lyon, for prisoner\u2014Gordon & Pooler, for creditors."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Matthew Simpson.\nHabeas Corpus.\nWhere an insolvent debtor is discharged in the manner prescribed by the laws of Georgia, the fees of confinement must be paid out of the debtor\u2019s property, which he has assigned for the benefit of the creditors.\nIf there is no such fund, the fees must be paid by the committing creditor.\nThe confinement of an insolvent debtor, convicted of fraudulent practices, under the insolvent laws of Georgia, is merely a continuation of the confinement under civil process ; it is nota punishment inflicted for a crime.\nIf the creditors at whose instance such debtor so convicted, is confined, refuse to pay his jail fees, he will be ontitled to his discharge."
+  },
+  "file_name": "0122-01",
+  "first_page_order": 134,
+  "last_page_order": 136
+}

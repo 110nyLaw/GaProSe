@@ -1,0 +1,5289 @@
+[
+  {
+    "id": 219062,
+    "name": "The State vs. Doon and Dimond",
+    "name_abbreviation": "State v. Doon",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "1",
+    "last_page": "4",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 1"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 357,
+      "char_count": 5683,
+      "ocr_confidence": 0.483,
+      "sha256": "7ef3868937789579011aba93b30725cfddb3be98963015e938d01fac98bd380f",
+      "simhash": "1:73a9d814478476c1",
+      "word_count": 1009
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0001-01",
+    "first_page_order": 13,
+    "last_page_order": 16
+  },
+  {
+    "id": 219151,
+    "name": "The State vs. James Worth",
+    "name_abbreviation": "State v. Worth",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "5",
+    "last_page": "5",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 5"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 111,
+      "char_count": 1264,
+      "ocr_confidence": 0.517,
+      "sha256": "b6cc8a2792570477cd211d3110d01f32c022b02bb73e16fe6cee3b1c86d07892",
+      "simhash": "1:3ec8c57c7b84b315",
+      "word_count": 228
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0005-01",
+    "first_page_order": 17,
+    "last_page_order": 17
+  },
+  {
+    "id": 219146,
+    "name": "Welman et : ux: vs. Ruth Armour, Administrator",
+    "name_abbreviation": "Welman v. Armour",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "6",
+    "last_page": "6",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 6"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 117,
+      "char_count": 1609,
+      "ocr_confidence": 0.501,
+      "sha256": "3aadda9eb87b4dcc16bfc87d2b254655801a3bb25bfb9bac13c857a92c915b23",
+      "simhash": "1:4bef3519fbba77c9",
+      "word_count": 271
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0006-01",
+    "first_page_order": 18,
+    "last_page_order": 18
+  },
+  {
+    "id": 219092,
+    "name": "Executors Levi Sheftall vs. Administrators Joseph Clay",
+    "name_abbreviation": "Sheftall v. Clay",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "7",
+    "last_page": "12",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 7"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 537,
+      "char_count": 11504,
+      "ocr_confidence": 0.509,
+      "sha256": "090c7ccaa3ef2f1e094657a10968c31ba3a3d70b842fec8006bc8688b0e00186",
+      "simhash": "1:e8193fbb12819d78",
+      "word_count": 2049
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0007-01",
+    "first_page_order": 19,
+    "last_page_order": 24
+  },
+  {
+    "id": 219048,
+    "name": "Wakefield, Surv'r. vs. William Limbert",
+    "name_abbreviation": "Wakefield v. Limbert",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "13",
+    "last_page": "14",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 13"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 212,
+      "char_count": 3172,
+      "ocr_confidence": 0.497,
+      "sha256": "d0c94fb5ba138dcfac7a6ddd24c5a70dd903f9dfff7183966f9997a2ba5138a5",
+      "simhash": "1:2c93a46160559d70",
+      "word_count": 537
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0013-01",
+    "first_page_order": 25,
+    "last_page_order": 26
+  },
+  {
+    "id": 218998,
+    "name": "Executrix Wiggins, vs. Administrator Norton",
+    "name_abbreviation": "Wiggins v. Norton",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "15",
+    "last_page": "16",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 15"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 226,
+      "char_count": 3429,
+      "ocr_confidence": 0.493,
+      "sha256": "562917c5fb6c9e14c6d7d61d0bce4669f7d4e71f0be4c0e4453736e023a1c94b",
+      "simhash": "1:31a5054bc6510e48",
+      "word_count": 602
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0015-01",
+    "first_page_order": 27,
+    "last_page_order": 28
+  },
+  {
+    "id": 219087,
+    "name": "Oliver Sturges and Theodore A. Schoedde, Appellants, vs. Gardner Tufts",
+    "name_abbreviation": "Sturges v. Tufts",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "17",
+    "last_page": "18",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 17"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 146,
+      "char_count": 2050,
+      "ocr_confidence": 0.433,
+      "sha256": "de186d26d6ccdb5898d99ed2aa7440001868966446d20714969fe8f7947e31f8",
+      "simhash": "1:ca81d393eaa06c1c",
+      "word_count": 340
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0017-01",
+    "first_page_order": 29,
+    "last_page_order": 30
+  },
+  {
+    "id": 219075,
+    "name": "John H. Morel vs. Walter Roe; P. H. Morel, vs. Same",
+    "name_abbreviation": "Morel v. Roe",
+    "decision_date": "1811-01",
+    "docket_number": "",
+    "first_page": "19",
+    "last_page": "22",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 19"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 412,
+      "char_count": 7002,
+      "ocr_confidence": 0.458,
+      "sha256": "07b46b7b660a2078895f934c115239340f8ee414b7c7faa6881effac262287ed",
+      "simhash": "1:4035b299f23aa78e",
+      "word_count": 1262
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0019-01",
+    "first_page_order": 31,
+    "last_page_order": 34
+  },
+  {
+    "id": 219125,
+    "name": "Aaron Forbes vs. Executor of P. H. Morel",
+    "name_abbreviation": "Forbes v. Morel",
+    "decision_date": "1816-01",
+    "docket_number": "",
+    "first_page": "23",
+    "last_page": "25",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 23"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 325,
+      "char_count": 5140,
+      "ocr_confidence": 0.471,
+      "sha256": "63dfc7f35ee1e4ee7f2b0b721ace43f6588abeecf30b271f9c99f1138ce8fe55",
+      "simhash": "1:2e079ce5ae24a4cb",
+      "word_count": 872
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0023-01",
+    "first_page_order": 35,
+    "last_page_order": 37
+  },
+  {
+    "id": 219123,
+    "name": "Joseph Cumming, Plaintiff, in Certiorari, vs. The Mayor and Aldermen of Savannah",
+    "name_abbreviation": "Cumming v. Mayor of Savannah",
+    "decision_date": "1816-05",
+    "docket_number": "",
+    "first_page": "26",
+    "last_page": "28",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 26"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 282,
+      "char_count": 4677,
+      "ocr_confidence": 0.451,
+      "sha256": "bc570414171c3afa112b6dbfa75250ca577f9f3665be782fa977f02fd5592a20",
+      "simhash": "1:17c927d175a84b52",
+      "word_count": 811
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0026-01",
+    "first_page_order": 38,
+    "last_page_order": 40
+  },
+  {
+    "id": 219064,
+    "name": "Planters' Bank of the State of Georgia vs. Griffin L. Lamkin, and others",
+    "name_abbreviation": "Planters' Bank v. Lamkin",
+    "decision_date": "1816-05",
+    "docket_number": "",
+    "first_page": "29",
+    "last_page": "35",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 29"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 575,
+      "char_count": 14632,
+      "ocr_confidence": 0.472,
+      "sha256": "2208b1b0140a5d3c6404c95b6e8ac29fad351ce53fa5404d82ffd3e942352581",
+      "simhash": "1:ca55096298048ddc",
+      "word_count": 2553
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0029-01",
+    "first_page_order": 41,
+    "last_page_order": 47
+  },
+  {
+    "id": 218984,
+    "name": "John H. Deubell vs. C. H. Fisher, Administrator",
+    "name_abbreviation": "Deubell v. Fisher",
+    "decision_date": "1819-03",
+    "docket_number": "",
+    "first_page": "36",
+    "last_page": "37",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 36"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 213,
+      "char_count": 2937,
+      "ocr_confidence": 0.487,
+      "sha256": "6958486c7fcef2fd28768a148ee4991195c10304413f89582f52649f41913e2d",
+      "simhash": "1:08364d28fc0524b9",
+      "word_count": 484
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0036-01",
+    "first_page_order": 48,
+    "last_page_order": 49
+  },
+  {
+    "id": 219032,
+    "name": "Simon Jackson vs. Joseph Soude, by P. P. Thomasson, his Guardian",
+    "name_abbreviation": "Jackson v. Soude",
+    "decision_date": "1819-03",
+    "docket_number": "",
+    "first_page": "38",
+    "last_page": "41",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 38"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "10 Serg. & Rawl. 14",
+        "category": "reporters:state",
+        "reporter": "Serg. & Rawle",
+        "case_ids": [
+          1811156
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/serg-rawl/10/0014-01"
+        ]
+      },
+      {
+        "cite": "5 Rand. 31",
+        "category": "reporters:state",
+        "reporter": "Rand.",
+        "case_ids": [
+          6732299
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/va/26/0313-01"
+        ]
+      },
+      {
+        "cite": "3 Wash. C. C. Rep. 440",
+        "category": "reporters:federal",
+        "reporter": "Wash. C. C.",
+        "case_ids": [
+          6129966
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-cas/28/0754-02"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 389,
+      "char_count": 6412,
+      "ocr_confidence": 0.464,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008703017048484293
+      },
+      "sha256": "66d294c6eeb7d01271190004d45e09ace1095d29091614cf6412874d154bda70",
+      "simhash": "1:0a00583e578aad36",
+      "word_count": 1124
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0038-01",
+    "first_page_order": 50,
+    "last_page_order": 53
+  },
+  {
+    "id": 219098,
+    "name": "James Moss vs. John Wood",
+    "name_abbreviation": "Moss v. Wood",
+    "decision_date": "1819-03",
+    "docket_number": "",
+    "first_page": "41",
+    "last_page": "47",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 42"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Gallison 348",
+        "category": "reporters:federal",
+        "reporter": "Gall.",
+        "case_ids": [
+          6631481
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-cas/24/0868-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 560,
+      "char_count": 11784,
+      "ocr_confidence": 0.472,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.0087047546015231
+      },
+      "sha256": "ae52617329620b9f11e5414e05e563da96c73a826501611cde437630545d29ce",
+      "simhash": "1:db812d2c3d26dd47",
+      "word_count": 2069
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0041-01",
+    "first_page_order": 53,
+    "last_page_order": 59
+  },
+  {
+    "id": 219012,
+    "name": "The State vs. John C. Helvenston, et. al.",
+    "name_abbreviation": "State v. Helvenston",
+    "decision_date": "1820-05",
+    "docket_number": "",
+    "first_page": "48",
+    "last_page": "50",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 48"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 372,
+      "char_count": 5377,
+      "ocr_confidence": 0.474,
+      "sha256": "2d0c39f3ba702be02086a890f61ec4d39075236e492fffe88706af4ea8a31b68",
+      "simhash": "1:44ee648c0b873d21",
+      "word_count": 912
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0048-01",
+    "first_page_order": 60,
+    "last_page_order": 62
+  },
+  {
+    "id": 219057,
+    "name": "John G. Wendell vs. Joseph George",
+    "name_abbreviation": "Wendell v. George",
+    "decision_date": "1820-06",
+    "docket_number": "",
+    "first_page": "51",
+    "last_page": "52",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 51"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 268,
+      "char_count": 3912,
+      "ocr_confidence": 0.479,
+      "sha256": "dc64027c5540e481b486f98dca238b642cd419dfd6fbdd2fd54ba0dafc3287e2",
+      "simhash": "1:ac9b5eeeba862c72",
+      "word_count": 685
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0051-01",
+    "first_page_order": 63,
+    "last_page_order": 64
+  },
+  {
+    "id": 219040,
+    "name": "Richardson and Bolton vs. Joshua E. White",
+    "name_abbreviation": "Richardson v. White",
+    "decision_date": "1820-06",
+    "docket_number": "",
+    "first_page": "53",
+    "last_page": "55",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 53"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 268,
+      "char_count": 4820,
+      "ocr_confidence": 0.484,
+      "sha256": "c4d29c56a384b745af1373b97021cced2427f58025c51a67b59610fd6cb64541",
+      "simhash": "1:0d53f2501d46e29a",
+      "word_count": 819
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0053-01",
+    "first_page_order": 65,
+    "last_page_order": 67
+  },
+  {
+    "id": 219000,
+    "name": "G. F. and O. Palmes vs. William Stephens; F. Densler vs. Same; Joshua E. White & Co. vs. William Stephens",
+    "name_abbreviation": "Palmes v. Stephens",
+    "decision_date": "1821-03",
+    "docket_number": "",
+    "first_page": "56",
+    "last_page": "59",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 56"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 398,
+      "char_count": 6499,
+      "ocr_confidence": 0.523,
+      "sha256": "1f5a1465499ba04b70d4e31f8f8188840d76a424f6cb13a8817ad472ba0418ce",
+      "simhash": "1:534c253446e8e43f",
+      "word_count": 1111
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0056-01",
+    "first_page_order": 68,
+    "last_page_order": 71
+  },
+  {
+    "id": 219002,
+    "name": "William Rabun, Governor, for the use of Taylor, Tax Collector, vs. Fowler and others",
+    "name_abbreviation": "Rabun ex rel. Taylor v. Fowler",
+    "decision_date": "1821-04",
+    "docket_number": "",
+    "first_page": "60",
+    "last_page": "69",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 60"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Binn. 234",
+        "category": "reporters:state",
+        "reporter": "Binn.",
+        "case_ids": [
+          1788981
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/binn/2/0234-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 874,
+      "char_count": 18466,
+      "ocr_confidence": 0.497,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008702051741240512
+      },
+      "sha256": "83df2e809897299c8d88ef2a99bfb14bbb90ca6b00efe90f3e05a7d951e34600",
+      "simhash": "1:7c84ee3e77b04238",
+      "word_count": 3121
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0060-01",
+    "first_page_order": 72,
+    "last_page_order": 81
+  },
+  {
+    "id": 218991,
+    "name": "Peter F. Winn vs. Jesse Ham, and Morgan Mara",
+    "name_abbreviation": "Winn v. Ham",
+    "decision_date": "1821-04",
+    "docket_number": "",
+    "first_page": "70",
+    "last_page": "76",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 70"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 703,
+      "char_count": 14077,
+      "ocr_confidence": 0.495,
+      "sha256": "104b01be1c18c51b28c0d5a54239a5787257a3e748613f04210e5f4a1ce61181",
+      "simhash": "1:bfe8e3c6f24d01bf",
+      "word_count": 2377
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0070-01",
+    "first_page_order": 82,
+    "last_page_order": 88
+  },
+  {
+    "id": 219070,
+    "name": "Ex parte, Stebbins & Mason",
+    "name_abbreviation": "Ex parte Stebbins & Mason",
+    "decision_date": "1821-04",
+    "docket_number": "",
+    "first_page": "77",
+    "last_page": "79",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 77"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 334,
+      "char_count": 5411,
+      "ocr_confidence": 0.499,
+      "sha256": "3a4378086245a74d0277376ec634fbd6d04880b657b0cc03813a9f902a080a73",
+      "simhash": "1:72af0a97e4154b01",
+      "word_count": 909
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0077-01",
+    "first_page_order": 89,
+    "last_page_order": 91
+  },
+  {
+    "id": 219149,
+    "name": "The State vs. John Thompson",
+    "name_abbreviation": "State v. Thompson",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "80",
+    "last_page": "83",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 80"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 373,
+      "char_count": 7592,
+      "ocr_confidence": 0.496,
+      "sha256": "1f3097381520dc64ca8812ca935b74794a74f53a5769e8cd4c926dc7917bcb4c",
+      "simhash": "1:dfb466588c1c73d0",
+      "word_count": 1327
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0080-01",
+    "first_page_order": 92,
+    "last_page_order": 95
+  },
+  {
+    "id": 219060,
+    "name": "The State vs. John Maloney",
+    "name_abbreviation": "State v. Maloney",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "84",
+    "last_page": "85",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 84"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 198,
+      "char_count": 3139,
+      "ocr_confidence": 0.471,
+      "sha256": "7419e19e392392cdd3b7aedf753b579f90e4f20a1b7dfd18d3b56dc7194f9f9c",
+      "simhash": "1:2af8469ee315b284",
+      "word_count": 537
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0084-01",
+    "first_page_order": 96,
+    "last_page_order": 97
+  },
+  {
+    "id": 219148,
+    "name": "P. J. Valloton vs. John Gardner",
+    "name_abbreviation": "Valloton v. Gardner",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "86",
+    "last_page": "89",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 86"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 392,
+      "char_count": 6903,
+      "ocr_confidence": 0.491,
+      "sha256": "d23b72136e754a9d1059471eb4ff68d6f7ec9183f8c677ce6538bb50d34182e8",
+      "simhash": "1:db54e11c1e25fca4",
+      "word_count": 1221
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0086-01",
+    "first_page_order": 98,
+    "last_page_order": 101
+  },
+  {
+    "id": 219013,
+    "name": "Simons vs. Sheftall",
+    "name_abbreviation": "Simons v. Sheftall",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "90",
+    "last_page": "92",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 90"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 338,
+      "char_count": 5153,
+      "ocr_confidence": 0.499,
+      "sha256": "e0e76aec835986b8b343dbfb8204dc51860f6d0b8e2dbb711c818020756431ac",
+      "simhash": "1:a4a4f6a159adcbdd",
+      "word_count": 886
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0090-01",
+    "first_page_order": 102,
+    "last_page_order": 104
+  },
+  {
+    "id": 219034,
+    "name": "Matthew Albritton and another vs. Bird Executor of Bulloch",
+    "name_abbreviation": "Albritton v. Bird Executor",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "93",
+    "last_page": "98",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 93"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 579,
+      "char_count": 11044,
+      "ocr_confidence": 0.508,
+      "sha256": "1125d57dbcca4c595b54920dacfcff0799281842dbffc52f4b0cfeccdd057824",
+      "simhash": "1:3b6b11b2b7abd148",
+      "word_count": 1860
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0093-01",
+    "first_page_order": 105,
+    "last_page_order": 110
+  },
+  {
+    "id": 219088,
+    "name": "Tupper-Applicant vs. Atwood-Respondent",
+    "name_abbreviation": "Tupper v. Atwood",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "99",
+    "last_page": "102",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 99"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 442,
+      "char_count": 8573,
+      "ocr_confidence": 0.493,
+      "sha256": "8c1bcaec00b8300ef91e31c17f84ed5fd66ff29001f9b75a038b6fbc61cf7088",
+      "simhash": "1:daa53dd79b086802",
+      "word_count": 1455
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0099-01",
+    "first_page_order": 111,
+    "last_page_order": 114
+  },
+  {
+    "id": 219006,
+    "name": "Kane vs. Hills",
+    "name_abbreviation": "Kane v. Hills",
+    "decision_date": "1821-06",
+    "docket_number": "",
+    "first_page": "103",
+    "last_page": "104",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 103"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 157,
+      "char_count": 2324,
+      "ocr_confidence": 0.49,
+      "sha256": "620d8ad7f7488c6c5577625ba84357360b08fe61a5176895a6df6232adcba568",
+      "simhash": "1:456753ae5653bc27",
+      "word_count": 412
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0103-01",
+    "first_page_order": 115,
+    "last_page_order": 116
+  },
+  {
+    "id": 219129,
+    "name": "Isaac Hendricks vs. Robert Lewis and William Brownjohn, Constable",
+    "name_abbreviation": "Hendricks v. Lewis",
+    "decision_date": "1821-07",
+    "docket_number": "",
+    "first_page": "105",
+    "last_page": "108",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 105"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 525,
+      "char_count": 7913,
+      "ocr_confidence": 0.509,
+      "sha256": "1207a851bb17c6783fe0ed69a931f41e5d064cc8389775696a792021edab67ff",
+      "simhash": "1:75aeb7114df140b7",
+      "word_count": 1334
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0105-01",
+    "first_page_order": 117,
+    "last_page_order": 120
+  },
+  {
+    "id": 219096,
+    "name": "Petition of Gale, et. ux.",
+    "name_abbreviation": "In re Gale",
+    "decision_date": "1821-07",
+    "docket_number": "",
+    "first_page": "109",
+    "last_page": "110",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 109"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 241,
+      "char_count": 4202,
+      "ocr_confidence": 0.478,
+      "sha256": "65bb697580430e571457f7f469e4164987cb5252ed59c867fc66e7a930c14219",
+      "simhash": "1:41d25c57bc57079f",
+      "word_count": 715
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0109-01",
+    "first_page_order": 121,
+    "last_page_order": 122
+  },
+  {
+    "id": 219030,
+    "name": "Ex parte Matthew Simpson",
+    "name_abbreviation": "Ex parte Simpson",
+    "decision_date": "1821-07",
+    "docket_number": "",
+    "first_page": "111",
+    "last_page": "118",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 111"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 708,
+      "char_count": 15784,
+      "ocr_confidence": 0.507,
+      "sha256": "3206fde792fd28b4e3e9012b8a561af36e961c3bde84d5ee079f2f04d4c6aab0",
+      "simhash": "1:1f8fb01c9a4fb9fb",
+      "word_count": 2644
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0111-01",
+    "first_page_order": 123,
+    "last_page_order": 130
+  },
+  {
+    "id": 219042,
+    "name": "Ex parte Rosetta Ralston",
+    "name_abbreviation": "Ex parte Ralston",
+    "decision_date": "1821-07",
+    "docket_number": "",
+    "first_page": "119",
+    "last_page": "119",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 119"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 93,
+      "char_count": 1118,
+      "ocr_confidence": 0.417,
+      "sha256": "d3003afb7fc95ea39d6f75b2b9181783d4faa55ce88ad7d6e411b84a71cd7542",
+      "simhash": "1:73e38eeca529268b",
+      "word_count": 193
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0119-01",
+    "first_page_order": 131,
+    "last_page_order": 131
+  },
+  {
+    "id": 219046,
+    "name": "The State vs. Henry J. Howell",
+    "name_abbreviation": "State v. Howell",
+    "decision_date": "1821-07",
+    "docket_number": "",
+    "first_page": "120",
+    "last_page": "121",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 120"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 191,
+      "char_count": 2800,
+      "ocr_confidence": 0.46,
+      "sha256": "25f6c726904544740f1e9c6aafcf432c85028a3e3004f253839199cdfa0e397d",
+      "simhash": "1:1c3bf50ea35ebe18",
+      "word_count": 490
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0120-01",
+    "first_page_order": 132,
+    "last_page_order": 133
+  },
+  {
+    "id": 219090,
+    "name": "The State vs. Matthew Simpson",
+    "name_abbreviation": "State v. Simpson",
+    "decision_date": "1822-01",
+    "docket_number": "",
+    "first_page": "122",
+    "last_page": "124",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 122"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 279,
+      "char_count": 4725,
+      "ocr_confidence": 0.503,
+      "sha256": "233ef15f444fede31c9feec3a40ae49ac980f772df74fa40eafe0aced3e8c60e",
+      "simhash": "1:1827db1e4e4e11e1",
+      "word_count": 815
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0122-01",
+    "first_page_order": 134,
+    "last_page_order": 136
+  },
+  {
+    "id": 219134,
+    "name": "John Bolton, et. al. vs. Robert Flournoy",
+    "name_abbreviation": "Bolton v. Flournoy",
+    "decision_date": "1822-01",
+    "docket_number": "",
+    "first_page": "125",
+    "last_page": "138",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 125"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 1026,
+      "char_count": 28067,
+      "ocr_confidence": 0.496,
+      "sha256": "b6e6ed473cf47c6d1be8d18078f068554840e45f53d9516814dd156cf50d13b5",
+      "simhash": "1:92a3a73f267ec59d",
+      "word_count": 4774
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0125-01",
+    "first_page_order": 137,
+    "last_page_order": 150
+  },
+  {
+    "id": 219024,
+    "name": "The State vs. P. L. Wicks",
+    "name_abbreviation": "State v. Wicks",
+    "decision_date": "1822-02",
+    "docket_number": "",
+    "first_page": "139",
+    "last_page": "139",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 139"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 127,
+      "char_count": 1524,
+      "ocr_confidence": 0.481,
+      "sha256": "4d64e95516f5f86191b34dc891c395cea482982ade3a27bd004105689d5e6b46",
+      "simhash": "1:15b462edc9e520d1",
+      "word_count": 249
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0139-01",
+    "first_page_order": 151,
+    "last_page_order": 151
+  },
+  {
+    "id": 219050,
+    "name": "Joseph Cumming-Plff. in Execution, & Eleazar Early-Claimant",
+    "name_abbreviation": "Cumming v. Early",
+    "decision_date": "1822-02",
+    "docket_number": "",
+    "first_page": "140",
+    "last_page": "141",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 140"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 243,
+      "char_count": 4016,
+      "ocr_confidence": 0.514,
+      "sha256": "04f774a82844dc1b59444c4dae5a3885650bd7a546b5e71ef1fc9f2402c35f6d",
+      "simhash": "1:426ccfc56e5baf1c",
+      "word_count": 683
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0140-01",
+    "first_page_order": 152,
+    "last_page_order": 153
+  },
+  {
+    "id": 219085,
+    "name": "The State vs. Calvin and others",
+    "name_abbreviation": "State v. Calvin",
+    "decision_date": "1822-02",
+    "docket_number": "",
+    "first_page": "142",
+    "last_page": "148",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 142"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 556,
+      "char_count": 12556,
+      "ocr_confidence": 0.513,
+      "sha256": "cbcc7ad6e3b47d04359efbfca7b1df1126f02288f9d296481c7cb86706debec7",
+      "simhash": "1:bb07afa8059b7ac9",
+      "word_count": 2178
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0142-01",
+    "first_page_order": 154,
+    "last_page_order": 160
+  },
+  {
+    "id": 219074,
+    "name": "In the matter of the Presentments of the Grand Jury",
+    "name_abbreviation": "In re the Presentments of the Grand Jury",
+    "decision_date": "1822-02",
+    "docket_number": "",
+    "first_page": "149",
+    "last_page": "150",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 149"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 242,
+      "char_count": 4223,
+      "ocr_confidence": 0.477,
+      "sha256": "4ff5a27600705bb3b0e346e778a169b3e7c7cb2db4add2e01f1cee9d2a0f22db",
+      "simhash": "1:1cab3c04a6dbfe08",
+      "word_count": 716
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0149-01",
+    "first_page_order": 161,
+    "last_page_order": 162
+  },
+  {
+    "id": 219080,
+    "name": "The State vs. Russel Calvin, Samuel Jones & Henry J. Howell, otherwise called John Bishop",
+    "name_abbreviation": "State v. Calvin",
+    "decision_date": "1822-02",
+    "docket_number": "",
+    "first_page": "151",
+    "last_page": "177",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 151"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Cranch, 167",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch,",
+        "case_ids": [
+          639431
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/8/0100-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 1820,
+      "char_count": 58453,
+      "ocr_confidence": 0.477,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008704561540074344
+      },
+      "sha256": "0002ca656e1f7f1a4febed2b4bccb4a0880056298e97b659791ad02e0fde9c35",
+      "simhash": "1:90b9810f540eb66f",
+      "word_count": 9911
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0151-01",
+    "first_page_order": 163,
+    "last_page_order": 189
+  },
+  {
+    "id": 219010,
+    "name": "William J. Spencer vs. Negroes Amy and Thomas",
+    "name_abbreviation": "Spencer v. Amy",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "178",
+    "last_page": "179",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 178"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 243,
+      "char_count": 3309,
+      "ocr_confidence": 0.484,
+      "sha256": "c158941e4baa4ee8a0073b344fc295c3cfcaadcbe8e2338c8699f616f50195c6",
+      "simhash": "1:d5efd82d9bfe2cac",
+      "word_count": 558
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0178-01",
+    "first_page_order": 190,
+    "last_page_order": 191
+  },
+  {
+    "id": 219043,
+    "name": "Jno. Miller surv. for use of Assignees vs. Joseph Thorn survg. co-partner",
+    "name_abbreviation": "Miller v. Thorn",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "180",
+    "last_page": "183",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 180"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 329,
+      "char_count": 6172,
+      "ocr_confidence": 0.497,
+      "sha256": "a551b590e58eee5b72037c070f7049e8892c23773683c0eb55a6e957018909a2",
+      "simhash": "1:b6b5708bf20569a2",
+      "word_count": 1045
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0180-01",
+    "first_page_order": 192,
+    "last_page_order": 195
+  },
+  {
+    "id": 219027,
+    "name": "McGowan vs. Jones, et. al.",
+    "name_abbreviation": "McGowan v. Jones",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "184",
+    "last_page": "186",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 184"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 340,
+      "char_count": 5001,
+      "ocr_confidence": 0.471,
+      "sha256": "8e0f90a8ee649075af36102358f5d242e471daf01377213ec539e65be25badfb",
+      "simhash": "1:d36c4190d3208899",
+      "word_count": 865
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0184-01",
+    "first_page_order": 196,
+    "last_page_order": 198
+  },
+  {
+    "id": 219022,
+    "name": "John Doe, ex. dem. Mary Lewden, et. al. vs. Richard Roe, i. e. John Gribbin, et. al.",
+    "name_abbreviation": "Doe ex. dem. Lewden v. Roe",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "187",
+    "last_page": "187",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 187"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 99,
+      "char_count": 1121,
+      "ocr_confidence": 0.526,
+      "sha256": "0049f11a6cda647e9954cad446f737788f85192dcd939a15a80fbc2f39d18cc2",
+      "simhash": "1:d08894d81be848bc",
+      "word_count": 204
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0187-01",
+    "first_page_order": 199,
+    "last_page_order": 199
+  },
+  {
+    "id": 219038,
+    "name": "Nichols, Dobson and Hills, vs. Richard Dennis and another",
+    "name_abbreviation": "Nichols, Dobson & Hills v. Dennis",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "188",
+    "last_page": "189",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 188"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 249,
+      "char_count": 4065,
+      "ocr_confidence": 0.465,
+      "sha256": "74e5fbbd1969b7c7d2d88fad40bf9939db317e6eb386552e3e80a11f456e300a",
+      "simhash": "1:9cd36f5306d50a8f",
+      "word_count": 698
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0188-01",
+    "first_page_order": 200,
+    "last_page_order": 201
+  },
+  {
+    "id": 218986,
+    "name": "John Boog and Wm. F. Kelly, Ex'ors. of King, vs. John and Isaac Bayley",
+    "name_abbreviation": "Boog v. Bayley",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "190",
+    "last_page": "192",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 190"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 370,
+      "char_count": 6513,
+      "ocr_confidence": 0.46,
+      "sha256": "b6d2a29de937d54f6aa146026c5a37692767cad37923748e5c4bbb2a71d9f5a2",
+      "simhash": "1:673e35961465ed99",
+      "word_count": 1107
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0190-01",
+    "first_page_order": 202,
+    "last_page_order": 204
+  },
+  {
+    "id": 218980,
+    "name": "William Waters vs. Bank of the State of Georgia and Planters' Bank",
+    "name_abbreviation": "Waters v. Bank of Georgia",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "193",
+    "last_page": "195",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 193"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 327,
+      "char_count": 4677,
+      "ocr_confidence": 0.494,
+      "sha256": "8e34328594314a994cd907440e8cf38301e0f40c91382c9571b9ff64012fd6bc",
+      "simhash": "1:3d813743f36f1a30",
+      "word_count": 796
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0193-01",
+    "first_page_order": 205,
+    "last_page_order": 207
+  },
+  {
+    "id": 219072,
+    "name": "Rogers vs. Bullen's Administratrix",
+    "name_abbreviation": "Rogers v. Bullen's Administratrix",
+    "decision_date": "1822-05",
+    "docket_number": "",
+    "first_page": "196",
+    "last_page": "205",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 196"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Cranch. 117",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "case_ids": [
+          6759562,
+          12121499
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/dc/1/0117-01",
+          "/us/5/0117-01"
+        ]
+      },
+      {
+        "cite": "5 John. Rep. 163",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2131524
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/5/0163-01"
+        ]
+      },
+      {
+        "cite": "12 John. Rep. 395",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2139267
+        ],
+        "pin_cites": [
+          {
+            "page": "320"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/12/0395-01"
+        ]
+      },
+      {
+        "cite": "1 Cranch. 116",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "case_ids": [
+          6759525,
+          6759543
+        ],
+        "pin_cites": [
+          {
+            "page": "117"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/dc/1/0116-01",
+          "/dc/1/0116-02"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 790,
+      "char_count": 21263,
+      "ocr_confidence": 0.512,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008704368478625588
+      },
+      "sha256": "945a7b9ff67f3b3239762a3207ea56659df3e21ae55b6099a7a85d93fbeadb46",
+      "simhash": "1:b3e3c7e80412f429",
+      "word_count": 3788
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0196-01",
+    "first_page_order": 208,
+    "last_page_order": 217
+  },
+  {
+    "id": 218989,
+    "name": "Champneys vs. Wilson",
+    "name_abbreviation": "Champneys v. Wilson",
+    "decision_date": "1822-08",
+    "docket_number": "",
+    "first_page": "206",
+    "last_page": "213",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 206"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 698,
+      "char_count": 15159,
+      "ocr_confidence": 0.473,
+      "sha256": "d76d42637fd9950ed5b681198318226b9538a60b6e13cbfd9b095b8e8eaebf07",
+      "simhash": "1:9eb7432f724f3f9c",
+      "word_count": 2690
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0206-01",
+    "first_page_order": 218,
+    "last_page_order": 225
+  },
+  {
+    "id": 219019,
+    "name": "Ex parte Worthington Gale",
+    "name_abbreviation": "Ex parte Gale",
+    "decision_date": "1822-08",
+    "docket_number": "",
+    "first_page": "214",
+    "last_page": "215",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 214"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "15 John. Rep. 229",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2141005
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/15/0229-01"
+        ]
+      },
+      {
+        "cite": "16 John. Rep. 121",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          378180
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/16/0121-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 270,
+      "char_count": 3697,
+      "ocr_confidence": 0.511,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008702630925586782
+      },
+      "sha256": "a9c8bcf2ec18f92d75a1ab9a1d2d730677400257d01f1e22f471d82865c32a21",
+      "simhash": "1:92ba5f179f1005c1",
+      "word_count": 622
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0214-01",
+    "first_page_order": 226,
+    "last_page_order": 227
+  },
+  {
+    "id": 219103,
+    "name": "Howard vs. Bank of Darien, et. al.",
+    "name_abbreviation": "Howard v. Bank of Darien",
+    "decision_date": "1822-08",
+    "docket_number": "",
+    "first_page": "216",
+    "last_page": "216",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 216"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 137,
+      "char_count": 1605,
+      "ocr_confidence": 0.482,
+      "sha256": "4a9c7ddbfdbb08f6729c7e154134e33347b26e6f90daed99512f9982c4fdcc11",
+      "simhash": "1:f2cc2b5d4836e899",
+      "word_count": 271
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0216-01",
+    "first_page_order": 228,
+    "last_page_order": 228
+  },
+  {
+    "id": 219132,
+    "name": "Agnes Griffin vs. Ex'ors. Griffin",
+    "name_abbreviation": "Griffin v. Ex'ors. Griffin",
+    "decision_date": "1822-09",
+    "docket_number": "",
+    "first_page": "217",
+    "last_page": "227",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 217"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Phil. 100",
+        "category": "reporters:state",
+        "reporter": "Phil.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "1 Phil. 38",
+        "category": "reporters:state",
+        "reporter": "Phil.",
+        "case_ids": [
+          2090113
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/nc/61/0038-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 822,
+      "char_count": 20358,
+      "ocr_confidence": 0.513,
+      "sha256": "48925d909efc3b793a2563de4b8a241830004e2fc7399f6be1192a9275b5214e",
+      "simhash": "1:1644809158731f0f",
+      "word_count": 3545
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0217-01",
+    "first_page_order": 229,
+    "last_page_order": 239
+  },
+  {
+    "id": 219004,
+    "name": "A. vs. B",
+    "name_abbreviation": "A. v. B",
+    "decision_date": "1822-09",
+    "docket_number": "",
+    "first_page": "228",
+    "last_page": "234",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 228"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 638,
+      "char_count": 14449,
+      "ocr_confidence": 0.471,
+      "sha256": "120984403efb76b0a55ae8611893462c51bbb399f88aa18595f80a8b2eeba810",
+      "simhash": "1:1bd0cf484f7db839",
+      "word_count": 2510
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0228-01",
+    "first_page_order": 240,
+    "last_page_order": 246
+  },
+  {
+    "id": 219017,
+    "name": "Frans. H. Welman vs. Polhill, Guerard and Polhill",
+    "name_abbreviation": "Welman v. Polhill, Guerard & Polhill",
+    "decision_date": "1822-10",
+    "docket_number": "",
+    "first_page": "235",
+    "last_page": "236",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 235"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Hen. & Mun. 309",
+        "category": "reporters:state",
+        "reporter": "Hen. & M.",
+        "case_ids": [
+          6725434
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/va/13/0674-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 234,
+      "char_count": 3274,
+      "ocr_confidence": 0.485,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008702437864138025
+      },
+      "sha256": "0cfda9545f35830d55e4795def23748abf2695df18f0fd56fb29124d1ea2126a",
+      "simhash": "1:622e3a79335c5951",
+      "word_count": 561
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0235-01",
+    "first_page_order": 247,
+    "last_page_order": 248
+  },
+  {
+    "id": 219053,
+    "name": "Guerard & Polhill, vs. James Polhill",
+    "name_abbreviation": "Guerard & Polhill v. Polhill",
+    "decision_date": "1822-10",
+    "docket_number": "",
+    "first_page": "237",
+    "last_page": "243",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 237"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 600,
+      "char_count": 13090,
+      "ocr_confidence": 0.486,
+      "sha256": "0522f4950352902eb0cdc9943791acda9cf7f73abc2b024e2392863349dc1a4d",
+      "simhash": "1:8cf1ac70721fd217",
+      "word_count": 2219
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0237-01",
+    "first_page_order": 249,
+    "last_page_order": 255
+  },
+  {
+    "id": 219020,
+    "name": "The State vs. John Abbot",
+    "name_abbreviation": "State v. Abbot",
+    "decision_date": "1822-12",
+    "docket_number": "",
+    "first_page": "244",
+    "last_page": "249",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 244"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 597,
+      "char_count": 12860,
+      "ocr_confidence": 0.432,
+      "sha256": "fdfaeedef632b3e3862669b0b212cb45ff759fadbe9fe768a9f6217c543d095d",
+      "simhash": "1:16b9d671266aeeca",
+      "word_count": 2283
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0244-01",
+    "first_page_order": 256,
+    "last_page_order": 261
+  },
+  {
+    "id": 219078,
+    "name": "The State vs. Mayor and Aldermen, City of Savannah",
+    "name_abbreviation": "State v. Mayor of Savannah",
+    "decision_date": "1823-02",
+    "docket_number": "",
+    "first_page": "250",
+    "last_page": "259",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 250"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 807,
+      "char_count": 20354,
+      "ocr_confidence": 0.42,
+      "pagerank": {
+        "raw": 4.076306636737454e-08,
+        "percentile": 0.00881485751130824
+      },
+      "sha256": "a6aea3c2f7d99d37757817d4b7b7f2609167f16cbfc040a22fc7e66be760f7df",
+      "simhash": "1:76378e4349adfebf",
+      "word_count": 3635
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0250-01",
+    "first_page_order": 262,
+    "last_page_order": 271
+  },
+  {
+    "id": 219055,
+    "name": "Hartridge and others, compl'ts. vs. Rockwell and others, def'ts",
+    "name_abbreviation": "Hartridge v. Rockwell",
+    "decision_date": "1828-12",
+    "docket_number": "",
+    "first_page": "260",
+    "last_page": "266",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 260"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Conn. 579",
+        "category": "reporters:state",
+        "reporter": "Conn.",
+        "case_ids": [
+          6755576
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/conn/2/0579-01"
+        ]
+      },
+      {
+        "cite": "3 Mass. 364",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2005716
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/3/0320-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 667,
+      "char_count": 14542,
+      "ocr_confidence": 0.475,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.00870378929427932
+      },
+      "sha256": "dbc7c79ac56a7e4989d75c76abf1721ae9851630475492a1c8cc852f176679a7",
+      "simhash": "1:dcf6f312547ebdeb",
+      "word_count": 2560
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0260-01",
+    "first_page_order": 272,
+    "last_page_order": 278
+  },
+  {
+    "id": 219082,
+    "name": "James B. Norris, adm'or. of Jeremiah Pitman, compl't. vs. Jesse Ham and W. A. Pitman, def'ts",
+    "name_abbreviation": "Norris v. Ham",
+    "decision_date": "1829-02",
+    "docket_number": "",
+    "first_page": "267",
+    "last_page": "271",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 267"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 507,
+      "char_count": 10507,
+      "ocr_confidence": 0.48,
+      "sha256": "6ac33eef80a4d0505ec6eae82aaeea49be9b4dae028fcc23726c227c8ef29867",
+      "simhash": "1:9905ea10d76ffa6e",
+      "word_count": 1855
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0267-01",
+    "first_page_order": 279,
+    "last_page_order": 283
+  },
+  {
+    "id": 219029,
+    "name": "The State vs. Elias Fort",
+    "name_abbreviation": "State v. Fort",
+    "decision_date": "1829-02",
+    "docket_number": "",
+    "first_page": "272",
+    "last_page": "278",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 272"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "9 John. 347",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          372236
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/9/0347-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 686,
+      "char_count": 14776,
+      "ocr_confidence": 0.485,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008702823987035537
+      },
+      "sha256": "bf506f2c3878914240f1d69e77c4a6a7d73c356a28ea2b8ab19620b66ed93d6f",
+      "simhash": "1:b4b74426af5ec4a2",
+      "word_count": 2561
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0272-01",
+    "first_page_order": 284,
+    "last_page_order": 290
+  },
+  {
+    "id": 219141,
+    "name": "Marine and Fire Insurance Bank and al., compl'ts. vs. Eleazer Early and M. Brown, def'ts",
+    "name_abbreviation": "Marine & Fire Insurance Bank v. Early",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "279",
+    "last_page": "280",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 279"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 254,
+      "char_count": 3744,
+      "ocr_confidence": 0.457,
+      "sha256": "9233a434d3ca6799ab909dc407cef50fdf3cd5eadf32766367ab71f0a845539c",
+      "simhash": "1:16f38b9e4ef87034",
+      "word_count": 667
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0279-01",
+    "first_page_order": 291,
+    "last_page_order": 292
+  },
+  {
+    "id": 219119,
+    "name": "Patrick McDermott, compl't. vs. James G. Blois, et. al., def'ts",
+    "name_abbreviation": "McDermott v. Blois",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "281",
+    "last_page": "283",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 281"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 335,
+      "char_count": 5800,
+      "ocr_confidence": 0.349,
+      "sha256": "546d21aacf2e342a11f01d1d67eab3c13462081689793e45ff917d0085bd5c65",
+      "simhash": "1:552f7ba6e4f5ba32",
+      "word_count": 1040
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0281-01",
+    "first_page_order": 293,
+    "last_page_order": 295
+  },
+  {
+    "id": 219100,
+    "name": "John H. Morel and E. Belcher, compl'ts. vs. Pat'k Houstoun and al., def'ts",
+    "name_abbreviation": "Morel v. Houstoun",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "284",
+    "last_page": "287",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 284"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 404,
+      "char_count": 6953,
+      "ocr_confidence": 0.386,
+      "sha256": "d3b83ac17119fc8dfa42ad61eb7dbd617cdc406359e11531151bceb363d50e35",
+      "simhash": "1:99b274ce77424636",
+      "word_count": 1264
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0284-01",
+    "first_page_order": 296,
+    "last_page_order": 299
+  },
+  {
+    "id": 219052,
+    "name": "Low, Taylor & Co. vs. Samuel Goldsmith",
+    "name_abbreviation": "Low, Taylor & Co. v. Goldsmith",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "288",
+    "last_page": "290",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 288"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "9 John. Rep. 345",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          372228
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/9/0345-01"
+        ]
+      },
+      {
+        "cite": "6 John. Rep. 281",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2132763
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/6/0281-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 365,
+      "char_count": 5246,
+      "ocr_confidence": 0.447,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008703596232830563
+      },
+      "sha256": "929f951889c15a37b2b2dafd2749ecead3647dd2473c9a77299f8bbc3433018b",
+      "simhash": "1:230c07cb3c9f406b",
+      "word_count": 913
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0288-01",
+    "first_page_order": 300,
+    "last_page_order": 302
+  },
+  {
+    "id": 219026,
+    "name": "Footman, et. al., compl'ts. vs. The Ex'ors of John Pray, def'ts",
+    "name_abbreviation": "Footman v. Ex'ors of Pray",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "291",
+    "last_page": "297",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 291"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 651,
+      "char_count": 13175,
+      "ocr_confidence": 0.462,
+      "sha256": "39c48f7b01fd3d62517a928ca4ecee249779b193bce93f11330e23bc78b41662",
+      "simhash": "1:5d11f6874a4227a4",
+      "word_count": 2382
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0291-01",
+    "first_page_order": 303,
+    "last_page_order": 309
+  },
+  {
+    "id": 219136,
+    "name": "Commissioners of Pilotage vs. John Low and others",
+    "name_abbreviation": "Commissioners of Pilotage v. Low",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "298",
+    "last_page": "301",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 298"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 380,
+      "char_count": 7250,
+      "ocr_confidence": 0.452,
+      "sha256": "cd9784fa0eb2e9bc1397a9bfe4fbed9d8782d6c0183cb2d6f67144dc3d338ee9",
+      "simhash": "1:3f22ff94cf867cf3",
+      "word_count": 1257
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0298-01",
+    "first_page_order": 310,
+    "last_page_order": 313
+  },
+  {
+    "id": 218983,
+    "name": "John Low vs. Commissioners of Pilotage",
+    "name_abbreviation": "Low v. Commissioners of Pilotage",
+    "decision_date": "1830-01",
+    "docket_number": "",
+    "first_page": "302",
+    "last_page": "317",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 302"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bur. 775",
+        "category": "reporters:state",
+        "reporter": "Bur.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "9 Wheaton 211",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1186,
+      "char_count": 33657,
+      "ocr_confidence": 0.48,
+      "sha256": "ff4d2d57f08cd517fc927008da42c383db109477926a63bff997e8ff9dfc1b32",
+      "simhash": "1:b67fdf6205088a72",
+      "word_count": 5811
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0302-01",
+    "first_page_order": 314,
+    "last_page_order": 329
+  },
+  {
+    "id": 219015,
+    "name": "Elias B. Crane vs. James S. Bulloch",
+    "name_abbreviation": "Crane v. Bulloch",
+    "decision_date": "1830-05",
+    "docket_number": "",
+    "first_page": "318",
+    "last_page": "323",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 318"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 520,
+      "char_count": 11571,
+      "ocr_confidence": 0.499,
+      "sha256": "d8e1f71490360594a52d145b9fd5bd2304c195f05e64a311d9ba8c1cda6fdf7d",
+      "simhash": "1:2e726f38acce4860",
+      "word_count": 2029
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0318-01",
+    "first_page_order": 330,
+    "last_page_order": 335
+  },
+  {
+    "id": 219143,
+    "name": "Robert Forsyth vs. Horatio Marbury",
+    "name_abbreviation": "Forsyth v. Marbury",
+    "decision_date": "1830-10",
+    "docket_number": "",
+    "first_page": "324",
+    "last_page": "341",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 324"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "12 Wheaton 266",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "6 Cranch. 138",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Dall. Rep. 386",
+        "category": "reporters:scotus_early",
+        "reporter": "Dall. Rep.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Wheat. 234",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1443486
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/16/0234-01"
+        ]
+      },
+      {
+        "cite": "7 John. Rep. 486",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "7 John. Rep. 477",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          369188
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/7/0477-01"
+        ]
+      },
+      {
+        "cite": "2 Cranch. 277",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Jones, 108",
+        "category": "reporters:state",
+        "reporter": "Jones",
+        "opinion_index": 0
+      },
+      {
+        "cite": "12 Wheat. 213",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          1429818
+        ],
+        "weight": 2,
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/25/0213-01"
+        ]
+      },
+      {
+        "cite": "3 Dall. 386",
+        "category": "reporters:scotus_early",
+        "reporter": "Dall.",
+        "case_ids": [
+          11738091
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/3/0386-01"
+        ]
+      },
+      {
+        "cite": "12 Wheat. 179",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 1330,
+      "char_count": 38451,
+      "ocr_confidence": 0.5,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008706685216010663
+      },
+      "sha256": "7f9843bc335b55a7b6bfb5216098c69250229c26a4e6d03e828a7543624150d4",
+      "simhash": "1:9b2f1c2369105ce9",
+      "word_count": 6742
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0324-01",
+    "first_page_order": 336,
+    "last_page_order": 353
+  },
+  {
+    "id": 219115,
+    "name": "Ex dem. The Mayor and Aldermen of the City of Savannah vs. The President, Directors & Co. of the Steam Boat Company of Georgia",
+    "name_abbreviation": "Mayor of Savannah v. President of the Steam Boat Co.",
+    "decision_date": "1830",
+    "docket_number": "",
+    "first_page": "342",
+    "last_page": "352",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 342"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "9 Cranch. 331",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "pin_cites": [
+          {
+            "page": "332"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "9 Cranch. 292",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "case_ids": [
+          533635
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/13/0292-01"
+        ]
+      },
+      {
+        "cite": "9 Cranch. 43",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "case_ids": [
+          533628
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/13/0043-01"
+        ]
+      },
+      {
+        "cite": "1 Wheat. 482",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          532368
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/14/0482-01"
+        ]
+      },
+      {
+        "cite": "9 Cranch. 50",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "1 Conn. Rep. 103",
+        "category": "reporters:state",
+        "reporter": "Conn.",
+        "case_ids": [
+          12122741
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/conn/1/0103-01"
+        ]
+      },
+      {
+        "cite": "15 John. Rep. 447",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2141015
+        ],
+        "pin_cites": [
+          {
+            "page": "583"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/15/0447-01"
+        ]
+      },
+      {
+        "cite": "2 John. Rep. 357",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          6774024
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/2/0356-01"
+        ]
+      },
+      {
+        "cite": "6 Mass. Rep. 454",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 873,
+      "char_count": 23774,
+      "ocr_confidence": 0.487,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008705912970215638
+      },
+      "sha256": "493f66283ac692cfc2acc82afcdfd842c324b0a7189f0e354ec1ba4d9e8e10ec",
+      "simhash": "1:1c7b0546e1b5ee43",
+      "word_count": 4184
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0342-01",
+    "first_page_order": 354,
+    "last_page_order": 364
+  },
+  {
+    "id": 219037,
+    "name": "Watts and Joyner vs. Isaac Norton",
+    "name_abbreviation": "Watts & Joyner v. Norton",
+    "decision_date": "1831-05",
+    "docket_number": "",
+    "first_page": "353",
+    "last_page": "357",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 353"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 John. 532",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "17 Mass. 153",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2036074
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/17/0124-01"
+        ]
+      },
+      {
+        "cite": "2 Cain. 254",
+        "category": "reporters:state",
+        "reporter": "Cai. Cas.",
+        "case_ids": [
+          6693247
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/cai/2/0254-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 258,
+      "char_count": 3817,
+      "ocr_confidence": 0.42,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.00870321010993305
+      },
+      "sha256": "b35cd7bdd208b0496dcb9cca082ebf084d5a18844667d148af393be41d219ca8",
+      "simhash": "1:06a47c26141ad258",
+      "word_count": 672
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0353-01",
+    "first_page_order": 365,
+    "last_page_order": 369
+  },
+  {
+    "id": 219051,
+    "name": "William Read and others, compl'ts. and John I. Dews and others, def'ts",
+    "name_abbreviation": "Read v. Dews",
+    "decision_date": "1831",
+    "docket_number": "",
+    "first_page": "355",
+    "last_page": "357",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 355"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 314,
+      "char_count": 5407,
+      "ocr_confidence": 0.494,
+      "sha256": "59726ff503683f35334ce084b58a8fda5a357dcef0727b73f39021473ab87ead",
+      "simhash": "1:3fae51414a3c43e9",
+      "word_count": 955
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0355-01",
+    "first_page_order": 367,
+    "last_page_order": 369
+  },
+  {
+    "id": 219068,
+    "name": "Dr. William Read and others, comp'ls. and John I. Dews and others, def'ts",
+    "name_abbreviation": "Read v. Dews",
+    "decision_date": "1831",
+    "docket_number": "",
+    "first_page": "358",
+    "last_page": "367",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 358"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Dall, 402",
+        "category": "reporters:scotus_early",
+        "reporter": "Dall,",
+        "case_ids": [
+          11749177,
+          11749074
+        ],
+        "pin_cites": [
+          {
+            "page": "415"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/2/0402-02",
+          "/us/2/0402-01"
+        ]
+      },
+      {
+        "cite": "4 Wash, C. C. Rep. 174",
+        "category": "reporters:federal",
+        "reporter": "Wash. C. C.",
+        "case_ids": [
+          6565982
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-cas/20/0350-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 793,
+      "char_count": 19670,
+      "ocr_confidence": 0.494,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008704175417176831
+      },
+      "sha256": "130af94c456d6b3173bcb47bdf40fb991ebd42a46e43e103d40c1da22a5fecf2",
+      "simhash": "1:6ea5e4f44648bcf0",
+      "word_count": 3410
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0358-01",
+    "first_page_order": 370,
+    "last_page_order": 379
+  },
+  {
+    "id": 219157,
+    "name": "Stephen C. Green vs. The Mayor and Aldermen of Savannah",
+    "name_abbreviation": "Green v. Mayor of Savannah",
+    "decision_date": "1832-01",
+    "docket_number": "",
+    "first_page": "368",
+    "last_page": "373",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 368"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "12 Wheat. 438",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 562,
+      "char_count": 11690,
+      "ocr_confidence": 0.48,
+      "sha256": "83a836ccb78131477285fe51e51b5356834903930126f84b9768a09e8a38baef",
+      "simhash": "1:fbb9b444e7f90487",
+      "word_count": 2069
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0368-01",
+    "first_page_order": 380,
+    "last_page_order": 385
+  },
+  {
+    "id": 219059,
+    "name": "Charles Seton vs. James R. Hanham",
+    "name_abbreviation": "Seton v. Hanham",
+    "decision_date": "1832-01",
+    "docket_number": "",
+    "first_page": "374",
+    "last_page": "375",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 374"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Bibb. 334",
+        "category": "reporters:state",
+        "reporter": "Bibb",
+        "case_ids": [
+          6409934,
+          6410031
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/ky/5/0334-01",
+          "/ky/5/0334-02"
+        ]
+      },
+      {
+        "cite": "1 Wheat. 91",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "case_ids": [
+          532360
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/14/0091-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 179,
+      "char_count": 2508,
+      "ocr_confidence": 0.466,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008703982355728074
+      },
+      "sha256": "4b207cf5e2d21e2812dff015e9ca84fcebb6a192dd560df14a0ed408ee083054",
+      "simhash": "1:d8a4c22027181cdc",
+      "word_count": 445
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0374-01",
+    "first_page_order": 386,
+    "last_page_order": 387
+  },
+  {
+    "id": 219039,
+    "name": "Joseph C. Habersham, comp'lt, and James D. Huguenin, adm'r, and William Weightman, def'ts",
+    "name_abbreviation": "Habersham v. Weightman",
+    "decision_date": "1832-05",
+    "docket_number": "",
+    "first_page": "376",
+    "last_page": "379",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 376"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 473,
+      "char_count": 8408,
+      "ocr_confidence": 0.519,
+      "sha256": "10b5dba446687eb280f9d9d32e0ea66f498646a56e580c28d214f96188c7dff2",
+      "simhash": "1:0effecc8c60a55a9",
+      "word_count": 1458
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0376-01",
+    "first_page_order": 388,
+    "last_page_order": 391
+  },
+  {
+    "id": 219023,
+    "name": "John Shellman, Trustee, and Eliza C. & Robert H. Pettigrew, compl'ts, and Benjamin F. Scott, def't",
+    "name_abbreviation": "Shellman v. Scott",
+    "decision_date": "1833-05",
+    "docket_number": "",
+    "first_page": "380",
+    "last_page": "382",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 380"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 303,
+      "char_count": 4311,
+      "ocr_confidence": 0.486,
+      "sha256": "9ced1f743d2f0091c61b0d700b36e87fa48700d13552e5d3f4636b82ff1b80ba",
+      "simhash": "1:22087864269fb7c9",
+      "word_count": 756
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0380-01",
+    "first_page_order": 392,
+    "last_page_order": 394
+  },
+  {
+    "id": 219153,
+    "name": "Howland, Ward & Spring vs. John I. Dews, ex'or of W. C. Butler",
+    "name_abbreviation": "Howland, Ward & Spring v. Dews",
+    "decision_date": "1833-05",
+    "docket_number": "",
+    "first_page": "383",
+    "last_page": "390",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 383"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "7 John. Rep. 161",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          369107
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/7/0161-01"
+        ]
+      },
+      {
+        "cite": "1 Cranch 309",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch",
+        "case_ids": [
+          12123191
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/5/0309-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 655,
+      "char_count": 15645,
+      "ocr_confidence": 0.492,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008707071338908176
+      },
+      "sha256": "d615fe45c2673248e2c4090c1f27d40ddd38b9bcfe0ac0ff3ce84ad10a9e3597",
+      "simhash": "1:033fe61786488911",
+      "word_count": 2792
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0383-01",
+    "first_page_order": 395,
+    "last_page_order": 402
+  },
+  {
+    "id": 219101,
+    "name": "John Jewitt, et. al. vs. Joseph F. M'Gowen",
+    "name_abbreviation": "Jewitt v. M'Gowen",
+    "decision_date": "1834-04",
+    "docket_number": "",
+    "first_page": "391",
+    "last_page": "394",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 391"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Penn. Rep. 44",
+        "category": "reporters:state",
+        "reporter": "Pa.",
+        "case_ids": [
+          949825
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/pa/1/0044-01"
+        ]
+      },
+      {
+        "cite": "1 McCord, 399",
+        "category": "reporters:state",
+        "reporter": "McCord",
+        "case_ids": [
+          8861780
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/scl/12/0399-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 421,
+      "char_count": 8246,
+      "ocr_confidence": 0.491,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008704947662971857
+      },
+      "sha256": "2690f2d6292986b4fd7c0b96d99cc6841ddef3cf1bb541bc6bfe0abbe8aa5c10",
+      "simhash": "1:921765681382f447",
+      "word_count": 1434
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0391-01",
+    "first_page_order": 403,
+    "last_page_order": 406
+  },
+  {
+    "id": 218993,
+    "name": "John S. Coombs vs. Isaac Low & Co.",
+    "name_abbreviation": "Coombs v. Isaac Low & Co.",
+    "decision_date": "1834-05",
+    "docket_number": "",
+    "first_page": "395",
+    "last_page": "396",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 395"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 284,
+      "char_count": 3757,
+      "ocr_confidence": 0.507,
+      "sha256": "a91ad51dc3c2464371eaac8dd1dc75e2d879e98759099aede22c286dffb3ee17",
+      "simhash": "1:0e4e0275d297cc38",
+      "word_count": 669
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0395-01",
+    "first_page_order": 407,
+    "last_page_order": 408
+  },
+  {
+    "id": 219111,
+    "name": "The State, on the relation of the Mayor and Aldermen of the City of Savannah, vs. John I. Dews",
+    "name_abbreviation": "State ex rel. Mayor of Savannah v. Dews",
+    "decision_date": "1835-01",
+    "docket_number": "",
+    "first_page": "397",
+    "last_page": "442",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 397"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Pet. 115",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "case_ids": [
+          534514
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/30/0074-01"
+        ]
+      },
+      {
+        "cite": "2 Bailey 524",
+        "category": "reporters:state",
+        "reporter": "Bailey",
+        "opinion_index": 0
+      },
+      {
+        "cite": "12 Wheat. 304",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "pin_cites": [
+          {
+            "page": "330, 1"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Dall. 383",
+        "category": "reporters:scotus_early",
+        "reporter": "Dall.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "16 Mass. 326",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2035242
+        ],
+        "pin_cites": [
+          {
+            "page": "331"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/16/0271-01"
+        ]
+      },
+      {
+        "cite": "2 Pet. 492",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "case_ids": [
+          11338825
+        ],
+        "pin_cites": [
+          {
+            "page": "523-4"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/27/0492-01"
+        ]
+      },
+      {
+        "cite": "2 Pet. 243",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "case_ids": [
+          11336660
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/27/0243-01"
+        ]
+      },
+      {
+        "cite": "4 Wh. 236",
+        "category": "reporters:state",
+        "reporter": "Whart.",
+        "pin_cites": [
+          {
+            "page": "244, 5"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "4 Wheat. 662",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "6 Cow. 642",
+        "category": "reporters:state",
+        "reporter": "Cow.",
+        "case_ids": [
+          12145836
+        ],
+        "pin_cites": [
+          {
+            "page": "651"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/cow/6/0642-01"
+        ]
+      },
+      {
+        "cite": "2 Bailey 587",
+        "category": "reporters:state",
+        "reporter": "Bailey",
+        "opinion_index": 0
+      },
+      {
+        "cite": "6 Wend. 526",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2007478,
+          2007479
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/6/0526-01",
+          "/wend/6/0526-02"
+        ]
+      },
+      {
+        "cite": "1 Cranch 103",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch",
+        "case_ids": [
+          6759275,
+          6759260,
+          12121367
+        ],
+        "pin_cites": [
+          {
+            "page": "110"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/dc/1/0103-02",
+          "/dc/1/0103-01",
+          "/us/5/0103-01"
+        ]
+      },
+      {
+        "cite": "7 Cow. 585",
+        "category": "reporters:state",
+        "reporter": "Cow.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "4 Wend. 9",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2005501
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/4/0009-01"
+        ]
+      },
+      {
+        "cite": "7 Pick. 459",
+        "category": "reporters:state",
+        "reporter": "Pick.",
+        "pin_cites": [
+          {
+            "page": "472"
+          }
+        ],
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Cranch 272",
+        "category": "reporters:scotus_early",
+        "reporter": "Cranch",
+        "case_ids": [
+          1411962
+        ],
+        "weight": 2,
+        "pin_cites": [
+          {
+            "page": "399"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/us/6/0162-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 2263,
+      "char_count": 97916,
+      "ocr_confidence": 0.508,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008705526847318125
+      },
+      "sha256": "997fda2ef52079af4e630f9bee57213de2a0bbabad68bad33688ae29b129a009",
+      "simhash": "1:f6331c45450cfde7",
+      "word_count": 16763
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0397-01",
+    "first_page_order": 409,
+    "last_page_order": 454
+  },
+  {
+    "id": 219035,
+    "name": "The State vs. John I. Dews",
+    "name_abbreviation": "State v. Dews",
+    "decision_date": "1835-01-02",
+    "docket_number": "",
+    "first_page": "443",
+    "last_page": "443",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 443"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 82,
+      "char_count": 1119,
+      "ocr_confidence": 0.525,
+      "sha256": "72e586652857251d28be7c1b84fab3e7f15d08bab3d700a83d3b91a49d42d5f9",
+      "simhash": "1:6610891194bac0c7",
+      "word_count": 197
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0443-01",
+    "first_page_order": 455,
+    "last_page_order": 455
+  },
+  {
+    "id": 219127,
+    "name": "Samuel Dibble, pl'ff. vs. William Gaston, garnishee",
+    "name_abbreviation": "Dibble v. Gaston",
+    "decision_date": "1835-01",
+    "docket_number": "",
+    "first_page": "444",
+    "last_page": "448",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 444"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "5 Mass. 334",
+        "category": "reporters:state",
+        "reporter": "Mass.",
+        "case_ids": [
+          2002187
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/mass/5/0259-01"
+        ]
+      },
+      {
+        "cite": "8 Wend. 600",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          2147300
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/8/0600-01"
+        ]
+      },
+      {
+        "cite": "12 Johns. 276",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "case_ids": [
+          2139284
+        ],
+        "pin_cites": [
+          {
+            "page": "280"
+          }
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/johns/12/0276-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 455,
+      "char_count": 9987,
+      "ocr_confidence": 0.504,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.00870629909311315
+      },
+      "sha256": "015bebc41b75780ba6c4f63269d94177d86a9f324893adbabdf26944d68d08b0",
+      "simhash": "1:b8e500f8c643474c",
+      "word_count": 1792
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0444-01",
+    "first_page_order": 456,
+    "last_page_order": 460
+  },
+  {
+    "id": 219113,
+    "name": "The Governor vs. Wm. C. Daniel, ex'or. of Joseph V. Bevan",
+    "name_abbreviation": "Governor v. Daniel",
+    "decision_date": "1835-05",
+    "docket_number": "",
+    "first_page": "449",
+    "last_page": "451",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 449"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "4 Cow. 67",
+        "category": "reporters:state",
+        "reporter": "Cow.",
+        "case_ids": [
+          2030989
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/cow/4/0067-01"
+        ]
+      },
+      {
+        "cite": "13 Wheat. 340",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "pin_cites": [
+          {
+            "page": "244"
+          }
+        ],
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 337,
+      "char_count": 5539,
+      "ocr_confidence": 0.514,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008705719908766882
+      },
+      "sha256": "96834133a5c8df098086807594da89ddb60a014bd1f41d43699a2d1fb6182bc5",
+      "simhash": "1:1d2adc87d9c2c451",
+      "word_count": 1000
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0449-01",
+    "first_page_order": 461,
+    "last_page_order": 463
+  },
+  {
+    "id": 219121,
+    "name": "Randolph B. Fell vs. Eliza G. Abbot",
+    "name_abbreviation": "Fell v. Abbot",
+    "decision_date": "1836-01",
+    "docket_number": "",
+    "first_page": "452",
+    "last_page": "461",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 452"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "3 Caines' Rep. 234",
+        "category": "reporters:state",
+        "reporter": "Cai. Cas.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "2 Wendell 352",
+        "category": "reporters:state",
+        "reporter": "Wend.",
+        "case_ids": [
+          3516151
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/wend/2/0352-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 827,
+      "char_count": 19381,
+      "ocr_confidence": 0.496,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008706106031664395
+      },
+      "sha256": "cd0ec20d599a055a06fb8efa5575095492fb09b5b21104073718a662610392ea",
+      "simhash": "1:5fe88f3486a6ed4e",
+      "word_count": 3402
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0452-01",
+    "first_page_order": 464,
+    "last_page_order": 473
+  },
+  {
+    "id": 218995,
+    "name": "John J. Maxwell, et. al. ex'ors of Ann Pray, and John J. Maxwell, et. al. Trustees of Rebecca Knox's Children, vs. James H. Maxwell, et. al.",
+    "name_abbreviation": "Maxwell v. Maxwell",
+    "decision_date": "1836-01",
+    "docket_number": "",
+    "first_page": "462",
+    "last_page": "473",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 462"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 Pet. Rep. 658",
+        "category": "reporters:scotus_early",
+        "reporter": "Pet.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 910,
+      "char_count": 24008,
+      "ocr_confidence": 0.518,
+      "sha256": "ba25f439e5be70abc27f70c97c712453bd63363a2aa3ffc636505abc0d1bab28",
+      "simhash": "1:754f03dcd6fc8081",
+      "word_count": 4234
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0462-01",
+    "first_page_order": 474,
+    "last_page_order": 485
+  },
+  {
+    "id": 219066,
+    "name": "The State vs. Wm. Hogan",
+    "name_abbreviation": "State v. Hogan",
+    "decision_date": "1836-05",
+    "docket_number": "",
+    "first_page": "474",
+    "last_page": "478",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 474"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 501,
+      "char_count": 9642,
+      "ocr_confidence": 0.445,
+      "sha256": "d6416d93c2ffc7a3f514d6397889a5c663a95f820b5fd7ee4e7311a3f5afdbb9",
+      "simhash": "1:6f0fc3afe46bb0a3",
+      "word_count": 1675
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0474-01",
+    "first_page_order": 486,
+    "last_page_order": 490
+  },
+  {
+    "id": 218987,
+    "name": "John I. Dews vs. Young S. Pickard",
+    "name_abbreviation": "Dews v. Pickard",
+    "decision_date": "1836-05",
+    "docket_number": "",
+    "first_page": "479",
+    "last_page": "488",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 479"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 721,
+      "char_count": 20641,
+      "ocr_confidence": 0.479,
+      "sha256": "94c89fc55d6e10757ddfe28e3a82f27802240a0e4e6b821e83c362318065d122",
+      "simhash": "1:b4ce02877e9cd58d",
+      "word_count": 3636
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0479-01",
+    "first_page_order": 491,
+    "last_page_order": 500
+  },
+  {
+    "id": 219105,
+    "name": "In the matter of Joshua Toulmin, Mitchell, otherwise called Edward Coppee, Mitchell",
+    "name_abbreviation": "In re Toulmin",
+    "decision_date": "1836-10-26",
+    "docket_number": "",
+    "first_page": "489",
+    "last_page": "496",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 489"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Black. Rep. 413",
+        "category": "reporters:scotus_early",
+        "reporter": "Black. Rep.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "13 John 420",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": 0
+      },
+      {
+        "cite": "3 Bur. 1436",
+        "category": "reporters:state",
+        "reporter": "Bur.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 809,
+      "char_count": 16538,
+      "ocr_confidence": 0.458,
+      "sha256": "22295f10fa41c6d9da66bb45d6222fb61e2cd8584d2d0acd3f18ba150840dad7",
+      "simhash": "1:3d2f2eef7acab621",
+      "word_count": 2936
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0489-01",
+    "first_page_order": 501,
+    "last_page_order": 508
+  },
+  {
+    "id": 219154,
+    "name": "The Comm'rs of the Town of Brunswick, et. al. vs. Urbanus Dart and Wm. B. Davis",
+    "name_abbreviation": "Comm'rs of Brunswick v. Dart",
+    "decision_date": "1836-11",
+    "docket_number": "",
+    "first_page": "497",
+    "last_page": "500",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 497"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "10 John. Rep. 24",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 396,
+      "char_count": 7017,
+      "ocr_confidence": 0.442,
+      "sha256": "390b06169fd5a621b65bae063a5ba4ec64e9e09ec4fe8770ceff50c2f86b13de",
+      "simhash": "1:b6c1d57bbd286f6a",
+      "word_count": 1213
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0497-01",
+    "first_page_order": 509,
+    "last_page_order": 512
+  },
+  {
+    "id": 219138,
+    "name": "Shad and Shad, adm'rs. Norton, vs. Wilson Fuller, def't",
+    "name_abbreviation": "Shad & Shad v. Fuller",
+    "decision_date": "1837-01",
+    "docket_number": "",
+    "first_page": "501",
+    "last_page": "504",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 501"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 406,
+      "char_count": 7255,
+      "ocr_confidence": 0.45,
+      "sha256": "86368ba7806948379a4ef3f6fedd1e608d5a99d5db69679259ac637cef714a3c",
+      "simhash": "1:1451cb6105e46419",
+      "word_count": 1254
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0501-01",
+    "first_page_order": 513,
+    "last_page_order": 516
+  },
+  {
+    "id": 219107,
+    "name": "The State vs. George I. Henley",
+    "name_abbreviation": "State v. Henley",
+    "decision_date": "1837-01",
+    "docket_number": "",
+    "first_page": "505",
+    "last_page": "517",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 505"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "5 N. H. Rep. 574",
+        "category": "reporters:state",
+        "reporter": "N.H.",
+        "case_ids": [
+          6757316
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/nh/5/0574-01"
+        ]
+      }
+    ],
+    "analysis": {
+      "cardinality": 979,
+      "char_count": 27371,
+      "ocr_confidence": 0.474,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008705333785869369
+      },
+      "sha256": "869d02cdb7ce2f901ca7c764f2f1a6b170e627a3491e0d38e5049e81a3028baa",
+      "simhash": "1:6bfc3161d5d6eca6",
+      "word_count": 4923
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0505-01",
+    "first_page_order": 517,
+    "last_page_order": 529
+  },
+  {
+    "id": 219084,
+    "name": "The State vs. James Allen",
+    "name_abbreviation": "State v. Allen",
+    "decision_date": "1837-01",
+    "docket_number": "",
+    "first_page": "518",
+    "last_page": "522",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 518"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 427,
+      "char_count": 8937,
+      "ocr_confidence": 0.487,
+      "sha256": "e3ca2c9e2b54d979f3cb795cdd72fc25028b95f37b71dc36e7303d8fc0536dc4",
+      "simhash": "1:855a2478f95fe885",
+      "word_count": 1571
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0518-01",
+    "first_page_order": 530,
+    "last_page_order": 534
+  },
+  {
+    "id": 219145,
+    "name": "Zara Powers, compl't. vs. Thomas Heery, def't",
+    "name_abbreviation": "Powers v. Heery",
+    "decision_date": "1837-05",
+    "docket_number": "",
+    "first_page": "523",
+    "last_page": "525",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 523"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 399,
+      "char_count": 6141,
+      "ocr_confidence": 0.48,
+      "sha256": "3a8320ff9af5a235b53238578aa6761f75c2eab1675a41ddac90f14eb074a972",
+      "simhash": "1:2b35a01b13d13e9e",
+      "word_count": 1074
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0523-01",
+    "first_page_order": 535,
+    "last_page_order": 537
+  },
+  {
+    "id": 219095,
+    "name": "Robert Habersham, adm'or D. Blake, compl't. vs. Farish Carter, et. al. def'ts",
+    "name_abbreviation": "Habersham v. Carter",
+    "decision_date": "1837-05",
+    "docket_number": "",
+    "first_page": "526",
+    "last_page": "536",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 526"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 946,
+      "char_count": 22155,
+      "ocr_confidence": 0.514,
+      "sha256": "f4ce4fb4cd3fc7cbfe86c932efd489a7307da83f5587a301e5bf4e63f573a92d",
+      "simhash": "1:3664bfbdca457c0e",
+      "word_count": 3831
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0526-01",
+    "first_page_order": 538,
+    "last_page_order": 548
+  },
+  {
+    "id": 218997,
+    "name": "A. A. Smets vs. Thomas and Riley Weathersbee",
+    "name_abbreviation": "Smets v. Weathersbee",
+    "decision_date": "1837-05",
+    "docket_number": "",
+    "first_page": "537",
+    "last_page": "541",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 537"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "1 Gallison 62",
+        "category": "reporters:federal",
+        "reporter": "Gall.",
+        "case_ids": [
+          6129914
+        ],
+        "opinion_index": 0,
+        "case_paths": [
+          "/f-cas/1/0926-01"
+        ]
+      },
+      {
+        "cite": "7 Wheaton 104",
+        "category": "reporters:scotus_early",
+        "reporter": "Wheat.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 531,
+      "char_count": 9525,
+      "ocr_confidence": 0.486,
+      "pagerank": {
+        "raw": 4.03580807328026e-08,
+        "percentile": 0.008701665618342999
+      },
+      "sha256": "b990625526ed74f53d2ad5192001bfad88dc954a52fc4b128a8f3dc26d46220d",
+      "simhash": "1:0e754af6e858be91",
+      "word_count": 1681
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0537-01",
+    "first_page_order": 549,
+    "last_page_order": 553
+  },
+  {
+    "id": 219008,
+    "name": "Henry Roser, next friend of negro woman Antoinette, and her two children, and negro man Jack, vs. Paul Marlow and Beal Edwards, Ex'ors of John Dugger, Jr., dec'd",
+    "name_abbreviation": "Roser ex rel. Antoinette v. Marlow",
+    "decision_date": "1837-05",
+    "docket_number": "",
+    "first_page": "542",
+    "last_page": "550",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 542"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [],
+    "analysis": {
+      "cardinality": 889,
+      "char_count": 18394,
+      "ocr_confidence": 0.506,
+      "pagerank": {
+        "raw": 4.076306636737454e-08,
+        "percentile": 0.008812122041051593
+      },
+      "sha256": "b2cd57ca8494a852ca077c07ea364dd0fcce301cbb176988a6ab146545bd0eae",
+      "simhash": "1:8ec7f41a862706e8",
+      "word_count": 3177
+    },
+    "last_updated": "2023-07-14T19:38:59.743188+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0542-01",
+    "first_page_order": 554,
+    "last_page_order": 562
+  },
+  {
+    "id": 219117,
+    "name": "Jesse Sanderlin vs. The Trustees of the Roman Catholic Church of Savannah",
+    "name_abbreviation": "Sanderlin v. Trustees of the Roman Catholic Church",
+    "decision_date": "1837-07",
+    "docket_number": "",
+    "first_page": "551",
+    "last_page": "556",
+    "citations": [
+      {
+        "type": "official",
+        "cite": "1 Charlton 551"
+      }
+    ],
+    "court": {
+      "name_abbreviation": "Chatham Super. Ct.",
+      "id": 8846,
+      "name": "Chatham Superior Court"
+    },
+    "jurisdiction": {
+      "id": 3,
+      "name_long": "Georgia",
+      "name": "Ga."
+    },
+    "cites_to": [
+      {
+        "cite": "2 John. Rep. 248",
+        "category": "reporters:state",
+        "reporter": "Johns.",
+        "opinion_index": 0
+      }
+    ],
+    "analysis": {
+      "cardinality": 522,
+      "char_count": 8376,
+      "ocr_confidence": 0.527,
+      "sha256": "96b47716b58c65839f2152f88d9171fb439ddc33c1c4bf24173cbebb9d685d08",
+      "simhash": "1:754e6d5d6c2eb4e9",
+      "word_count": 1495
+    },
+    "last_updated": "2024-02-27T21:10:55.423482+00:00",
+    "provenance": {
+      "date_added": "2019-08-29",
+      "source": "Harvard",
+      "batch": "2018"
+    },
+    "file_name": "0551-01",
+    "first_page_order": 563,
+    "last_page_order": 568
+  }
+]

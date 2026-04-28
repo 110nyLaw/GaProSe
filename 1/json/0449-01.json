@@ -1,0 +1,87 @@
+{
+  "id": 219113,
+  "name": "The Governor vs. Wm. C. Daniel, ex'or. of Joseph V. Bevan",
+  "name_abbreviation": "Governor v. Daniel",
+  "decision_date": "1835-05",
+  "docket_number": "",
+  "first_page": "449",
+  "last_page": "451",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 449"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "4 Cow. 67",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2030989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/4/0067-01"
+      ]
+    },
+    {
+      "cite": "13 Wheat. 340",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 337,
+    "char_count": 5539,
+    "ocr_confidence": 0.514,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008705719908766882
+    },
+    "sha256": "96834133a5c8df098086807594da89ddb60a014bd1f41d43699a2d1fb6182bc5",
+    "simhash": "1:1d2adc87d9c2c451",
+    "word_count": 1000
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The Governor vs. Wm. C. Daniel, ex\u2019or. of Joseph V. Bevan."
+    ],
+    "opinions": [
+      {
+        "text": "By MICOlffL, Jfiitlge.\nIN the case out of which this question arises, which was an action of debt, upon a bond conditioned for the performance of certain acts, an issue of fact was joined, and the determination of it was submitted to the Jury.\nTo the Jury, therefore, exclusively belonged the trial of the point involved in the issue, and the ascertainment of the amount which the plaintiff was entitled to recover. The inquiry then, in the present proceeding, is not whether interest could have been recovered on the bond, on which the action was instituted, but whether such interest has been awarded. The Jury have assessed no damages upon the breach assigned, but have, by their verdict, simply found the debt, with nominal damages. That debt is the sum mentioned in the obligation. It is not necessary to decide whether, if the obligor had, by the teims of the bond, bound himself to pay the sum specified, with interest thereon, the interest would not be considered a part of the debt, and a finding by the Jury of the deed, would not have been a verdict for the specified sum and interest\u2014 for the bond in this case, contains no agreement for the payment of interest, but merely binds the party to the payment of a certain sum of money, without any stipulation as to interest; nor is it conditioned for the payment of a sum of money, at a day certain, nor indeed for the payment of any sum, but for the performance of a duty. A verdict of the Jury, therefore, affirming the obligation, finds nothing more than the debt specified in it, to wit, the sum of $400. (Page vs. Newman, 9 B. & C. 378. 17 C. L. Reps. 400. Hillhouse vs. Davis, 1 M. &S. 170. Foster vs. Weston, 6 Bing. 707. 19 C. L. Rep. 211. Higgins vs. Sargent, 2 B. & C. 348. 9 C. L. Rep. 101, 103. Arnott vs. Redfern, 3 Bing. 353. 13 C. L. Rep. 3. Hogan vs. Page, 1 B. & P. 337, n. Craven vs. Pickell, 1 Ves. Jr. 60, 63. Esparte Koch, 1 V. & B. 345. 1 Howend. Fraud. 63. 5 Cowen 608, 9, 10. Laing vs. Stone , 2M. & R. 561. 17 C. L. Rep. 320. Du Belloix vs. Ld. Waterpark, 1 D. & R. 16. 16 C. L. Rep. 12. Cameron vs. Smith, 2B. & A. 305. Lee vs. Lingard, 1 East. 401, 403. Frith vs. Le Roux, 2 T. R. 33. Francis vs. Wilson, R. & M. 105. 21 C. L. Rep. 391. 13 Wheat. 340, 244, argo.) And such being the nature of the bond, St is obvious, as well because interest could be awarded upon it only In 'the shape of damages, which could be assessed only by the Jury, as because of the reason already .stated, viz: .that issue of fact was joined, which was submitted by the Jury, that in the absence of a finding by the Jury of such interest, execution cannot be had for it. The verdict here determines nothing more than would have been ascertained and fixed by a judgment by default. (Arch. Appx. 336. The People vs. Hallett, 4 Cow. 67.) But upon such judgment by default, there is nothing in the record of this case, that would authorize the recovery of interest from the date of the bond, from which date it is computed in the execution.\nBut besides this, the .execution is not warranted or sustained by the judgment upon which it professes to be founded, and\u00f3n which only it can issue. That judgment is for damages only, whereas the execution is for debt as well as for damages.\nThe opinion of the Court is, therefore, that the execution hag issued illegally.\nExecution set aside,",
+        "type": "majority",
+        "author": "By MICOlffL, Jfiitlge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The Governor vs. Wm. C. Daniel, ex\u2019or. of Joseph V. Bevan.\nFi. Fa. Affidavit of illegality.\nWhere a suit was instituted on a bond given for a certain sum of money, and conditioned for the performance of a duty, without any stipulation as to interest, and the Jury on an issue of fact submitted to them, found the bond declared on to be the deed of defendant, and assessed nominal damages; held% that interest could be awarded on such bond only in the shape of damages assigned by a Jury.\nHeld, also, that the verdict rendered only found the debt mentioned in the bond, and as that contained no stipulation for interest, the execution which had issued for principal and interest from the date of the bond, was illegal.\nWhere the judgment is for damages only, an execution issued for debt and damages, is illegal.\nThe action out of which arose the question submitted for the decision of the Court, was debt upon a bond, dated 26th April, 1825, in the sum of $400, conditioned to collate, arrange, and publish, the papers relating to the original settlement, and political history of Georgia, to be found in the Executive or Secretary of State's offices. Variouspleas were pleaded, upon which the Jury rendered this verdict:\u2014\u2022\u201c We find the deed declared on, to be the deed of Jos. V. Bevan, &c. and we assess ten cents damages and costs.\u201d The judgment entered was, \u201c Therefore it is considered, that the said plaintiff do recover, against the said defendant, his damages aforesaid, by the Jury aforesaid assessed, and also, seven dollars, and seventy-five cents, for his costs, &c.\u201d Upon this a Fi. Fa. was issued, \u201c to levy the sum of $400, with interest,\u201d which was endorsed\u2014\n\u201cJudgment,.......$400 00\n\u201cInterest from 26th April, 1825,\n\u201c Costs,..........7 75\nThe defendant presented an affidavit, alleging that the execution issued illegally, because it was issued for interest not warranted by the verdict or judgment: because no interest was due or payable on the bond: because the judgment is for a larger sum than the verdict specifies, and because the only judgment that could have been entered up, was for the penalty, without interest.\nThe following was the opinion expressed by the Court:\u2014"
+  },
+  "file_name": "0449-01",
+  "first_page_order": 461,
+  "last_page_order": 463
+}

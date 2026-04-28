@@ -1,0 +1,166 @@
+{
+  "id": 219115,
+  "name": "Ex dem. The Mayor and Aldermen of the City of Savannah vs. The President, Directors & Co. of the Steam Boat Company of Georgia",
+  "name_abbreviation": "Mayor of Savannah v. President of the Steam Boat Co.",
+  "decision_date": "1830",
+  "docket_number": "",
+  "first_page": "342",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 342"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "9 Cranch. 331",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "pin_cites": [
+        {
+          "page": "332"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Cranch. 292",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        533635
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/13/0292-01"
+      ]
+    },
+    {
+      "cite": "9 Cranch. 43",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "case_ids": [
+        533628
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/13/0043-01"
+      ]
+    },
+    {
+      "cite": "1 Wheat. 482",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        532368
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/14/0482-01"
+      ]
+    },
+    {
+      "cite": "9 Cranch. 50",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Conn. Rep. 103",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12122741
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/1/0103-01"
+      ]
+    },
+    {
+      "cite": "15 John. Rep. 447",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2141015
+      ],
+      "pin_cites": [
+        {
+          "page": "583"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/15/0447-01"
+      ]
+    },
+    {
+      "cite": "2 John. Rep. 357",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        6774024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/2/0356-01"
+      ]
+    },
+    {
+      "cite": "6 Mass. Rep. 454",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 873,
+    "char_count": 23774,
+    "ocr_confidence": 0.487,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008705912970215638
+    },
+    "sha256": "493f66283ac692cfc2acc82afcdfd842c324b0a7189f0e354ec1ba4d9e8e10ec",
+    "simhash": "1:1c7b0546e1b5ee43",
+    "word_count": 4184
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex dem. The Mayor and Aldermen of the City of Savannah vs. The President, Directors & Co. of the Steam Boat Company of Georgia."
+    ],
+    "opinions": [
+      {
+        "text": "By lAW, Juudge.\nTHIS is an action of ejectment brought by the Mayor and Aider-men of the city of Savannah, to recover the possession of a piece of ground in said city, which is claimed by them as a part of the public street, and extending down to the water, so as to embrace a part of the public dock or slip between two wharves. The questions which have been argued and submitted to the court for decision, are, 1st. Whether the action of ejectment will lie to recover the possession of a street? 2d. Whether there is such title in the plaintiffs to the public streets in the city, as will sustain this action ?\n1. It has been repeatedly adjudicated, that the original owner of land, which has been appropriated for a highway, retains a freehold in the soil; that the public acquires nothing but an easement or right of passage ; and that subject to this servitude, and not inconsistent with the full enjoyment of this right by the public, the owner may use the land in any manner which his convenience, benefit or advantage may require. That consequently for any exclusive appropriation of it by another, he may maintain ejectment, trespass or waste. This is undoubtedly the law of England, (2 Strange, 1004. 1 Burr. 143, 147. 1 East. 69.) The late case in Carr and Payne, 340, is so obviously a hurried and inconsiderate decision, that I do not view it as at all disturbing the authorities in England on this subject. I see no sufficient reason why the doctrine should not also prevail with us. The Constitution of the United States recognizes the right to appropriate private property to public use, upon just compensation. It has been thought by some, that when land is thus taken, the absolute title or fee in the soil passes to the public. And doubtless when the public wants require the land itself, and not a mere servitude, the fee does pass to the public, upon compensation. But in laying out a highway, nothing more than a right of passage is wanted : the public have no use for the land itself, that is, for the freehold in the soil; whilst it might be productive of great inconvenience to the original owner, in possession of the adjoining land, to be divested of his title to the soil in the highway. Our statute directs, when any person is aggrieved by reason of any road being laid out through his ground, that damages shall be assessed, (in the manner prescribed by the Act,) which shall be paid by the Inferior Court. I consider this statute as merely directing compensation for the injury sustained by the individual, in consequence of the subjection of his land to this servitude, and as by no means intended as a purchase of the land. In many of our sister States this question has been adjudicated in conformity with the decisions in England ; and in some instances, by Judges so venerated for legal learning, that whilst their decisions possess not here the obligatory efficacy of authority, they are entitled to our most respectful consideration, (6 Mass. Rep. 454. 2 John. Rep. 357. 15 John. Rep. 447, 583. 1 Conn. Rep. 103.) It is also a rule of the common law, \u201cthat the freehold in the highway must be taken to belong to the proprietors of the adjoining soil.\u201d This rule is founded upon a principle of policy which proposes to protect him, owning the adjoining soil, in the full benefit of his land, against the acts of another who should acquire title to the highway, and who might use it in a manner destructive of the interests of the adjoining proprietor. And because as Lord Coke says, the law presumes the way was first taken out of the lands of the party, that hath other lands adjoining. It is only where the last reason exist#, that the first can operate; for sound policy could never adjudge the land of A. to B. against a good title in the former. If upon principle this rule could be extended to the case of Lot holders, adjoining a street in a city, where the land, through which the street ran, was originally owned by individuals, it is manifest that no such title can be set up in a case in which the facts do not warrant the presumption upon which the rule is founded. In the case before me, the land, as will presently be seen, never was owned by individuals; and the lots which the proprietors adjoining the street own, were granted by precise quantity and fixed boundaries which define the thing granted, and exclude all idea of a conveyance of the street as incident.\n2. I proceed now to the investigation of the plaintiffs\u2019 title. In the original laying out of the town of Savannah, certain lots, squares, streets and passages, and town common were reserved and appropriated for public purposes and uses. These reservations, apparent from the plan of the city, have been recognised and confirmed and expressly set apart for public use, by various legislative enactments. By the Act of 1760, the town common, squares, streets, lanes and passages are declared to be and continue the common property of the lot holders in the said town, and that they shall not be aliened or granted away for any purpose whatever, than by Act of the General Assembly. Commissioners are appointed to carry this Act into execution. By the Act of 1761, various lots are specially set apart for the public uses to which they had been applied ; and the water lots at the end of every street, together with 16 acres called the spring, are to be held, deemed and reputed as public lots and lands, and reserved for the use of the public only. By the Act of 1787, a President and Wardens are to be chosen, who are empowered* to make by-laws and regulations for the government of the town, to lay assessments and taxes, and to let, lease or rent at public sale any lot or lots of land, &c.\nBy an Act of 1789 the town is named and styled \u201c the city of Savannah,\u201d a Mayor and Aldermen are directed to be elected, who are styled and named \u201cthe Mayor and Aldermen of the city of Savannah and hamlets thereof,\u201d and who are declared to be a body politic and corporate (with the usual incidents of such a body specified,) and with power of acquiring and holding real and personal property for the use and benefit of said city and hamlets. By virtue of these Acts the original reservations for the public use have been expressly recognised, declared and confirmed.\nIt is interesting now to enquire, where is the title to this public property ? In whom does it rest? Did it remain in the sovereign power; or did it pass out and vest in the lot-holders or public of Savannah ?\nIt could not remain in the sovereign power, because a legislative resolve, or an Act of the Legislature appropriating property to the public, is a grant of such property. It does not carry a title, only durante lene pl\u00e1cito, but indefeasible and irrevocable in its nature. (9 Cranch. 50, 1 Wheat. 482.) It is true, that the Act of 1760 says, the property shall not be aliened or granted away for arty other purpose whatever, than by Act of the General Assembly. This was only a restriction or limitation perfectly consistent with an entire and irrevocable grant, resulting from the necessary relation between a community considered with a view to municipal government, and the legislative authority of the country. There being at the time, no political body to represent the public of Savannah, capable of taking and holding lands, the title to this public property passing from the sovereign power, must have vested in the lot-holders or public itself. But did it vest in them as individuals and as tenants in common? No\u2014because this would be destructive of the very end and object of the grant, since each one would be entitled to partition, and as a necessary consequence the thing granted, instead of being held together for the public good, would be severed and become individual property, It was then in their collective and aggregate character that the property, so reserved for public use, vestedjin the public or lot-holders of Savannah. For persons may have corporate powers sub modo and for certain specified purposes only. A town may be considered as a legal community, or body politic, for certain purposes. (2 John. Ch. Rep. 325.) When therefore, a grant was made to the town in its collective and aggregate character, when Commissioners were appointed, and afterwards a President and Wardens, with plenary powers for the government of the town] I am disposed to consider, that for these purposes they were constituted.by the Legislative Acts, which so treated with them, a corporation, and in their corporate character to have become the grantees of the public property. The object of incorporation is to bestow \u201c the character and properties of individuality on a collective and changing body of men,\u201d (4 Peters\u2019 S. C. Rep. 562.) When, by the Act of 1789, the town was regularly incorporated, and expressly declared to be a body politic and corporate, with all the powers and incidents usual to such a body, the.^uxhlicjproperty, which before vested in the public in their aggregate capacity, became, by operation of law, transferred to, and vested in this artificial person, legally constituted their head and representative. This being a political corporation for the purpose of municipal government, a superintending and controlling power- over it, was reserved in the sovereign power or legislature. They may \u201c enlarge, modify, change or restrain its charter,\u201d but the property acquired by it, under the powers given by its charter, or vested in it by legislative Acts, cannot be rightfully taken from it, even by the Legislature, without the consent of the corporation: so too, on the other hand, the corporation cannot aliene or grant the public property for purposes different from the object of its original appropriation. The positive restriction and limitation in the Act of ] 787, I apprehend, therefore, is only in unison with the legislative power as derived from their relation to a political corporation.\nAgain, let us consider the property as vested in the lot holders in their collective character, (which I contend is the only character in which it could vest,) as incident to the office of President and Wardens, created by the Act of\u201987, and exercising under the authority given them by that Act, the high powers of legislating for, and taxing the inhabitants of the town and leasing the public property in their discretion, with general power to apply the monies to the purpose of carrying said Act into execution, it is thought that the legal title to the public property, ought to be held so far transferred to and vested in this body, as to enable them to assert and maintain the rights and interests of the lot holders collectively, as their legal representative. If this suggestion be correct, and it is believed, notwithstanding, the different character of the cases, that it will derive support from the principles laid down in Terrett vs. Taylor, (9 Cranch. 43.) and the town of Pawlet vs. Clark and others, (in 9 Cranch. 292,) then it is considered that the powers, authorities, duties and rights of that body have been legally transferred to the lessors of the plaintiff. It is admitted that upon the reorganization of a corporate body, if it be essentially changed, there must be, in order to a transfer of particular powers, \u201c an enabling clause empowering the body to act in the particular case, or some general clause which might embrace the particular case.\u201d (3 Peters' U. S. Rep. 408.) The Act of \u201989, incorporating the city of Savannah, professes to be amendatory of the Act of \u201987, and empowers the Mayor and Aldermen of the city of Savannah and hamlets thereof, to carry into execution the powers intended by the said Act of \u201987. This general clause is deemed sufficiently comprehensive to invest the present'eorporation with all the powers, rights and duties which before vested in the President and Wardens.\nThere is another view of this subject\u2014Should the idea of considering the lot holders as taking in their collective capacity and as sub modo a corporation, be deemed unsatisfactory and be rejected, since we have seen that the property could not vest in them individually and as tenants in common, consistently with the object of the grant, it would follow, that there was no one capable of taking and holding at the time of the grant in whom the legal title could vest, and the reserved property for public appropriation, could then only take effect by way of grant or dedication to public uses ; and upon the incorporation of the town of Savannah, \u201c by operation of law, and without further act,\u201d the legal title would vest in such corporation. (Town of Pawlet vs. Clark, 9 Cranch. 331, 332. Lade vs. Shepherd, 2 Strange, 1004. 1 Kyd. Corp. 29. 30 Com. Dig. Abeyance A. 1.) These latter authorities are remarked upon by Judge Story in delivering the opinion of the Court in the case in Cranch. This view of the subject would leave us the same result as the former. Quacunque via data, therefore, the legal title is in the lessors of the plaintiff.\nEjectment is a possessory action : its object is to recover possession. It presupposes as indispensably necessary to the maintainance of the action, a legal right of entry in the lessors of the plaintiff. Where the legal title is shewn to be, there the law presumes the possession to be. The right of entry, then, accompanies the legal title, till that is shewn, which takes away the right of entry or possession, and turns the same into a right of action, by which, the remedy by ejectment is gone, though the legal title remains. Having shewn, as I trust, that the legal title is in the plaintiffs, the question now recurs, can they have a right of entry or possession to a public street? There is a distinction, as it strikes me, important in the solution of this question, between a grant or appropriation of the easement only to the public, reserving the fee in the grantor, and a grant of the land its.elf. To illustrate. The public could not maintain ejectment for a street or highway, the freehold in the soil of which remained in an individual\u2014in such case it is a mere dedication of the easement to public use which vests no where\u2014in the language of Judge Story, commenting on Lade vs. Shepherd, \u201c there is, strictly speaking, no grantee of the easement.\u201d In such a case the remedy which the public have for a violation of right, is by public prosecution. In the case before us, the corporation have title to the land itself. It is sufficient in ejectment, if the possession be required for any purpose whatever. We have .seen that in the case of an individual, owning the freehold in the soil of the highway, he may maintain ejectment, and recover the possession subject to the easement. He may bring ejectment and recover for the express purpose of abating a nuisance; it may be the object for which he seeks to enter. The propriety of distinguishing between the corporation, when the legal title to the land is in them, and an individual, does not occur to me. The public may abate a nuisance by indictment; and an individual may recover in an action, by shewing special damage. It is asked of what is the Sheriff to deliver possession? The answer is, of the ground itself to be held and appropriated to the purposes of the grant. The case of the Mayor, &c. of Northampton vs. Ward, (2 Strange 1238, 1 Wil. 107,) was an action of trespass by the plaintiffs against the defendant, for erecting a stall in a public market place. The Court held that the action was sustainable, and was the proper remedy. Now to enable a pavty to maintain trespass, he must have actual and lawful possession of real property. Yet this was a public market place into which every one had a right to enter for the purpose of buying and selling, though no one had a right to encumber it with a stall without license, and the possession was considered in the corporation so as to enable them to bring trespass.\nIt is asked, can the corporation of Savannah execute a demise of the locus in quo ? The whole action of ejectment is a fiction ; the demise is fictitious, but still it must be consistent with the title of the lessor of the plaintiff; that is, as Mr. Adams in his treatise defines it, such a demise must be supposed, as if made, would have transferred the right of possession to the lessee. The Courts are extremely liberal, however, in considering this action, and if by any possibility of law, the demise can be adjudged good, they will give effect to it. Hence, since the fiction of lease, entry, and ouster, tenants in common who have several freeholds, have been adjudged capable of executing a joint demise. (2 Caine\u2019s Rep. 174.) So, a lease made by a guardian to try the title of an infant is good: for though such lease may be avoidable as to the infant, yet a stranger cannot defeat.it: and if the lessee should not be allowed to maintain his ejectment on such a lease, the minor would be denied the common right and privilege of other subjects. (Bac. Ab. 429.) The case of Zouch and Parsons, (Bur. 1794,) determined that an infant might make a lease without rent, to try his title. So too, under the restraining statute of 13 Eliz. C. 10, upon a lease made by an eclesiastical person, it was formerly held that the declaration should state that there was a rent reserved\u2014this is no longer required. (Adams 195.) So also, all the peculiarities which surrounded a demise by a corporation aggregate, are now dispensed with, and the demise is laid in the general way. If by any possibility, therefore, the demise may be sustained, effect will be given to it to try title, and where even under the restraining statute referred to, the lease was declared by the Act absolutely void, it was held voidable only, and subject to confirmation.\nI am disposed to extend every principle of law, in relation to What is a mere matter of form, a fiction, to enable this corporation in the pursuit of its rights to avail itself of that remedy, which belongs to all. The legal title is in them, and the right of possession is presumed to belong to them, and it would be strange to lose their remedy by what is in effect a mere formality. But in point of fact the Act of 1787 authorizes the Wardens to let, lease or rent \u201clot or lots\u201d &c., including the lot called the Springs, containing sixteen acres. The water lots at the end of the streets are embraced, it is presumed, within the expression \u201c lot or lots,\u201d and in relation to them there can be no difficulty. In what sense did the Legislature use the term \u201clot or lots\u201d? Did they intend to confine it to those portions of ground which hadbeen admeasured off and set apart as lots in the plan of the town designated by numbers and boundaries, or in the more popular or ordinary sense as embracing any piece of ground ? For the purpose of sustaining this demise, we may consider the latter, and this conclusion is strengthened by the fact that the ground called \u201c the Springs,\u201d and which contained sixteen acres, is designated by them as alot. Suppose one to enclose a part of the town common, the corporation could not eject him upon the principle assumed, for in that sense, the common is no more a lot than is the street. In conclusion, if by any construction, their demise can beheld good, the Court will not look behind the declaration to see that those things were done which would render their lease valid, when the question is simply upon a demise to try title.\nW. H. Bulloch, Recorder, andR. R. Cuyler, for plaintiffs\u2014\u25a0 M. Hall McAllister, for defendants.\nI am therefore of opinion that this action may be maintained by the plaintiffs.",
+        "type": "majority",
+        "author": "By lAW, Juudge."
+      }
+    ],
+    "attorneys": [
+      "W. H. Bulloch, Recorder, andR. R. Cuyler, for plaintiffs\u2014\u25a0 M. Hall McAllister, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Ex dem. The Mayor and Aldermen of the City of Savannah vs. The President, Directors & Co. of the Steam Boat Company of Georgia.\nEjectment.\nThe owner of land appropriated for a highway retains the freehold in the soil, and subject to the easement, and not interfering with it, may use the land in any manner, and may maintain ejectment, trespass or waste for any exclusive appropriation of it by another.\nAnd the statute of Georgia, which directs compensation to be made to the owners of land laid out for a highway, must be taken to provide for the purchase of the easement, and not of the land.\nAs a general rule, the freehold in the highway must be taken to belong to the proprietors of the adjoining soil.\nBut this rule being founded on the presumption, that such way was originally taken out of the lands of the party who hath other lands adjoining, is not applicable when such presumption cannot arise from the facts shewn.\nA Legislative Act appropriating property to the public is an irrevocable grant of such property.\nA political corporation, created for the purpose of municipal government, is liable to the superintendance and control of the Legislature, which may enlarge, modify, change or restrain its charter.\nBut the Legislature cannot divest such corporation, without its consent, of the property legally acquired by it.\nNor can such corporation aliene or grant the public property, for purposes different from the object of its original appropriation.\nUpon a re-organization of a corporate body, which is essentially changed thereby, in order to transfer to the new, the particular powers of the old corporation, there must be an enabling clause empowering the new corporation to act in the particular case, or a general clause which might embrace the particular case.\nWhere the legal title to the soil is in a corporation, (or the public,) it may maintain an action of ejectment to recover the possession of a street.\nBut it seems, that where only the easement, and not the freehold is in the public, the only remedy for a violation of the right is by public prosecution.\nBy a Legislative Act passed in 1760, the town common, streets, lanes, &c. in the town of Savannah, were declared to be the common property of the lot-holders in said town, and Commissioners were appointed to carry the Act into execution. By an Act of 1787, a President and\n, Wardens were directed to be chosen, with power to make bye-laws, assessments, and to lease or sell any public lots, &c. By Act of 1789, the town is styled the city of Savannah, and a Mayor and Aldermen were directed to be elected, and were declared to be a b ody politic, witli the power of acquiring and holding property, real and personal, for the benefit of said city ; held, that by the Act of 1760, the legal title to the town common, streets, &c. vested in the lot-holders or public, in their collective capacity, and as a corporation sub modo, which became transferred by the Act of 1787 to the President and Wardens as (he legal representative of the public, and for its benefit, and finally, by Act of 1789, became vested in the \u201cMayor and Aldermen of the city of Savannah.\u201d\nHeld, further, that if the legal title did not pass by the Acts of 1760 and 1787, to the public or lot-holders, as a corporation, sub modo, then as it could not vest in them individually, and there was no one capable of taking and holding at the time of the grant, such grant of the town common, streets, &c. must he considered as a dedication to public uses, which by operation of law became vested in the Mayor and Aldermen of the city of Savannah, as soon as they were incorporated.\nHeld, further, thatybr the purpose of sustaining the action of ejectment,the term \u201clots\u201d used in the Act of 1787 and which the Wardens were authorised \u201c to let, lease or rent,\u201d might be construed to embrace the streets, town common, &c. so as to enable the corpoiation of Savannah to mate a demise of a public street.\n&.nd it seems, that the corporation having the legal title and possession of the street, might there \u2022 fore, (apart fr om the construction given to the Act of 1787) have made a demise of it, for the purpose of sustaining ejectment."
+  },
+  "file_name": "0342-01",
+  "first_page_order": 354,
+  "last_page_order": 364
+}

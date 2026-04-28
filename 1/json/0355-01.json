@@ -1,0 +1,59 @@
+{
+  "id": 219051,
+  "name": "William Read and others, compl'ts. and John I. Dews and others, def'ts",
+  "name_abbreviation": "Read v. Dews",
+  "decision_date": "1831",
+  "docket_number": "",
+  "first_page": "355",
+  "last_page": "357",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 355"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 5407,
+    "ocr_confidence": 0.494,
+    "sha256": "59726ff503683f35334ce084b58a8fda5a357dcef0727b73f39021473ab87ead",
+    "simhash": "1:3fae51414a3c43e9",
+    "word_count": 955
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Read and others, compl\u2019ts. and John I. Dews and others, def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "By JLAW, Judge.\nTHE complainants allege by their bill, that they are entitled to a. proportion of property, or in lieu thereof, a sum in money, under a deed which they allege to be a conveyance in trust from the Hon. James Read to the late Geni Jacob Read: that to establish and recover this claim, they have filed their bill of complaint in the Circuit Court of the United States for the district of Georgia, which is now pending and undetermined: that by the said bill they claim to be preferred to the individual creditors of Gen. Jacob Read, because, they say they have a lien upon the specific property which passed into his hands, under the said trust deed, by virtue of said deed; and that they are also entitled to a preference under the Act of Georgia, passed in 1799, entitled an Act for the better protection and security of orphans and their estates. It also appears that the defendant John I. Dews, the Sheriff of Chatham County, by virtue of sundry executions, issued upon judgments against the estate of said Gen. Jacob Read, in favor of the other defendants, has levied upon all the negroes of the estate, and advertised them for sale. It is alleged, that, unless by the interference of this Court the sale is arrested, or the monies arising therefrom sufficient to satisfy the claim of complainants be stopped in the hands of tfr\u00e9 Sheriff, the complainants will be defeated in their rights.\nIt has been decided by the Supreme Court of the United States, that a Circuit Court of the United States, could not enjoin proceedings of a State Court. It results, that unless this Court interferes in a case like that which is presented by this bill, there may be a failure of justice. Before the complainants can establish their rights in the tribunal, in which they have elected to prosecute them, the means of responding to their claim will have passed away from the estate of Gen. Read, and it be totally defeated. It is not now that a positive opinion is to be formed upon the merits of the claim exhibited by this bill. It is not by an indirect adjudication of their title that the complainants are to be put in a situation, which will defeat probable rights that may hereafter be established by a competent tribunal, before whom they are proceeding. It has been decided in the Supreme Court of the U. States, that it is enough on an application for injunction to shew a colorable title\u2014or as one of the Judges expresses it, \u201c the bill should set forth a case of probable right, and a probable danger that the right would be defeated, without this special interposition.\u201d This js not the case of a creditor at large ; (remarked upon at the bar,) if it were, I would at once refuse the application. But the distinction is founded on the fact, that the present complainants claim to be preferred to the creditors of Gen. Read, upon the ground of lien, under the trust deed, and the statute of Georgia already referred to. This is an obvious distinction exemplified by all the cases, and which forms in fact, the very basis of the present application. I am therefore of opinion, that this is a proper case for the 'interposition of this Court by the writ of injunction. The point has been raised as to the law of the State requiring security before injunction could be granted. I strongly incline to the opinion that this law is only applicable to a particular class of cases ; and that to give it a different construction, would impute absurdity to the Legislature, since there are many cases proper for injunction, in which there is no condemnation money, unless the mere costs of the application be so considered. The law however is general, and in the case of Massie and the Bank of Georgia which was not dis-similar to this, the late Judge Davies directed security in the amout of money stopped in the Sheriff\u2019s hands. I subsequently granted an injunction in that case, without sec\u00fcrity, but as I now recollect, the question was not raised or considered in the case. Until a construction can be put upon this law by the Judges in convention, which I shall endeavor to effect, I must require security to be given in the sum ordered to be retained by the Sheriff in a bond conditioned, according to law. Upon a compliance with which, it is ordered that a writ of injunction do issue to the defendant John I. Dews, enjoining and commanding him to retain in his hands, and not to pay over the sum of fifteen thousand five hundred and fifty-seven dollars and forty cents, monies arising from the sales ot the property of the said Gen. Jacob Read, now advertised by him under said executions, if there shall be so much money remaining in his hands, after payment of the costs and expenses of levy, advertising and other lawful expenses incidental to the said sales, and the same to retain till the further order of this Court.",
+        "type": "majority",
+        "author": "By JLAW, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William Read and others, compl\u2019ts. and John I. Dews and others, def\u2019ts.\nIn Equity. Bill for Injunction.\nInjunction granted to restrain the Sheriff from paying over money made on sale of an estate, under executions issued by individual creditors thereof, where such injunction was prayed for by bill in the Superior Court, alleging that complainants had filed a bill in the Circuit Court of the United States, for the District of Georgia, claiming a specific lien on said estate, and preference over individual creditors, which claim was still pending and undetermined*"
+  },
+  "file_name": "0355-01",
+  "first_page_order": 367,
+  "last_page_order": 369
+}

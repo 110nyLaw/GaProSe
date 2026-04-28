@@ -1,0 +1,92 @@
+{
+  "id": 219059,
+  "name": "Charles Seton vs. James R. Hanham",
+  "name_abbreviation": "Seton v. Hanham",
+  "decision_date": "1832-01",
+  "docket_number": "",
+  "first_page": "374",
+  "last_page": "375",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 374"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Bibb. 334",
+      "category": "reporters:state",
+      "reporter": "Bibb",
+      "case_ids": [
+        6409934,
+        6410031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/5/0334-01",
+        "/ky/5/0334-02"
+      ]
+    },
+    {
+      "cite": "1 Wheat. 91",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        532360
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/14/0091-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 179,
+    "char_count": 2508,
+    "ocr_confidence": 0.466,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008703982355728074
+    },
+    "sha256": "4b207cf5e2d21e2812dff015e9ca84fcebb6a192dd560df14a0ed408ee083054",
+    "simhash": "1:d8a4c22027181cdc",
+    "word_count": 445
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Charles Seton vs. James R. Hanham."
+    ],
+    "opinions": [
+      {
+        "text": "Ky IiAW, JratHge.\nA VERDICT for the plaintiff was rendered in this case, upon the evidence afforded by an exemplification of a decree in Chancery from a Court of the Territory of Florida, proved according to the Act of Congress of 1790. A motion is made fora new trial upon the ground, (among others,) that this evidence was improperly admitted, because, it is contended that the Act of Congress of 27th March, 1804, extending the provisions of the Act of 1790, to the Territories of the United States, and Countries subject to the jurisdiction of the United States, is unconstitutional.\nAfter the most careful examination of this subject, which I am capable of giving to it, I have come to the conviction that the term \u201c State,\u201d when used in the Constitution of the United States is confined to a member of the American Confederacy ; that it does not embrace a Territory of the United States; and that consequently, Congress had no authority under the Constitution to pass the Act of March 1804, extending the provisions of the Act of 1790 to the Territories of the United States, so as to prescribe the mode of proof, or the effect to be given to a judgment of a Court of a Territory, in the Courts of a State of the Union. So much of the Act of March 104 is therefore held to be unconstitutional and inoperative upon the Courts of a State. The Slates possess the right to legislate upon this subject.\nC. S. Henry, for plaintiff\u2014J. W. Jackson & John C. Nicoll, contra.\nThe determination of this question, renders unnecessary the consideration of the other grounds, upon which this motion was based.\nIt is ordered, that a new trial be granted.\nSee Hepburn vs. Ellzey, (2 Crunch. 415.) Corporation of New-York vs. Winter, (1 Wheat. 91. 1 Kent\u2019s Com. 349, 385, 3d edit.) Sturges vs. Davis, decided in the Supreme Court of New-York, (not reported,) citodin 1 Paine & Duer\u2019s Practice, 11,12. 2 Bibb. 334.",
+        "type": "majority",
+        "author": "Ky IiAW, JratHge."
+      }
+    ],
+    "attorneys": [
+      "C. S. Henry, for plaintiff\u2014J. W. Jackson & John C. Nicoll, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Charles Seton vs. James R. Hanham.\nDebt.\nThe term '\u2018State\u201d when used in the Constitution of the United States, is confined to a member of the American Confederacy.\nSo much of the Act of Congress of 27th March, 1804, as extends the provisions of the Act of 1700, regulating the mode of proving in one State the judicial proceedings, &c in another State,) to the Territories of the United States, so as to prescribe the mode of proof or the effect to be given to a judgment of a Court of a Territory, in the Courts of a State, is unconstitutional.\nTne States possess the right of legislating on the subject."
+  },
+  "file_name": "0374-01",
+  "first_page_order": 386,
+  "last_page_order": 387
+}

@@ -1,0 +1,24 @@
+{
+  "volume_number": "1",
+  "title": null,
+  "publisher": "Thomas Purse & Co.",
+  "publication_year": 1838,
+  "start_year": 1811,
+  "end_year": 1837,
+  "series_volume_number": "",
+  "jurisdictions": [
+    {
+      "id": 3,
+      "name": "Ga.",
+      "name_long": "Georgia"
+    }
+  ],
+  "id": "32044038641098",
+  "harvard_hollis_id": "003780481",
+  "spine_start_year": 1811,
+  "spine_end_year": 1837,
+  "publication_city": "Savannah, GA",
+  "second_part_of_id": null,
+  "redacted": false,
+  "nominative_reporter": null
+}

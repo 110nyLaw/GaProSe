@@ -1,0 +1,59 @@
+{
+  "id": 219100,
+  "name": "John H. Morel and E. Belcher, compl'ts. vs. Pat'k Houstoun and al., def'ts",
+  "name_abbreviation": "Morel v. Houstoun",
+  "decision_date": "1830-01",
+  "docket_number": "",
+  "first_page": "284",
+  "last_page": "287",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 284"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 404,
+    "char_count": 6953,
+    "ocr_confidence": 0.386,
+    "sha256": "d3b83ac17119fc8dfa42ad61eb7dbd617cdc406359e11531151bceb363d50e35",
+    "simhash": "1:99b274ce77424636",
+    "word_count": 1264
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John H. Morel and E. Belcher, compl\u2019ts. vs. Pat\u2019k Houstoun and al., def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "3By MW, JMclgi\u00a9.\nTHIS is a bill filed to recover certain negroes and their issue, conveyed in 1795 by Robert Bolton to Phineas Miller, in trust for the complainant, Mrs. Belcher; and sold in 1803 by William Belcher, the husband of the complainant, (without the assent of Mrs. B. or her trustee,) to defendant, Houstovn, upon certain trusts. The bill alleges, that the deed from Bolton to Miller had been recorded, and that at the time of both conveyances Mr. Belcher was in easy pecuniary circumstances. It seeks a discovery of the identity of the original negroes, and of the issue since born ; and prays for relief by delivering up of the negroes and payment of hire, or the payment of their estimated value and hire. A general demurrer has been filed for want of equity in the hill.\nThe general rule is, that whenever a case is made in which a Court of equity gives relief, the bill cannot be demurred to for want of equity; but whenever no sufficient ground is shewn for a Court of equity to interfere, the defendant may demur for want of equity in the plaintiff\u2019s case to support the jurisdiction of the Court. (2 Mad. Ch. 287.)\nSo also if the equity of the plaintiff is not staled with sufficient certainty a demurrer lies. (1 Ves. Jr. 287. 8 Ves. Jr. 398.)\nIf the ease made by the bill be cognizable solely in a Court of common law, or in any other Court of ordinary jurisdiction, a demurrer lies. Now, it is quite clear, upon the face of this bill, that the plaintiff, if entitled and not barred by time, may recover this property at law in an action of detinue or trover. There is no one allegation in the bill, which in my view can give to this Court jurisdiction. It is true as a rule in equity, that all persons coming into possession of the trust property with notice of the trust, shall be considered as trustees, and bound with respect to that special property, and the execution of the trust. (2 Mad. Ch. 124.) But it is not alleged in this bill that the defendant, Houstoun, purchased with notice, either actual or constructive. Nor is any fact or circumstance set forth in the bill from which to infer notice to him, save only the fact that the deed from Bolton to Miller was on record; and this, it was contended by the complainants counsel, was constructive notice. It might be a sufficient answer to say, that there is no allegation in the bill charging notice, but if there were, I do not think that there would be any justice in compelling the purchaser to be bound by implied notice of the contents of that deed. The foundation of this rule in equity is fraud in the purchaser; to apply it to the defendant, he is to be considered as charged with a fraud in purchasing property which he knew did not belong to the vendor. But how is this charge of fraud to be supported, when Houstoun had no clue by which he was to be directed to look into the deed from Bolton to Miller. He was dealing with Belcher, and supposing the trust to be otherwise totally unknown to him, he might as well be required to examine the contents of every deed on record. Such is the reasoning of the Chancellor in Murray vs. Ballou, (1 John. Ch. Rep. 574.) But at the time these conveyances -were made, after duly considering the Act of 1768, it docs not appear to me, that there was any law of this State requiring a deed of personal property to be recorded, and the rule is well established, that the record of a deed not required by law to be recorded, cannot be considered as furnishing constructive or implied notice of its contents to a purchaser.\nThe doctrine of the jurisdiction of the Court is this, you cannot attach upon the conscience of the party any demand whatever, when he stands as a purchaser having paid his money, and denies all notice of the circumstances set up by the bill. (2 Ves. 458.) This bill charges no notice, and states no facts or circumstances from which notice can be inferred. The defendant, therefore, appears as a purchaser for a valuable consideration without notice, and against such an one, this Court will not extend its jurisdiction to compel an answer, nor take the least step imaginable. The complainants, however, seek a discovery for the purpose of establishing, the identity of the negroes and proving their issue. And it has been contended on this ground that this demurrer must be \"overruled. The old rule in England unquestionably was, that a demurrer might be good to the relief and had to the discovery. But Lord Thurlow held, that a demurrer which was good to the relief, was good to the discovery also. And this rule thus introduced by Lord Thurlow, has been ever since the doctrine of the English Chancery Courts. It has been said by another eminent Chancellor in England, to he one of the wisest rules ever established. It proceeds upon the idea that a bill of discovery must state some purpose to which the discovery sought must be applicable, and the supposed hardship on a defendant, in compelling him to encounter expense and to answer, when the Court cannot give relief. I am aware that this doctrine was not approved altogether by the Court of Errors of New York. But even in that case, it seems to be admitted that when in the complainant\u2019s case, from his own shewing, no discovery or proof can make it a proper subject of equitable jurisdiction, the bill will be dismissed upon demurrer. Now there is no fact stated or alleged in this bill, to which an answer or discovery is sought, that can possibly authorize this Court to afford equitable relief. It is not alleged that Houstoun purchased with any knowledge of the trust in favor of Mrs. Belcher, and no discovery of that fact is sought by the bill. The discovery so far as it regards the identity of the negroes and their issue, cannot give to this Court jurisdiction.\nI am, therefore, of opinion, that the demurrer in this case must be allowed.\nBut see Act of Dec. 21st, 1819, Prince's Dig. 2d ed. 215, and Act of 26th Dec. 1827, Prince's Digest 2d ed. 165\u2014(Ed.)\nMaster of the Rolls, for the Lord Chancellor (Rosslyn,) 3 Ves. Ch. Rep. 347. Sec Baker vs. Mellish) 10 Ves. Ch. Rep. 553,-(Ed.)\nLe Roy vs. Vender, (1 John. Cas. 423,) Luight vs. Morgan, ibid, 429. Kimberly vs. Sells <3 John. Ch. Rep. 471,) and see 1 Story\u2019s Equity, 82 ot. eeq. Bees vs. Parish, (1 MeCord\u2019c Cli, Rep. m-CBd.)",
+        "type": "majority",
+        "author": "3By MW, JMclgi\u00a9."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John H. Morel and E. Belcher, compl\u2019ts. vs. Pat\u2019k Houstoun and al., def\u2019ts.\nin Equity.\nIf a case is made out in which a Court of Equity gives relief, a demurrer cannot be sustained \u00a1Secus whore the equity of p\u00ed\u00e1in\u00edi/Fis not stated with sufficient certainty.\nThere was no law of Georgia in force in 1795, requiring a deed o\u00ed personal property to Im\u00ed recorded.\nA purchaser cannot be bound by the constructive notice afforded by the record of a deed, not required by law to be recorded.\nWhore upon a bill for discovery and relief the discovery sought will afford no ground for equitable relief, a demurrer to the relief is good to the discovery also."
+  },
+  "file_name": "0284-01",
+  "first_page_order": 296,
+  "last_page_order": 299
+}

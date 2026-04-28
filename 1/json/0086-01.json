@@ -1,0 +1,59 @@
+{
+  "id": 219148,
+  "name": "P. J. Valloton vs. John Gardner",
+  "name_abbreviation": "Valloton v. Gardner",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "86",
+  "last_page": "89",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 86"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 392,
+    "char_count": 6903,
+    "ocr_confidence": 0.491,
+    "sha256": "d23b72136e754a9d1059471eb4ff68d6f7ec9183f8c677ce6538bb50d34182e8",
+    "simhash": "1:db54e11c1e25fca4",
+    "word_count": 1221
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "P. J. Valloton vs. John Gardner."
+    ],
+    "opinions": [
+      {
+        "text": "By CB\u00dcLKXiTOKF, Judge.\nTHIS case presents itself on a transcript of proceedings in a Justice\u2019s Court, removed to this jurisdiction in obedience to a writ of Certiorari, issued, upon the exceptions and. grounds, contained in the statement signed by the officer of the Inferior Judicatory.\n\u201c P. I. Valloton vs. John Gardner.\nMagistrate's Court, April Term, 1821\u2014Appeal\u2014Verdict for the plaintiff for $30 with interest, and costs of suit.\nTo the term of February, 1821, an action was brought by P. J. Valloton against John Gardner, in the Court of Isaac Russell, Esq., Justice of the Peace for the city of Savannah, for the sum of thirty dollars, being the amount of rent reserved upon the lease of a house to one Samuel Roe by the said plaintiff, the payment of which rent the said defendant was alleged to have guaranteed. In the term of March, of the year aforesaid, upon the trial of said case, the said Justice gave judgment for the defendant, upon which the plaintiff entered an appeal. In the ensuing term of April, the said appeal came on to be tried by a Jury, in the Court aforesaid. On the part of the plaintiff the only evidence adduced was, first, a letter dated 22d September, 1818, written by the defendant to the plaintiff, in which the defendant states that if the plaintiff will allow the said Samuel Roe to occupy his, the plaintiff\u2019s house, for another year, he, the said defendant, would be accountable for the rent of the same ; but in the same letter the defendant requires an answer from the plaintiff, either by letter or by personal communication, which answer was never proved or pretended to have been given. In addition to the evidence of this letter, the plaintiff introduced a note given by the said Samuel to him, the plaintiff, for one year\u2019s rent of the house aforesaid\u2014to wit. for the sum of $31, (one dollar credit, dated on the fifth day of November, 1819,) on which note the name of the defendant did not appear. Upon which evidence alone, the Jury aforesaid rendered a verdict for the plaintiff for thirty dollars, with interest and costs : to which verdict the counsel of the defendant did then and' there except: 1st. Because there never was a contract between P. J. Valloton and John Gardner, inasmuch as the said P. J. never manifested to the said John, the acquiescence of him, the said P. J., in the proposal of the said John : 2d. Because if there was a contract, that contract was annulled and destroyed by the note given to the plaintiff by Samuel Roe, or by the new contract between the last mentioned parties. And inasmuch as the said several matters do not appear upon the record, the counsel of the said John Gardner did then and there require the said Justice to sign this bill of exceptions, whereupon the said Justice did sign the same.\nISAAC RUSSELL, J. P.\u201d\nGordon and Stiles in support of the certiorari, have argued before this Court upon the grounds assumed in the Justice\u2019s Court. These reasons are deemed insufficient by Mr. D\u2019Lyon, because the note given by the tenant Roe, was amere ascertainment of the debt, due by him for rent, the payment of which was secured by Gardner\u2019s guarantee, whenever it becomes due, and could not therefore be considered as an absorption of that guarantee. It was in short, analogous to a collateral undertaking, or promise which was always based upon the previous liability of the person from whom such promise was made. If this were strictly true, the landlord would have his election against the tenant or the party undertaking to pay his rent. The distinction between an original or collateral undertaking is the then liability of the person for whose benefit the promise is made ; if liable at the time of the promise it is a collateral undertaking. Rob. on frauds, 216. In this case the undertaking of Mr. Gardner, contained in his letter, speaks of the renewal of the lease for another year. It is in these words : \u201c Mr. Roe, who is in my employ, and now lives in your house, has requested me to say to you, he will take the house for another year. If you will let him have it, I will be accountable to you for the rent.\u201d It is, therefore, an original undertaking, because no liability had attached to Roe\u2014or more properly, a guarantee, the character and intended effect of which is, to visit the person so tendering it, if accepted, with exclusive responsibility\u2014if such should be the election of the other person in possession of it. This may depend, however, upon the expressions of the guarantee which render it obligatory only when assented to, or permanent and continuing. The case of McIver vs. Richardson, (in 1 Maule & Selwyn\u2019s Rep. 557,) is illustrative of that guarantee, which requires notification of acceptance and assent; and Merle vs. Wells, (2 Campbell, N. P. R. 413.) Kirby vs. Duke of Marlborough, (2 Maule & Selwyn, 18,) of the continuing guarantee. Without adverting to all the cases, there is a much stronger reason, for requiring the assent and acquiescence in this case before us of the person to whom the guarantee was offered, than in Mclver and Richardson, or any other case within my recollection, for Gardner explicitly requires it, in the conclusion of his letter which is in these words: \u201c your answer, or please call on me at my Tanyard\u2014no answer was given, or other notification of assent to the liability of Gardner. I am therefore of the opinion, that the note of Roe, given and taken by Valloton, was a waiver of the guarantee, and that such is its legal operation. The following order wdll be entered and transmitted to the Court below.\nThis case was argued by counsel on the transcript of the proceedings below, whereupon it is adjudged, considered and ordered : That it be remanded to said Inferior Judicatory, with directions to award a new trial, and that the Jury in said Justice\u2019s Court be instructed, that the said John Gardner, is not liable upon his guarantee, in which matter by the verdict of the Jury on the appeal in the said Justice\u2019s Court, there is manifest error.\nA party giving a letter of guarantee, has a right to know whether it is accepted, and whether the person to whom it is addressed, means to give credit on the footing of it or not. Douglas vs. Reynolds. 7 Peters\u2019 S. C. Rep. 125- Sollee et. al vs. Mengy. 1 Bailey\u2019s S. C. Rep. 620. Lee vs. Dick. 10 Peters\u2019 S. C. Rep. 482, S. P.\u2014(Ed.)",
+        "type": "majority",
+        "author": "By CB\u00dcLKXiTOKF, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "P. J. Valloton vs. John Gardner.\nCertiorari.\nWhere an offer of guarantee is made, accompanied with, a request for an answer, in order to make it binding upon the individual offering, it is necessary that he be informed by the person to whom it is offered, of his assent to such offer.\nWhere no such assent is signified, and the note of the individual for whose benefit the guarantee was offered, is taken by the creditor after the debt or liability which formed the subject matter of the offer, has been incurred, it is a complete waiver of the guarantee."
+  },
+  "file_name": "0086-01",
+  "first_page_order": 98,
+  "last_page_order": 101
+}

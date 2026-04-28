@@ -1,0 +1,59 @@
+{
+  "id": 218986,
+  "name": "John Boog and Wm. F. Kelly, Ex'ors. of King, vs. John and Isaac Bayley",
+  "name_abbreviation": "Boog v. Bayley",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "190",
+  "last_page": "192",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 190"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 370,
+    "char_count": 6513,
+    "ocr_confidence": 0.46,
+    "sha256": "b6d2a29de937d54f6aa146026c5a37692767cad37923748e5c4bbb2a71d9f5a2",
+    "simhash": "1:673e35961465ed99",
+    "word_count": 1107
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Boog and Wm. F. Kelly, Ex\u2019ors. of King, vs. John and Isaac Bayley."
+    ],
+    "opinions": [
+      {
+        "text": "Ky CHAKIiHON, Jiitlge.\nTHE brief furnished me by the defendants\u2019 Solicitor states: \u201c That the bill in the original suit by the complainant, Thos, King, was filed in March term, 1819. The defendants\u2019 answer was put in, on the 5th May, 1819. Exceptions were taken to the answer, and served 7th July, 1819: and that the complainant, Thos. King, died some short time thei-eafter, whereby the suit became abated.\nThe motion now submitted, is to set aside the judgment and proceedings entered up in this cause against the defendants, upon the following grounds : First. Because the original bill has in no way been revived since the death of the complainant, Thos. King, so as to make the present complainants, the representatives of the said Thomas King, parties to the suit, as ought to have been done, according to the 15th rule of equity, (vide rules of Court.) Secondly. Because, the facts in said suit have never been put in issue by the present complainants, according to the 9th rule in equity, by filing replication to the answer of the defendants. Thirdly. Because, this cause being the subject of equity juris dietion, has been referred (to arbitration) without obtaining the special order of the Court, for that purpose; and Fourthly. Because, even allowing this reference to come within the statute, (Judicial Act of 1799, Sec. 30,) yet that no agreement or writing signed by the parties, and no certificate of previous undetermined judgments, or causes against defendants, has been obtained from the Clerk, and filed, upon which alone a judgment can be founded.\nI shall dispose of the grounds of this motion to set aside the judgment, in the order in which they have been arranged by the Solicitor for the defendants.\nIsi. It is an axiom in law as well as in equity, that a party may waive a right intended for his benefit. If this is applicable to a matter of substance, a fortiori, it is to an expleture, or technical form of pleading. In this case and under this head it is objected, that no bill of revivor has been filed, by which only, according to the practice in chancery, and the special requisition of a rule of this Court, these complainants could appear as parties to this suit. The objection would be well founded and irresistible, if the defendants by their own assent and compact had not dispensed with, or rather waived the necessity of a compliance with the rule of Court. By their agreement to refer this controversy to arbitration, they of course considered everything done in the pleadings, which ought to have been done\u2014and in order that these pleadings may be perfected, for the sake of the record, the complainants hereby have leave to file a bill of revivor mine pro tunc.\n2d. This ground may be answered as the first has been, and a similar permission is given to the complainants.\n3d. It is certainly an anomaly with us to refer a controversy pending in chancery, to this domestic forum. It exhibits the singular spectacle of a case translated from one equitable jurisdiction, possessing ample powers to administer complete justice between the parties litigant, according to the liberal and unfettered views of that jurisdiction\u2014to another equitable but restrained jurisdiction, whose determination must be ultimately enforced by common law process. But such has- been the agreement among the present parties, and our system of jurisprudence does not inhibit a reference of any case or controversy, whether pending in chancery or common law. The agreement of the parties, must always control the destinies of a suit before either forum.\n4th. This objection is answered by the fact, that there is an agreement between the parties, and signed and sealed by them, to refer this case to arbitration\u2014and in that agreement there is this clause, \u201cfinally to settle the various controversies, strifes and debates'which have been or now are pending between the parties aforesaid, and the said William F. Kelly and John Boog, on their part, executors as aforesaid plaintiffs\u2014and the said John and Isaac Bayley, pn their parts defendants, consent and agree, that if the award be made pursuant to the conditions of this instrument, it may be made a rule of the next Superiol- Court, and entered up as a judgment and decree of the same.\u201d St. Marys, 12th October, 1821, signed John Bayley, Isaac Bayley; Wm. P. Kelly, executor, John Boog, executor. Before entering up the judgment on the award, it was competent fov the defendants to have availed themselves of the provisory clause in the 30th Sec. of the Judicial Act,, and either to have delayed, or prevented that Act of the plaintiffs by requiring the certificate of the Clerk, as to the existence on the docket of previous undetermined causes, but tlie objection comes too late, and after judgment I must presume, that this requisite had been complied with.\nUpon the whole, I am of the opinion, that there is nothing, in any one of the grounds, upon which the motion is founded, to set aside the judgment entered up against these defendants.\nMotion overruled..\nThe 30th Sec. of that Act, (Princes Dig. 213,) after pointing out the method, by which causes may be submitted to arbitration\u2014and directing that judgment may be entered upon such award, provides, that no judgment shall be entered upon an award, where it shall appear, that any other cause stands on the docket of the Court against the defendant, undetermined, before the cause, in which the rule or other agreement in writing for arbitration is entered.\u2014(Ed.)",
+        "type": "majority",
+        "author": "Ky CHAKIiHON, Jiitlge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Boog and Wm. F. Kelly, Ex\u2019ors. of King, vs. John and Isaac Bayley.\nIn Equity.\nThe practice and rule of Court requiring that a bill of revivor should be filed, to make the legal representative of a deceased complainant a party to the suit in chancery, may be waived by agreement between such representative and defendant.\nAnd a replication will be dispensed with under similar circumstances.'\nAn agreement to submit the controversy to arbitration, is an admission that the pleadings in the cause are perfect. When the proper pleadings have been dispensed with by agreement between the parties, they may be entered at any time, nunc fro tunc, for the sake of the record.\nA Its pendens, either in chancery or common law, may be submitted to arbitration by agreement. without an order of Court.\nAnd where by the agreement entered into, the award was to be made a rule of Court, and judgment entered thereon, and judgment was entered without objection, all pre-requisites will be presumed to have been complied with."
+  },
+  "file_name": "0190-01",
+  "first_page_order": 202,
+  "last_page_order": 204
+}

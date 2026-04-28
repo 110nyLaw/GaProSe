@@ -1,0 +1,61 @@
+{
+  "id": 219027,
+  "name": "McGowan vs. Jones, et. al.",
+  "name_abbreviation": "McGowan v. Jones",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "184",
+  "last_page": "186",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 184"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 340,
+    "char_count": 5001,
+    "ocr_confidence": 0.471,
+    "sha256": "8e0f90a8ee649075af36102358f5d242e471daf01377213ec539e65be25badfb",
+    "simhash": "1:d36c4190d3208899",
+    "word_count": 865
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McGowan vs. Jones, et. al."
+    ],
+    "opinions": [
+      {
+        "text": "By \u00a9HAKX\u2019S\u2019OST, Juuige.\nTHIS is a petition for a rehearing of this cause, decided by verdict of a special Jury, at the last term of this Court, held, in the county of Liberty.\nThe defendants believe themselves aggrieved by the verdict, because, it is contended, that, the complainants could derive, as devisees, no title under the will of the femme covert Mrs. Way, tho\u2019 such will was made with the parol consent of her husband ; because the words of the will created an express estate tail, in the husband, and the bequest being of personal estate, thereby vested the interest absolutely in him ; and because, the limitation over in favor of complainant, is too remote, that being dependent upon an indefinite failure of issue. The defendants conceive themselves aggrieved by the verdict, on another ground\u2014that it was rendered in opposition to the charge of the Court, on the legal validity of the femme covert\u2019s will, made under the parol assent of the husband, and not subsequently ratified by any act, equivalent to an agreement before marriage, that the wife should by will, possess a disposing power over any portion of the husband\u2019s property, I have had occasion before to decide, that the laws of this State are silent on the necessity of a special, or other Jury, in the determination of Chancery causes. The association of a Jury with the Court, in such cases, is merely sanctified by the practice, which has long obtained in this, and I presume the other districts of this State, under the impression perhaps, that it was a positive or implied Legislative requisition, or perhaps, the general cherished predilection for the trial by Jury, in causes of every description. Communis error facit jus, as a maxim bearing upon this subject, I shall not be the first Judge to subvert; and until the pleasure of the Legislature is expressed, I shall permit, as heretofore, the co-operation of a special Jury, as required by a rule of this Court, in the trial of equity cases. But, bound by no law, I shall always approach the decree of a special Jury, in an equity cause, with much less reverence, than when exercising the functions legitimately delegated to them. I shall respect their decision upon facts, but if a special Jury, unfolding its own code of equity, extracts from it, and applies doctrines, subversive of the best established, and, I may add, the most consecrated principles of a chancery jurisdiction, I must be suffered to put up the legal landmarks, which their discretionary judicial legislation has removed. In the present case, I was not at all satisfied, that this will, though it had passed through the ordeal of an ordinary probate, had been made under those circumstances of assent, which-impressed upon it the character of validity.\nThe proposition that a wife c'ould make a will, was not, and could not be controverted.\u2019 That power, may be conferred on her by the agreement, and compact of her intended husband, and after marriage, by some act of equivalent solemnity. My doubt at the trial, (and which I communicated to the Jury,) was, that on a review of the authorities, it seemed, that a parol assent, unconfirmed by any act, analogous to the agreement before marriage, was not sufficient to give validity to the will. The argument with which I have been favored, on this petition, has not contributed very materially to shake the opinion I then expressed to the Jury, and the influence it still possesses over my mind, must justify an Older for the rehearing of this very important, and highly interesting case. It ought not to be expected that I should now advert to authorities, and pronounce any definite opinion upon any point, raised in this cause, or stated in the petition; for if I did so, the special Jury at the ensuing term, would be converted into a sort of lit de justice to enregister my decree, and setting down the cause for hearing, would also be a mere fro forma arrangement. I have then only generally to say, that sufficient grounds are stated in the petition of the defendants to grant its prayer.\nWayne, Berrien & Law, for petition\u2014Habersham, against it.\nAnd it is ordered, that this cause be reheard, at the next Superior Court to be held in the county of Liberty, on the verdict and decree rendered by the special Jury.\nSee note to Bolton vs. Flournoy, et. al., p. 138 supra. Pool vs. Barnet Dudley\u2019s (Geo.) Rep. 8.\u2014(Bd.)",
+        "type": "majority",
+        "author": "By \u00a9HAKX\u2019S\u2019OST, Juuige."
+      }
+    ],
+    "attorneys": [
+      "Wayne, Berrien & Law, for petition\u2014Habersham, against it."
+    ],
+    "corrections": "",
+    "head_matter": "McGowan vs. Jones, et. al.\nIn Equity\u2014Petition for a, rehearing.\nAlthough, the practice in Georgia is to associate a special Jury with the Judge of the Superior Court, in the determination of chancery causes, there is no law which imposes the necessity of such association.\nIt seems, that the will of a femme covert will have no efficacy, unless there be an agreement before marriage giving her the power to make such will, or such right has been conferred on her after marriage, by some act analogous to an agreement before marriage\u2014the mere parol assent of the husband, is not sufficient to give such a will validity."
+  },
+  "file_name": "0184-01",
+  "first_page_order": 196,
+  "last_page_order": 198
+}

@@ -1,0 +1,59 @@
+{
+  "id": 219048,
+  "name": "Wakefield, Surv'r. vs. William Limbert",
+  "name_abbreviation": "Wakefield v. Limbert",
+  "decision_date": "1811-01",
+  "docket_number": "",
+  "first_page": "13",
+  "last_page": "14",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 13"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 212,
+    "char_count": 3172,
+    "ocr_confidence": 0.497,
+    "sha256": "d0c94fb5ba138dcfac7a6ddd24c5a70dd903f9dfff7183966f9997a2ba5138a5",
+    "simhash": "1:2c93a46160559d70",
+    "word_count": 537
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Wakefield, Surv\u2019r. vs. William Limbert."
+    ],
+    "opinions": [
+      {
+        "text": "BEy BEStKIEW, Judge.\nTHIS was an action founded on a promissory note given by one Pelham to one Fairchild, and endorsed by Fairchild to defendant, and by him to the plaintiffs. Plaintiffs sued bail process against Fairchild, as endorser, under which he was surrendered by his bail, and remained in custody until judgment, when the plaintiffs failing to charge him in execution, he was discharged.\nIt was contended on the trial, that this discharge of Fairchild by the omission of plaintiffs, to charge him in execution by suing out final process against his body, operated to release from liability the defendant in this action, who was their immediate indorser. Under the direction of the Court, the Jury returned a verdict for the plaintiff, and alleging that this verdict is contrary to law, the counsel for the defendant now moves for a new trial. I have carefully examined the cases cited at the trial, as well as those referred to in the argument of the present motion, and such as my own researches have afforded me. The leading'case is that of English vs. Parley, first ruled at nisi prius, and afterwards argued at the common pleas on a motion for a new trial. This case and those to which it refers, establish two propositions.\nlsi. If the holder enters into a composition with a previous endorser, he thereby discharges a subsequent one.\n2d. If the holder first sue a prior indorser and discharge him from execution, it will afford a sufficient objection to an action against a subsequent indorser.\nThe analogy contended for in the present case, must relate to the last of these propositions; but it fails, because Fairchild, the first indorser, never was charged in execution. Was the failure so to charge him a laches on the part of the holder, which would operate to release the defendant from liability ? Certainly not. It is true the indorser is not originally liable; he comes only in in aid of the drawer. But his liability commences immediately on demand and notice of non-payment. It was not necessary, in order to fix the liability of the present defendant as an indorser, that actions should have been previously instituted to judgment against the drawer and prior indorsers, and still- less was it necessary to proceed to enforce such judgments when obtained by process against the body of the defendants. Such a requisition would completely deprive- the holder of the remedy which he has against the different parties to the bill. It would compel him to charge in execution a prior indorser against whom he had obtained judgment, and his discharge in any other way than by an act of insolvency would operate to release from liability every subsequent indorser; a proposition too preposterous to be stated.\nThe motion for a new trial in this case is therefore over-ruled.",
+        "type": "majority",
+        "author": "BEy BEStKIEW, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Wakefield, Surv\u2019r. vs. William Limbert.\nCase, verdict for Plaintiff, and motion for New Trial.\nThe omission by the indorsee and holder of a note to charge in execution a prior indorser, (who had been surrendered by his bail before judgment, and discharged in consequence of such omission,) will not operate to discharge a subsequent indorser from his liability to such holder."
+  },
+  "file_name": "0013-01",
+  "first_page_order": 25,
+  "last_page_order": 26
+}

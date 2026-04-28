@@ -1,0 +1,59 @@
+{
+  "id": 219088,
+  "name": "Tupper-Applicant vs. Atwood-Respondent",
+  "name_abbreviation": "Tupper v. Atwood",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "99",
+  "last_page": "102",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 99"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 442,
+    "char_count": 8573,
+    "ocr_confidence": 0.493,
+    "sha256": "8c1bcaec00b8300ef91e31c17f84ed5fd66ff29001f9b75a038b6fbc61cf7088",
+    "simhash": "1:daa53dd79b086802",
+    "word_count": 1455
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Tupper\u2014Applicant vs. Atwood\u2014Respondent."
+    ],
+    "opinions": [
+      {
+        "text": "By CHABMOS, Judge.\nTHIS is an appeal from the Court of Ordinary of Chatham county, and there is no transcript, or proceeding of that Court, to shew the grounds of error, other than a simple order grant- \u25a0 ing administration to the respondent Atwood, as principal creditor. How he appeared as principal creditor, what was the evidence in support of that allegation, or by what law or evidence the Court of ordinary was influenced in neglecting Tupper\u2019s application, I am left entirely to collect, from the suggestions of counsel, and the Clerk of the Court of ordinary, who appears before me as a witness, to explain the grounds a\u00f1d the reasons, or, to prove the facts which produced the order of the Court below. I have been also required, to admit evidence in support of the appellant\u2019s case, entirely new; and it has been said, that on appeals of this description, the Superior Court has not heretofore, considered itself bound to adhere to -the evidence, submitted to the Court below.\nIt now becomes my duty, to decide upon principles and practice, of great and extensive importance, and which if before discussed or settled, by opinions of my predecessors, these opinions are not of record, and the only repository I can find of them, is the memory of a gentleman of the bar. This kind of recollection, is not the \u201c stare decisis,\u201d I can ever conclusively respect, and upon the doctrines of this case, that memory cannot be entitled to any authority, destroying, as it does, every land mark, by which I, as a Judge of this tribunal, ought to be guided, in correcting the errors of the Court of ordinary.\nThis Court exercises an appellate and controlling jurisdiction in three distinct forms, each having its appropriate mode of translating the case; the first, is an appeal from the verdict of a Petit Jury, to a Special Jury, selected from the Grand Inquest. This is an appeal from a verdict of a Petit Jury, to a Special Jury of this Court, or from a verdict of an Inferior Court, and does not prevent the introduction of new, or additional testimony, because it is considered in all material matters, as a de novo investigation, and subject to the incidents of an original proceeding. The bare verdict, is the subject of determination appealed from\u2014and not dependent upon any further transcript, or disclosure by record, of the correctness, or errors of that verdict. The second form, of removing a case to this Court from an inferior jurisdiction, is confined to the Court constitutionally and legally denominated the \u201c Inferior Court\"\u2014and is effected by a bill of exceptions, as prescribed in the Judicial Act, under this mode of appeal, by certiorari. We are directed by the bill of exceptions and accompanying transcript, as to all the principal facts, and grounds of law, upon which the decision purports to have been founded, and dehors those grounds, and facts, this Court is not expected to advance. The third form of translation, is a direct appeal from the Court of ordinary to this jurisdiction. Analogy then, and the very nature of an appeal, (unless otherwise allowed, as in the case of an appeal from the verdict of a Petit Jury in the Superior and Inferior Courts,) presuppose some transcript, some written and enlarged statement of the points, and the facts adjudicated in the Court below. A sic jubeo, sic volo\u2014\u201c order and decree that administration, &c. be granted to A. B.,\u201d leaves certainly no information, upon which the error of the Court below, can be even conjectured ; and consequently, compels the appellate jurisdiction, to resort for all information it may wish to obtain to viva voce testimony of what were the law and the facts which governed the judgment of the Court, below. This testimony, must be either the establishment of the precise evidence given in the Court below, or it is any testimony, as to facts, since discovered, or, which the party neglected to adduce, or, did not deem it important to adduce in the Court below. If facts of the latter description are admissible upon the hearing of this appeal, then it follows, that the Court is called upon to affirm or reverse a decision upon facts, which the inferior jurisdiction had no knowledge of, and therefore rendered no judgment from which an appeal could be entered, to be supported on speculation, in any ulterior examination, before this superintending jurisdiction. The proceedings of a Court of ordinary do not acknowledge the interposition of a Jury, and therefore there is no analogy between an appeal from that tribunal, and the appeal from the verdict of a Jury. It is not, as in the latter case, a proceeding de novo, but a proceeding based upon the disclosure of minutes of evidence, verified by the Court, or its Clerk, illustrative of its order, judgment or decree. In all applications, particularly for probate, or administration, there should be some formal allegations affiled of record, and in a contested suit something more than the nakedness which a caveat usually assumes, should be propounded to throw necessary light upon the darkness of the otherwise unexplained expressions of a general, sweeping decision. There is nothing in our political, judicial or municipal relations, which inhibits, or indeed which does not require a very close adherence, in our Courts of ordinary, to the practice of similar jurisdictions in England. At all events, this Court will require an adherence to the extent, which may put it in possession of the doctrines, and the facts, which gave existence to the general order, or sentence of the Court below. I cannot, in future, admit evidence aliunde, or suffer the appeal to be dependent for its ultimate success, upon mere evidence, or suggestions of counsel, as to a practice, putting afloat upon such a sea of uncertainty, the evidence and proceedings of a Court, possessing a con tro ul over the vast interests, confided to its powers and jurisdiction. Without establishing this case as a precedent, or adverting to the evidence as it was submitted to the Court of ordinary, or received by me under any new aspect, I am satisfied, that upon the evidence heard only by the Court of ordinary, there was no error in its decision, awarding administration to the respondent Atwood, as principal creditor. He was, as I am informed, (by viva voce testimony in this Court, as to the evidence before the Court of ordinary,) principal creditor, by sundry notes at the date of his caveat, and his opponent, a minor creditor, on an open unliquidated account. I take leave to observe also, that Tupper now appears, (and also on the application for letters ad colligendum which he obtained,) in the capacity of agent .or attorney in fact for Sage & Co., a commercial house resident in this city. He was, therefore, functus officio, in every thing relating to this appeal, and in the presence of his principals, could have had no legal authority, to enter, or to prosecute it. I cannot recognize him as appellant, and if temporary letters have been granted to him, without reference to his principals, in that particular, there has been error and irregularity.\nUpon all these-grounds, it is ordered, that this appeal be, and is hereby remanded to the Honorable the Court of ordinary of Chatham county, with this certificate, that there is no error in the order of that Court, awarding administration on the estate and effects of the intestate, to the respondent Atwood, and that administration as decreed be accordingly granted him.",
+        "type": "majority",
+        "author": "By CHABMOS, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Tupper\u2014Applicant vs. Atwood\u2014Respondent.\nAppeal from the Court of Ordinary.\nAn appeal from the verdict of a petit Jury of the Inferior or Superior Courts to a special Jury of the Superior Court, is considered as a de novo investigation, and new and additional testimony may be admitted upon the trial of such appeal.\nBut an appeal from the Court of Ordinary to the Superior Court, is an appeal from the judgment of the former tribunal, founded on the evidence adduced to it, and no other evidence should be received by the appellate jurisdiction.\nA Court of Ordinary in all applications for probate or administration should conform to the practice of similar jurisdictions in England ; at all events to such an extent as to give the appellate jurisdiction, a knowledge of the facts or doctrines, which formed the bases of the judgment of the inferior tribunal.\nAn agent in fact who had applied for letters of administration, in the name of his principals, a commercial house resident and present, has no right to enter or prosecute an appeal from the judgment of the Court below, in his own name."
+  },
+  "file_name": "0099-01",
+  "first_page_order": 111,
+  "last_page_order": 114
+}

@@ -1,0 +1,59 @@
+{
+  "id": 219022,
+  "name": "John Doe, ex. dem. Mary Lewden, et. al. vs. Richard Roe, i. e. John Gribbin, et. al.",
+  "name_abbreviation": "Doe ex. dem. Lewden v. Roe",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "187",
+  "last_page": "187",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 187"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 99,
+    "char_count": 1121,
+    "ocr_confidence": 0.526,
+    "sha256": "0049f11a6cda647e9954cad446f737788f85192dcd939a15a80fbc2f39d18cc2",
+    "simhash": "1:d08894d81be848bc",
+    "word_count": 204
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "John Doe, ex. dem. Mary Lewden, et. al. vs. Richard Roe, i. e. John Gribbin, et. al."
+    ],
+    "opinions": [
+      {
+        "text": "By CHABIiTTOBT, Judge.\nTHIS is a motion, by Habersham, to set aside this appeal, because no appeal can lie from the judgment of the Court on special verdict.\nAn appeal, under our system of jurisprudence, is entered for two purposes : lsi, to correct errors in fact commited by the Jury \u2014and 2dly, to correct the errors in law, of the nisi prius charge of the Judge to the Petit Jury. But in a special verdict there can be neither error nor mistake in matter of fact, because there is an agreement of the state of facts by all the parties to the record, and there can be no error of law, to be reviewed and corrected, because the Court has already by its judgment, settled the principles of law as applicable to the ease. Cui bono then, is the appeal entered 1\nIt is ordered, that this appeal be set aside, and expunged from the minutes as irregularly entered.\nHabersham, for the motion,",
+        "type": "majority",
+        "author": "By CHABIiTTOBT, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "John Doe, ex. dem. Mary Lewden, et. al. vs. Richard Roe, i. e. John Gribbin, et. al.\nEjectment, Special Verdiet, Judgment of the Court and Appeal.\nAn appeal cannot be entered from the judgment of the Court founded on special verdict."
+  },
+  "file_name": "0187-01",
+  "first_page_order": 199,
+  "last_page_order": 199
+}

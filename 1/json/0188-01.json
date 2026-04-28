@@ -1,0 +1,61 @@
+{
+  "id": 219038,
+  "name": "Nichols, Dobson and Hills, vs. Richard Dennis and another",
+  "name_abbreviation": "Nichols, Dobson & Hills v. Dennis",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "188",
+  "last_page": "189",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 188"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 249,
+    "char_count": 4065,
+    "ocr_confidence": 0.465,
+    "sha256": "74e5fbbd1969b7c7d2d88fad40bf9939db317e6eb386552e3e80a11f456e300a",
+    "simhash": "1:9cd36f5306d50a8f",
+    "word_count": 698
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Nichols, Dobson and Hills, vs. Richard Dennis and another."
+    ],
+    "opinions": [
+      {
+        "text": "CMARMOW, Judge.\nTHIS is a scire facias, to fix the defendants as bail to the original suit, and among other objections it is contended, by Wayne, that there is no power, or warrant of attorney, to prosecute this suit; that the power tendered is only executed by Hills, for \u201c self and other partners,\u201d after a dissolution of the firm ; that it appears to have been executed, subsequent to the institution of the original action, when it ought to have been executed contemporaneously with such institution, and to have had a direct reference to it: that a warrant of attorney exists for a year and a day only, to take out execution. (Bac. Air. tit. Attorney:) that sci. fa. is a new action, and consequently requires a fresh power of attorney ; and the power now filed, has no reference to it, (2 Ld. Raymd. 1252. 2 Salk. 603, 367, 453,) and that the power of attorney, (if any,) was originally given to Lloyd Sp Morrison, which expired, with that legal co-partnership ; and that, it could not he continued in the present legal co-partnership of Morrison & Nicoll. Nicoll, on the other side con-leaded, that the legal co-partnership of Morrison & Nicoll, was to all reasonable purposes, a continuation of the co-partnership of Lloyd Sf Morrison, under whose auspices the suit was brought; and that the English authorities only applied, when the suit was consummated by judgment, and nothing further was to be done; but under the jurisprudence of Georgia, the original warrant of attorney, operates until all the fruits of the first action, shall have been obtained.\nMorrison & Nicoll, for plaintiff\u2014Wayne, for defendant.\nI did expect, that these points would have been decided by another Judge, because it was suggested, that when at the bar, I had been retained by the defendant to the original suit: but it is not in my power further to delay the expression of my opinion\u2014 and it is\u2014that the co-partnership of Lloyd & Morrison, was revived, as to the cases brought by them, in the co-partnership of Morrison & Nicoll, who succeeded to their professional engagements\u2014that it is sufficient if a warrant of attorney is exhibited when demanded, though it may be executed at any stage of the suit\u2014and that admitting it expires on the obtainment of the judgment, (which ordinarily renders the attorn&y functus officio,) yet, that it continues to exist, if any other process is required, to obtain the full benefits of that judgment. The cases adverted to, do not, I think, oppugn this doctrine. The co-partnership of Nichols, Dobson Hills, having delegated to Hills a power to collect the debts of the firm, Hills had consequently authority, to render that power efficient, by executing foi self and partners, a warrant of attorney. These are the points, which my notes of the argument present to me, and deciding upon them alone, without prejudicing any objection of more importance which has not been submitted, and which may, on a regular motion, affect this order.\nIt is ordered, that judgment be entered up against the defendants, nunc pro tunc.",
+        "type": "majority",
+        "author": "CMARMOW, Judge."
+      }
+    ],
+    "attorneys": [
+      "Morrison & Nicoll, for plaintiff\u2014Wayne, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Nichols, Dobson and Hills, vs. Richard Dennis and another.\nSci. fa-, against Bail.\nA warrant of attorney to carry on a suit, was given to L. fy Mi, attorneys at law and co-partners: judgment was obtained thereon, and after the death of L. sci. fa. was issued against the bail by Mi # JV., who had entered into co-partnership\u2014held, that the co-partnership of L. M. was revived as to the cases brought by them, by the co-partnership of M. ^i\\T.,and that the latter firm had authority to prosecute such process, under such warrant of attorney.\nIt is sufficient if a warrant of attorney be exhibited when demanded; it may be executed at any stage of the suit.\nA warrant of attorney continues to exist after judgment, if any other process is required to obtain the full benefits of such judgment.\nIf on the dissolution of a firm, power be given to one partner to collect the debts thereof, such partner may execute a power of attorney for self and partners, for the purpose of authorizing a third person to collect the same."
+  },
+  "file_name": "0188-01",
+  "first_page_order": 200,
+  "last_page_order": 201
+}

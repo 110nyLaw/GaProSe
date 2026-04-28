@@ -1,0 +1,59 @@
+{
+  "id": 219012,
+  "name": "The State vs. John C. Helvenston, et. al.",
+  "name_abbreviation": "State v. Helvenston",
+  "decision_date": "1820-05",
+  "docket_number": "",
+  "first_page": "48",
+  "last_page": "50",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 48"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 372,
+    "char_count": 5377,
+    "ocr_confidence": 0.474,
+    "sha256": "2d0c39f3ba702be02086a890f61ec4d39075236e492fffe88706af4ea8a31b68",
+    "simhash": "1:44ee648c0b873d21",
+    "word_count": 912
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. John C. Helvenston, et. al."
+    ],
+    "opinions": [
+      {
+        "text": "By ~ RE!ErI,\nIT is to me personally a subject of very sincere regret, that the sittings of this Court have not been \u2022 permitted to terminate without being marked by an act of insubordination to the laws, and contempt of the public justice on the part of those who have been associated with me in the discharge of the duties of this tribunal.\nThe task in which we have been engaged has been more than usually laborious, and I have had much reason to be satisfied in other particulars with the conduct of those whose malfeasance in the single instance under consideration has occasioned their arraignment on the criminal side of this Court. Under the influence of these feelings, it would have been infinitely more acceptable to me to have offered to every juror who has taken part in the duties of the term, the expression of my individual thanks for his good conduct, than to have been constrained by the requirements of the law, to announce to him its censure. The duties of this tribunal are however, of that kind which do not always afford pleasure in their performance, nay, they are too frequently unattended by any one gratifying feeling, except that which arises from the consciousness of having endeavoured to discharge them with fidelity. The offence which is imputed to the defendants in attachment, is of a character which is aggravated, not so much by the moral guilt which attends its commission as by a consideration of the injurious consequences to which it must inevitably lead -, consequences which may affect the dearest rights of every individual in this community, because calculated to impair the great, perhaps the only efficient safe-guard of those rights. The defendants are arraigned on occasions of this sort, not for a contempt offered to the individual whom the Legislative will may have called to a seat on this bench, nor merely for want of proper respect for this tribunal, although as the depository of an important portion of the constitutional power, it has many claims to the respect and support of every well disposed citizen. The offence imputed to them, considered with reference to its consequences is of a much more aggravated character. It is a contempt of the laws which regard the administration of the public justice; a disregard of those regulations for the security and preservation of individual right and social happiness, which have been consecrated by the wisdom of ages, as alone calculated for the attainment of these important ends. It will be readily understood that I refer to the trial by Jury. We justly boast of this important privilege. Under its protecting aegis, we enjoy, and have long enjoyed, all the rights and privileges which are secured to us by our free and happy constitution. Destroy it, and we are at the mercy of some individual to whom its powers will be transferred. Impair it, corrupt its exercise, diminish its strength\u2014and though we may retain the forms of our present free institutions, their efficiency to the preservation of social happiness is a phantom which will live only in the remembrance of those who have witnessed the operations of the system in its purity and vigor. The unlawful indulgence which is imputed to the defendants on these attachments, it will be observed, involves in it a' communication with persons other than the officers of this Court, after, in their capacity as jurors, they had retired to decide between the State and an individual. If these communications may be permitted, who shall prescribe and limit their character ? Who does not perceive that they may be employed to the total perversion of the public justice ? Again, if one juror dissatisfied with the conduct of his associates may forcibly separate himself from them and mingle with the community, is it not obvious that there is an end of the regular administration of the public justice ? Such are my views of this unfortunate case ; I should deeply deplore its occurrence and the duties it would impose upon me, if upon a careful examination of the answers and acknowledgments of the defendants, I had not persuaded myself to believe that their transgression was rather ignorant than wilful, and consequently in a matter of mere discretion, that the requirements of the law might be satisfied without resorting to all the severity which it authorizes. I content myself, therefore, with pronouncing a pro forma sentence, merely because I hope that the object of this proceeding may in this way be attained. It is my duty, however, to distinguish between the case of James H. Walter and his associates, because his was a positive transgression, which could only have been palliated by the proof of a fact that is contradicted by all the evidence before me.\nIt is ordered, that James H. Walter do pay a fine of ten dollars, and John C. Helvenston, E. Hughes, junr., Peter Schenk, John Collins, Elijur H. Lane, Peter Morin, B. N. Douglass, L. Thompson, C. Patterson, D. Stewart, J. Harrison, each a fine of five dollars and the costs of this rule, and be thereafter discharged.",
+        "type": "majority",
+        "author": "By ~ RE!ErI,"
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The State vs. John C. Helvenston, et. al.\nAttachment for Contempt.\nIt is a contempt of Court, if the jurors after they have retired to decide on a criminal case, hold communication with persons other than the officers of the Court.\nSo, if one juror separates himself from his associates, and mingles with the community at large."
+  },
+  "file_name": "0048-01",
+  "first_page_order": 60,
+  "last_page_order": 62
+}

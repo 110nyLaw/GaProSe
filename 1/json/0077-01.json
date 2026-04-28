@@ -1,0 +1,61 @@
+{
+  "id": 219070,
+  "name": "Ex parte, Stebbins & Mason",
+  "name_abbreviation": "Ex parte Stebbins & Mason",
+  "decision_date": "1821-04",
+  "docket_number": "",
+  "first_page": "77",
+  "last_page": "79",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 77"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 5411,
+    "ocr_confidence": 0.499,
+    "sha256": "3a4378086245a74d0277376ec634fbd6d04880b657b0cc03813a9f902a080a73",
+    "simhash": "1:72af0a97e4154b01",
+    "word_count": 909
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte, Stebbins & Mason."
+    ],
+    "opinions": [
+      {
+        "text": "By CMA\u00ed\u00ed.Ej'ETOW, Jii\u00ab5ge.\nTHIS is an execution issued on a judgment, obtained against Stebbins in his individual capacity, who afterwards entered into a commercial partnership with Lowell Mason, which firm becoming insolvent, their books and effects were assigned for the benefit of their creditors. The question (as I understand it) for decision, is, can the partnership property be resorted to for the payment of this separate debt, of the partner Stebbins ?\nI must lay it down as the established law of this State, that notwithstanding the insolvency of the debtor, his future acquisitions, through whatever channels they may have been obtained' are subject to his antecedent liabilities. A judgment lien, cannot discriminate between the property which may be designated as his, at the epoch of that lien, or, that which he may legally claim, at aqy subsequent period\u2014got in any relation, or by any efforts of talents, or industry. This is certainly the operation of law, in every case of insolvency, declared by the proceeding, the statute directs for its establishment. But, whether in a case of solvency, or insolvency, an execution issued for the satisfaction of a separate debt of one partner, may seize the partnership effects. (1 Show, 137. Heydon vs. Heydon. 1 Salk. 392. 1 Comyns, Rep. 277. 3 Pr. Wms. 25. 2 Mod,. 280. Leach\u2019s edit. 793. Ld. Raym. 871.)\nThe Sheriff can, however, only dispose of the interest, which \u201c such partner has in the partnership property,\u201d after an ascertainment of such interest by the form prescribed, or, the mode of reference directed, by a Court of common law or equity. In the absence of local adjudications, fixing the practice in this State, I feel myself bound in any conflicts, which may be perceived between the ancient and modern decisions of the English Courts of law and chancery, to adhere to those cases, which were adopted as parts of our system of jurisprudence, on the change of our political connexion with Great Britain. These cases announce the doctrine, that the partnership property is liable to, and may be taken under execution for the separate debt of one partner. But the case of Fox vs. Hanbury, (Cowper\u2019s Rep. 445,) without controverting this liability of the partnership effects, confines it to the interest, which may appear after the ascertainment and settlement of partnership debts and accounts.\nAn American decision, which cites all the cases, declares, that the separate creditor takes the interest of the partner, subject to the rights of the other partners. Matter of Smith, (16 John\u2019s Rep. 106.) Our statute declares, that the property shall be bound from the signing of the judgment. What property ? I answer property not incumbered by any previous lien, of a dignity affecting the preference given to a judgment. Can that dignity be given to any commercial transaction not operating as a specific lien? A bill of exchange, a promissory note, or any other mode of payment cannot interfere with the jurisprudence of this State, which fixes the lien from the signing of the judgment. It rides over all other contracts, no matter what may be their character subsequent to that signing, and supersedes the claims of creditors not holding its very discriminating authority. It in short, ascertains the property the debtor had, at the date of the judgment, and that which he may have afterwards acquired\u2014 without reference to the embarrassments he may have placed it under by any business, or distinct capacity of life. This is the law of the State of Georgia, and if I mistake not, was the law of England, at the time we adopted and incorporated into our jurisprudence the decisions of their Courts\u2014I mean, as to the liability of the partnership effects without any reference to their priority, and the rights of a separate creditor. The articles of co-partnership, will designate the interest of the separate partner, and upon a proper application to me as Judge or Chancellor, I will deliver that interest, at the disposal of the execution ; but in the absence of that contract, I must consider an undivided moiety 5 subject to the execution; if other interest, than an undivided moiety, is the matter of fact, I will refer it, (if solicited so to do) for ascertainment to the proper officer, and that officer is, I think, the clerk of the Court.\nHabersham, for Creditors.\nIt is, therefore, ordered, that one moiety of the partnership effects of Stebbins and Mason be subject to the execution of this judgment creditor : and that the assignees of Stebbins and Mason, have leave to file in the office of the clerk of this Court exceptions to his report, of the partnership interest of Stebbins, within twenty days from this date, to await the further order of the Court at the expiration of that time: and that if no exceptions are filed, that the amount levied upon be paid over to the separate judgment creditor.",
+        "type": "majority",
+        "author": "By CMA\u00ed\u00ed.Ej'ETOW, Jii\u00ab5ge."
+      }
+    ],
+    "attorneys": [
+      "Habersham, for Creditors."
+    ],
+    "corrections": "",
+    "head_matter": "Ex parte, Stebbins & Mason.\nA creditor who had obtained judgment against one co-partner in his individual capacity, which judgment was anterior to the co-partnership, has the right to levy on the partnership effects, and to sell his debtor\u2019s interest therein, without reference to the claims of the creditors of the firm.\nSuch judgment being a lien on all the propery of the debtor, which ho had at the time of the signing thereof, or which he might thereafter acquire, supersedes the claims of all subsequent creditors."
+  },
+  "file_name": "0077-01",
+  "first_page_order": 89,
+  "last_page_order": 91
+}

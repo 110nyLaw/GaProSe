@@ -1,0 +1,61 @@
+{
+  "id": 219013,
+  "name": "Simons vs. Sheftall",
+  "name_abbreviation": "Simons v. Sheftall",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "90",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 90"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 338,
+    "char_count": 5153,
+    "ocr_confidence": 0.499,
+    "sha256": "e0e76aec835986b8b343dbfb8204dc51860f6d0b8e2dbb711c818020756431ac",
+    "simhash": "1:a4a4f6a159adcbdd",
+    "word_count": 886
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Simons vs. Sheftall."
+    ],
+    "opinions": [
+      {
+        "text": "B\u00a3y C\u00cdIA2S,]LT\u00a9W, Aet\u00edlge.\nTHIS case being called, the attorney of record moved for a continuance, upon the ground that he understood the Court had in another capacity, formed an opinion upon the merits or some prominent points of the case, which might, on its trial now, leave such a bias as to deprive the plaintiff of that impartial, unprejudiced investigation, essential to the advancement of justice in every cause. If not in the words, this may be considered as substantially urged by Mr. Habersham, in support of the motion.\nMr. Wayne, associate counsel, argued on the same side.\nThe motion for a continuance of this case, is not\u2014cannot be pressed as a matter ex debito justitice. It is bottomed upon the delicacy of my situation, and the apprehension that justice cannot be impartially administered, in this contest about an inconsiderable property, from the bias my mind must have imbibed, in favor of the defendants. I was in the office of Mayor of this city, when this action was instituted. The defendant derived his title from the corporation, and it became my duty\u2014at least I thought it so, to aid the defendant with my occasional advice. On the trial below, the Jury gave a verdict for defendant, in opposition to the opinion pf my predecessor, and as Mayor, I expressed my satisfaction at the verdict, becaxtse I thought the Judge erred in that point of his opinion, which required in and of the defendant\u2019s title a more formal entry than the Marshal had made : and in all probability, I gave this opinion because the Jxxdge\u2019s exposition, of the city ordinance, designating the mode of entry, seriously affected the interests of a corporation, over which I then presided. It may have been an opinion emanating from esprit de corps\u2014for > most certainly, since the translation of this cause to the appeal docket\u2014I have not given the subject any deliberate reflection, and as the opinion of my predecessor was delivered in an oral charge to the Jury, I do not recollect the special grounds upon which he considered the Marshal\u2019s entry at variance with that prescribed in the ordinance. I am confident that any re-sale of the property, under any other form of entry, was not at my suggestion. I did not aid, (to the best of my recollection,) in the fabricatioxx of any plea on the appeal. I received no fee from the defendant, and when he could have employed me as one of his counsel, he resorted to other gentlemen better acquainted with all the merits and difficulties of his cause, and I presume, of supposed superior capability to defend him. Save the entry, I have adverted to, I am profoundly ignorant of the bases upon which the defence will be rested in this trial, and a prominent difficulty cannot be the first entry, because the learned Judge, who gave an opinion adverse to it, is now of counsel for the defendant.\nSuch has been my agency in this cause, xxpon which this imputation of bias is alleged. I disclaim it, as well as the influence of any feeling or conviction adverse to an impartial or unprejudiced examination of the respective rights of these parties, or any parties. The defendant possesses the right to demand the trial of his cause, unless it can be continued upon legal grounds. The appeal of plaintiff\u2019s counsel is addressed to the discretion of the Court, which ought, it is contended, to be exercised under these impressions of the bias of the Court\u2014and for this reason, among many others, because another Judge may alternate with me at the next term in January. Can this Court exercise a discretion in opposition to an unequivocal legal right, depending upon so precarious an expectation ? Ought a Judge to exercise a discretion in a case like this, when conscious that the injuries anticipated cailnot result\u2014and therefore a postponement of trial would only have the effect of gratifying feeling which ought not to be accommodated, or giving currency to the imputation of prejudice, bias, and partiality against this Court, which could not be affixed to any other Judge presiding in this cause, and contending with the same objections ? I shall, therefore, confront this case, and all the trivial embarrassments which relate to myself. The Jury are judges of the Equity, the law and the facts of the case, and gentlemen may console themselves with the promise, that no attempt will be made on my part to bias them. If on the rendition of their verdict, there should be an ulterior motion or proceeding, the liberal proposition of defendant\u2019s counsel will be cheerfully acceded to\u2014by a reference of that motion, or that proceeding, to another Judge. This is the only compromise I can make between my delicacy and my duty.\nHabersham & Wayne, for the motion\u2014Berrien & M. Sheftall, Senr., contra.\nMotion over-ruled.",
+        "type": "majority",
+        "author": "B\u00a3y C\u00cdIA2S,]LT\u00a9W, Aet\u00edlge."
+      }
+    ],
+    "attorneys": [
+      "Habersham & Wayne, for the motion\u2014Berrien & M. Sheftall, Senr., contra."
+    ],
+    "corrections": "",
+    "head_matter": "Simons vs. Sheftall.\nEjectment.\nA defendant lias a right to demand the trial of the caiTse, unless it can be continued on legal grounds, and the Court will not continue the cause from motives of delicacy, in opposition to such right.\nIt is not a sufficient ground for continuance of a cause, that the presiding Judge had in another capacity, expressed an opinion on one of the points involved."
+  },
+  "file_name": "0090-01",
+  "first_page_order": 102,
+  "last_page_order": 104
+}

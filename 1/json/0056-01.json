@@ -1,0 +1,61 @@
+{
+  "id": 219000,
+  "name": "G. F. and O. Palmes vs. William Stephens; F. Densler vs. Same; Joshua E. White & Co. vs. William Stephens",
+  "name_abbreviation": "Palmes v. Stephens",
+  "decision_date": "1821-03",
+  "docket_number": "",
+  "first_page": "56",
+  "last_page": "59",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 56"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 398,
+    "char_count": 6499,
+    "ocr_confidence": 0.523,
+    "sha256": "1f5a1465499ba04b70d4e31f8f8188840d76a424f6cb13a8817ad472ba0418ce",
+    "simhash": "1:534c253446e8e43f",
+    "word_count": 1111
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "G. F. and O. Palmes vs. William Stephens\u2014F. Densler vs. Same. Joshua E. White & Co. vs. William Stephens."
+    ],
+    "opinions": [
+      {
+        "text": "By CHAJttTON, Awtlge.\nTHE Sheriff of Chatham county having collected the sum of four hundred and fifty dollars under an execution issued from the Superior Court against the estate of the defendant, and that amount remaining in his hands, a notice was served by the attorney for the plaintiffs in executions issued from the Mayor\u2019s Court, requiring him to retain in his hands, the amount so collected, subject to the said executions; and he has also been notified by the administrator of the defendant, not to pay over the amount to the said plaintiffs in execution\u2014because there being no assets in the hands of the administrator, the funeral, and other expenses of the intestate in his last sickness, raise a lien on the funds so collected by the Sheriff, which, by the law of the State, has a preference and a priority of payment to all other liens and demands. The case thus stated and agreed to, by the attorneys on both sides is submitted to the decision of the Court.\nThe order, in which debts due by any testator or intestate, as directed by our statute, shall be paid by executors or administrators is as follows:\n1 s\u00ed. Funeral and other expenses of the last sickness: 2ly. Charges of probate and will, or of the letters of administration : 3ly. Debts due to the public: 4ly. Judgments, mortgages and executions, the eldest first: 5ly. Rents : 6ly. Bonds or- other obligations : 7ly. Debts due on open accounts, \u201c but (says the Act) no preference shall be given to creditors in equal degree, when there is a deficiency of assets, except in the cases of judgments, mortgages, that shall be recorded, from the time of recording, and executions lodged in the Sheriff\u2019s office\u2014the eldest of which shall be first paid ; or in those cases where the creditor may have a lien on any part of the estate.\u201d (Marb. and Crawf\u2019s Dig. p. 223.) This classification is sufficiently unambiguous to supersede many illustrations from English jurisprudence. In the most important respects however, the two systems agree, and in this particularly: \u201c that funeral, and testamentary charges are to be first paid,\u201d Off: of executors 137. 2. Bl. Com. 511.\nThe Lex domicilii, our own act, gives a priority to these expenses, over all other liens :\u2014even those of that specific character, which in the language, and according to the definition of Lord Ellenborough, \u201c import an authority either to possess or retain\u201d\u2014Starkie's Repts. p. 144. These specific liens are placed upon an equality with judgments and executions, and mortgages, where there appears a sufficiency of assets ; and a preference is only given them on a deficiency of assets. The contest can only exist in that case between judgments, mortgages first recorded, and the eldest executions lodged in the Sheriff\u2019s office. Funeral and expenses of last sickness, and charges of probate and will, and letters of administration, still under all embarrassment of the testator or intestate\u2019s estate, retain their place at the head of the order, in which the law of Georgia directs the debts to be paid. It is a lien paramount to, and rides over all others; and an equal energy and priority is given it, by the English law. \u201c An executor may lay out so much of the testator\u2019s assets as are necessary for defraying his funeral expenses, before he has paid any of his debts and legacies.\u201d (2 Bac. Ab. 436, cites Rol. Abr. 926, \u201c and herein, (continues the same authority,) the executor is to be careful that the expenses be moderate, and not exceeding the degree and circumstances of the deceased; otherwise he may be guilty of a devastativit.\u201d (Ibid, cites Off. of Execut. 129.)\nAccording to British adjudications (for in the absence of our own, they must be permitted to have their due weight of authority,) the degree or rank of the deceased is not to be considered the insulated fact directory of the amount of funeral expenses and those of his last sickness. The law which feels only for justice, and the claims of creditors\u2014looks with perfect apathy, upon the domestic liberality which honors the respected and lamented dead with obsequies, dictated by affection, and due to departed goodness and virtue. The expensiveness of these obsequies must also, and principally be regulated by the circumstances of the deceased. It has therefore been decided that not more than forty shillings would be allowed for the burial of one dying insolvent. (3 Atk. 249,) and in an old authority it is stated as the decision of Ch. J. Holt, that \u201c 10 pounds is enough for the funeral of one in debt.\u201d (Comb. 342, referred to in 6 Bac. Abr. 436.) In another case the expenses of pall and ornaments have been rejected, and only those allowed for the \u201c coffin, ringing of the bell, parson, clerk and bearers fees.\u201d (Salk. 296. p. 3.)\nIn the case before me the administrator represents, that save this fund in the hands of the Sheriff, there are no assets at his disposal to meet the funeral and expenses of last sickness. Without, therefore, adverting to the rank and character which the deceased sustained in society, these expenses must be regulated by the circumstances of the deceased, connected with the usage of the country, even when insolvency has been established. All accounts in relation to the estate must pass through the examination and receive the sanction of the Court of Ordinary; and this account for funeral expenses, &c. is not exempted from the scrutiny of that tribunal. With the law before it, and the amount which custom has allowed in analogous cases, that Court must direct me as to the ulterior order I may give on the Sheriff of this county. I can only now decide, that these expenses constitute a lien which supersedes all others, and that when ascertained, is the first debt due, and to be paid out of the assets of the intestate.\nHabersham & D'Lyon, for plaintiffs in execution\u2014Stephens, administrator in pro. per.\nIt is therefore ordered and adjudged, that the Sheriff retain in his hands the moneys collected as aforesaid, to abide the further order of this Court upon the account which may be submitted to, and passed by the Court of Ordinary of Chatham County.",
+        "type": "majority",
+        "author": "By CHAJttTON, Awtlge."
+      }
+    ],
+    "attorneys": [
+      "Habersham & D'Lyon, for plaintiffs in execution\u2014Stephens, administrator in pro. per."
+    ],
+    "corrections": "",
+    "head_matter": "G. F. and O. Palmes vs. William Stephens\u2014F. Densler vs. Same. Joshua E. White & Co. vs. William Stephens.\nExecutions on Judgments in the Mayor's Court.\nExecution on Judgment in the Superior Court.\nFuneral expenses, regulated by tlie circumstances of the deceased, and the usage of the country, constitute a lien or debt on the estate of the deceased, superior to all other claims."
+  },
+  "file_name": "0056-01",
+  "first_page_order": 68,
+  "last_page_order": 71
+}

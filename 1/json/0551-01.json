@@ -1,0 +1,68 @@
+{
+  "id": 219117,
+  "name": "Jesse Sanderlin vs. The Trustees of the Roman Catholic Church of Savannah",
+  "name_abbreviation": "Sanderlin v. Trustees of the Roman Catholic Church",
+  "decision_date": "1837-07",
+  "docket_number": "",
+  "first_page": "551",
+  "last_page": "556",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 551"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "2 John. Rep. 248",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 522,
+    "char_count": 8376,
+    "ocr_confidence": 0.527,
+    "sha256": "96b47716b58c65839f2152f88d9171fb439ddc33c1c4bf24173cbebb9d685d08",
+    "simhash": "1:754e6d5d6c2eb4e9",
+    "word_count": 1495
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Jesse Sanderlin vs. The Trustees of the Roman Catholic Church of Savannah."
+    ],
+    "opinions": [
+      {
+        "text": "By BOBEBTC M. CHAKWOS\u00cd, Judge.\nTHIS application for Certiorari, was handed to me yesterday, after I had prepared my resignation, as Judge of this Circuit. As I have determined to grant the writ, without the ordinary rule nisi, it is proper that I should give my reasons for doing so, in a few words.\nIt seems to me, that the only question submitted to me, is, are sales at auction, of goods, for the price of ten pounds sterling, and upwards, within the statute of frauds? I put the question in this shape, because, though the subject matter of the sale was a wooden house, or church, yet it might be removed from the freehold or soil, without injury to it, and one of the conditions of sale was, that it should be removed by the purchaser, within ten days after the sale. It was not a contract, therefore, for the sale of land, or any interest in or concerning it; if it had been,.there would be less, (if indeed, there is any,) difficulty in the question presented.\nI think that sales of goods at auction, for the price of ten pounds sterling, and upwards, are within the statute of Frauds. It is true that Lord Mansfield, in Simon vs. Metivier, or Motivos, (1 Bl. Rep. 599,) expressed the inclination of his \u201c present opinion,\u201d that auctions, in general, were not within the statute, and Wilmot and Yates, J. added their doubts. If the question had been distinctly decided in that case, I should have been inclined to recognize its authority, inasmuch as the case was determined before our Revolution, and apart from this, the opinion of such men necessarily cairy with them great weight. But Lord Mansfield expressly says, (1 Bl. 601,) \u201c this is not necessary to be now determined, for if they are within it, the requisites of the statute are Well complied with.\u201d It is worthy of remark, that the report of this case, in 3 Burr 1921, does not distinctly mention this point, as was observed by Lord Ellenborough, in Hinde vs. Whitehouse, 7 East. 568. And the Lord Chancellor, in Buckmaster vs. Harrop, 13 Ves. jr. 472, says, \u201cI agree to the case of Simon vs. Metivier, which establishes, not as a general principle, that sales at auction are not within the statute, but that a memorandum in writing, by the auctioneer, is binding upon both parties.\u201d\nSo that it seems to be a matter of doubt, whether Ld, Mansfield and the other Judges, ever meant to deny, that these sales at auction were within the statute. At all events, they did not intend to decide it, and the weight of authority is clearly the other way. (Hinde vs. Whitehouse, 7 East. 568. Buckmaster vs. Harrop, 13 Ves. Jr. 456. Blagden vs. Bradbear, 12 Ves. Jr. 466.) It has been repeatedly held that sales of land or any interest therein, at auction, are within the statute. (Stansfield vs. Johnson, 1 Esp. 101. Walker vs. Constable, 2 Esp. 659, and 1 B. & P. 306. Buckmaster vs. Harrop, 7 Ves. Jr. 344.) In reference to this point, I can see no rational distinction between the sales of lands and goods; the terms as to the memorandum in writing are exactly the same. (Lord Eldon, in Coles vs. Trecothick, 9 Ves. jr. 249. Ross on Venders, 12 Law Library 14. Lord Erskine, in Buckmaster vs. Harrop, 13 Ves. jr. 459.) Indeed, without reference to any authority, if we profess to be governed by the statute, (and it is in force in our State,) it seems impossible to escape from the conviction, that sales at auction are included within it. The language of the Act is, that \u201cno contract for the sale of goods,\u201d &c. Where the words of a statute are ambiguous, and will bear two constructions, one consonant to justice, equity and reason\u2014 and the other contrary thereto, Judges may, (and are bound to,) give to them that construction, which will tend to the advantage of the citizens of the State, biit where the words of an Act are clear' and we have no authority for saying, that the Legislature did not mean what they said, I am not a friend to the principle, which constitutes the Judge both the maker and the expounder of the law. As much fraud may be committed at a sale by auction, as at any other, and the equity of the statute, as well as its letter, will be. better preserved, by declaring that such auction sales are within it. (See the remarks of the Master of the Rolls, in Blagden vs. Bradbear, 12 Ves. Jr. 471, in reference to the contradictory swearing in that case.)\nIf I had any doubt in this matter, it would be dissipated by a statute of our own State. I allude to the Act of Dec. 27th, 1831, (Pamphlet Acts of 1831, p. 130,) which expressly declares, thai no note or memorandum in writirig, shall be necessary to charge the purchaser of arty real or' personal estate, at any sale which should thereafter be m'ade at public outcry, by \u201c any exbcutor, administrator, guardian, or Sheriff,\u201d but that such purchaser shall be bound, by reason of such real or persona] estate being knocked off to him, as the highest bidder. Expressio unius est exclusio ah terius. It is impossible to suppose that our Legislature were ignorant of the fact that there were other sales at \u201c public outcry\u201d than those enumerated by them. The statute book of the State would have reminded them, that there were vendue masters appointed under the authority of the State, with \u201cfull power and authority to set up and expose to sale by public outcry and vendue; all and any houses, lands, ships, goods and property whatsoever.\u201d I think, therefore, that it is a fair conclusion, that when they declared that certain sales at public outcry should be valid without a memorandum in writing, they meant, that all other sales at pub-lie outcry, should not be effectual, without the memorandum required by the statute of frauds, of force in this State.\nThe much agitated question whether the auctioneer is the agent of both parties, and may make the memorandum to bind the purchaser, does not arise in this case. There was no evidence given in the Court of Common Pleas and of Oyer and Terminer, that any memorandum had ever been made by the auctioneer or any one else. The question does not seem to have been asked. In this respect, this case somewhat resembles Buckmaster vs. Harrop, (13 Ves. Jr. 473.) The Court below instructed the Jury, that such proof was indispensable to authorise a recovery by the plaintiffs, who were seeking to make defendant liable for the loss arising from his failure to complete the said alleged sale, the premises having been again sold at public outcry by the plaintiffs, at a reduced price. The Jury disregarded the charge of the Court and found a verdict for the plaintiffs, and in doing so, they assumed the right to determine for themselves, a question of law. It is the duty of Courts of justice to see that legal rights are not destroyed in this or any other manner.\nI think, therefore, that the applicant is entitled to his certiorari. I should have granted a rule nisi, and have heard argument thereon, if the posture of affairs would have admitted of it, but as I have determined to resign immediately my office, no alternative is left to me, but to grant the certiorari at once, which I am authorised to do, if I \u201c deem the exceptions taken to be sufficient,\u201d which I do. To have made the rule nisi returnable to the next term, would have been delaying the plaintiffs in the Court below, unnecessarily ; and as it is uncertain when my successor will be appointed, to have fixed a day for the argument anterior to November, would have been prejudicing the defendant, inasmuch as the day might arrive without any appointment having been made, and his property would be seised under a judgment, which I do not think has been legally obtained. On the return to the writ itself, argument may be had, and a decision deliberately made, iand I am sure I should regret if this galloping decision should have any influence upon the mind of the Court.\nL. S. D\u2019Lyon, for applicant\u2014N. Marrow, contra.\nLet certiorari issue, and in the mean time let all proceedings be stayed.\nL\nAs to whether Sheriff\u2019s sales of land arc within the statute of frauds, see Nichol vs. Ridley, 5 Yerger, 63. Hanson vs. Barnes, 5 Gill & John. 359. Simonds vs. Catlin, 2 Caines, 61. Jackson vs. Catlin, 2 John. Rep. 248.\u2014(.Ed)",
+        "type": "majority",
+        "author": "By BOBEBTC M. CHAKWOS\u00cd, Judge."
+      }
+    ],
+    "attorneys": [
+      "L. S. D\u2019Lyon, for applicant\u2014N. Marrow, contra."
+    ],
+    "corrections": "",
+    "head_matter": "Jesse Sanderlin vs. The Trustees of the Roman Catholic Church of Savannah.\nApplication for Certiorari.\nA sale of goods at auction, for the price of \u00a310 and upwards, is within the statute of Frauds."
+  },
+  "file_name": "0551-01",
+  "first_page_order": 563,
+  "last_page_order": 568
+}

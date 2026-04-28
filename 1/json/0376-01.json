@@ -1,0 +1,61 @@
+{
+  "id": 219039,
+  "name": "Joseph C. Habersham, comp'lt, and James D. Huguenin, adm'r, and William Weightman, def'ts",
+  "name_abbreviation": "Habersham v. Weightman",
+  "decision_date": "1832-05",
+  "docket_number": "",
+  "first_page": "376",
+  "last_page": "379",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 376"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 473,
+    "char_count": 8408,
+    "ocr_confidence": 0.519,
+    "sha256": "10b5dba446687eb280f9d9d32e0ea66f498646a56e580c28d214f96188c7dff2",
+    "simhash": "1:0effecc8c60a55a9",
+    "word_count": 1458
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Joseph C. Habersham, comp\u2019lt, and James D. Huguenin, adm\u2019r, and William Weightman, def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "By MW, JfiMlg-e.\nTHE bill in this case alleges that the complainant, as a practising physician of medicine, attended upon the negroes on the plantation of the late Gen. Jacob Read, prescribing for them in sickness and furnishing medicines for several years, commencing in 1825, and ending in October, 1830; that these services were rendered and performed at the instance and request of the executor, and upon the faith and credit of the estate. A small part of the account, is for services rendered after the death of the executor, and when the plantation was under the control of the overseer. The bill states that Gen. Read died largely indebted to Weightman, and that the executor confessed judgment in the Circuit Court of the United States for fifty-seven thousand dollars in 1824, which was renewed by scire facias in 1827; that Huguenin qualified as administrator at the instance of Weight-man, as principal creditor; that Huguenin received into his possession the whole of the estate, which remained unadministered, and which it charges, was sufficient to pay all the debts. The bill further charges that Huguenin did, with a view to give a preference to Weightman, and contrary to the statute of Georgia, confess a judgment, not only for the original principal, but also for the interest, being twenty-eight thousand, seven himdred and ninety-three dollars and eighty-two cents. The bill prays an account of the debt and of the assets of the estate: that the assets may be applied in a course of administration, and that what shall remain after paying debts of a higher degree, shall be decreed to satisfy complainant\u2019s demand in whole or pro rata, with the open account creditors\u2014to the exclusion of the judgment for interest confessed to Weightman ; and that if Huguenin has already paid that judgment, he may be decreed to be personally liable.\nTo this bill a general demurrer has been filed. Many grounds have been assigned in support of it, but the decision of it must depend in my judgment upon a single point. If upon principles of law, the services rendered upon this estate, create no charge or debt against the estate : if, as contended by defendants\u2019 counsel, the complainant is to be considered as having contracted with the executor who is personally liable to him for compensation, and who has his remedy against the estate for any advances made, or liabilities incurred in his behalf, then it is clear that the plaintiff could be entitled to no relief upon the facts of his bill, and the demurrer would have to be sustained. But if, on the other hand, these services can, consistently with principles of justice and equity, and supported by adjudicated cases, create a charge upon the estate, and constitute the complainant a creditor thereof, then it is equally obvious that the bill must be answered, and the demurrer consequently overruled. It is not necessary to go into any question affecting Weightman's judgment on the right of the plaintiff to stand in the place of the executor, and come here for a lien upon the estate ; for, considering him only as a simple contract creditor of the estate, he is entitled to have his bill answered and to have an account of the assets from the administrator. \"When the answer comes in, and the precise condition of the estate is ascertained, should it be rendered necessary, it will then be time enough to adjudicate the other questions raised in the case, and considered as a case between a creditor of the estate, and the legal representative, for an account of assets in his hands, liable to the payment of debts. I see no necessity for making other persons parties than those before the Court. I proceed to the consideration of the point stated. It is contended as a general principle, that an executor has no power of charging the effects in his hands to be administered, by any contract originating with himself; that he cannot upon his own contract render the estate liable to be taken in execution. And this does appear to me to be the result of the cases on this subject at law. But there is a class of cases where the estate has been charged in equity at the instance of the creditor, for supplies furnished, and services rendered, which were necessary to its existence. Many cases of this kind have occurred in South Carolina, growing out of the description of property consisting in plantations and negroes, and requiring as necessary to their utility, and even existence, supplies of utensils, food, clothing and medical attendance. The case of Carter vs. Eveleigh, (4 Dess. Eq. Rep. 19,) was a case in which a saw gin was purchased for the use of the separate estate of the wife, by the husband, the manager of it. The bill was filed by the seller to make the trust estate liable. The Chancellor decreed, that as the gin was bought for the trust estate, as it belongs to it, and has not been paid for, it is but just that the complainant\u2019s demand should be satisfied out of the estate. The Court of Appeals unanimously confirmed this decree\u2014overruled the demurrer, and ordered the defendants to answer. In the case of James vs. Mayrant, (4 Dess. Eq. Rep. 591,) a factor had furnished supplies to a plantation : the Court referring to the foregoing case, re-affirms the decision. Montgomery vs. Eveleigh and others, (1 M\u2019Cord\u2019s Ch. Rep. 267.) The plaintiff was the endorser upon a note given by Wm. Eveleigh for the purchase of corn, for the subsistence of the negroes belonging to a trust estate of his mother. Ch. Desaussure decides, that the trust estate is liable. It would, he says, be a fraud on the public, to protect a trust estate from such a demand. It would be destructive to such estates if they were not so liable, as it wouldtake away all credit, when the slaves might be perishing for want of food, or dying for want of medical aid. The case of Douglass vs. the Ex'or of Fraser, in 2 M\u2019Cord\u2019s Ch. Rep. 105, was that of a debt partly owing by the testator in his life time, and in part contracted by the executor for goods, &c. for which the executor had given his own note. The executor was insolvent, and the bill was filed against him to subject the estate in his hands to the payment of the debt. The Chancellor decided the estate to be liable ; upon appeal that decree was confirmed, Judge Nott remarking, that the mere circumstance of the executor having liquidated the demand, cannot exempt the estate from the payment of a debt otherwise chargeable upon it. The previous cases are again referred to and approved. In relation to this last case, I do not intend to be understood as intimating any opinion upon the question, how far the taking of a promissory note from an executor, considered as an admission of assets, would go to bind him personally, and to discharge the simple contract debt for which it was taken. In the case before me the simple enquiry is, whether the estate of a deceased person is liable for'necessary food, or clothing or medical aid furnished for its benefit. The decisions referred to are those of a sister State in whieh principles have been applied, that considered with reference to the necessities of this kind of property in particular, appear to me perfectly just and equitable, and in accordance with sound policy. In this case the bill charges that the executor is dead and insolvent, and the plaintiff must lose the labor of several years bestowed upon this estate for its benefit and preservation, if his only remedy be against the executor. I think it right, upon the facts stated in this bill, that as the estate has had the benefit of his services, it should respond to his elaim. The demurrer, therefore, is overruled.\nHabersham & Owens, for plaintiff\u2014-John C. Nicole, for defendants.",
+        "type": "majority",
+        "author": "By MW, JfiMlg-e."
+      }
+    ],
+    "attorneys": [
+      "Habersham & Owens, for plaintiff\u2014-John C. Nicole, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Joseph C. Habersham, comp\u2019lt, and James D. Huguenin, adm\u2019r, and William Weightman, def\u2019ts.\nIn Equity. Bill for discovery, relief, S$c.\nWhere the bill alleged that complainant had performed medical services for negroes belonging to an estate, on the faith of such estate, and at the instance of the executor thereof, who had since died insolvent; held, that in equity such creditor had a right to resort to the estate, in the hands of the administrator de bonis non, for payment.\nQueers, if the individual note of the executor of an estate,rtaken by a simple contract creditor thereof, would operate to charge the executor personally, and to discharge the estate from such debt."
+  },
+  "file_name": "0376-01",
+  "first_page_order": 388,
+  "last_page_order": 391
+}

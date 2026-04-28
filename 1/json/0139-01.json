@@ -1,0 +1,59 @@
+{
+  "id": 219024,
+  "name": "The State vs. P. L. Wicks",
+  "name_abbreviation": "State v. Wicks",
+  "decision_date": "1822-02",
+  "docket_number": "",
+  "first_page": "139",
+  "last_page": "139",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 139"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 127,
+    "char_count": 1524,
+    "ocr_confidence": 0.481,
+    "sha256": "4d64e95516f5f86191b34dc891c395cea482982ade3a27bd004105689d5e6b46",
+    "simhash": "1:15b462edc9e520d1",
+    "word_count": 249
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. P. L. Wicks."
+    ],
+    "opinions": [
+      {
+        "text": "3By C\u00edIAIl\u00edh'JMM', - Jfiwlge.\nThere are favorable circumstances in this case, and there is a presumption, that the prisoner has only been guilty of manslaughter, and therefore, supported as I am, by numerous authorities, which, under a similar combination of circumstances, have admitted to bail.\nIt is ordered, that the prisoner be discharged upon his entering into recognizance before the Clerk of this Court, himself in two thousand dollars, and two good securities to be approved of by .the Court in two thousand dollars each, .to answer to such bill of indictment as may be preferred against him during the present term.",
+        "type": "majority",
+        "author": "3By C\u00edIAIl\u00edh'JMM', - Jfiwlge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The State vs. P. L. Wicks.\nHabeas Corpus.\nWhere it appears upon a charge of homicide, that there 'are''favorable circumstances in the case, and there is a presumption, that the prisoner has been guilty of manslaughter only\u2014 the Court will exercise its discretion by admitting bail.\nTHE prisoner being brought up, his counsel moved that he be admitted to bail upon the grounds, that it appeared from an examination of the affidavits returned, as taken before the com- . \u2022 mitting Magistrate, and the Coroner, that the offence- with which the prisoner stood charged was manslaughter,-and-that if such should not be the impression of the Court, yet there was a presumption of innocence, and many favorable circumstances, which called upon the Court to exercise its discretion, to the extent of the prisoner\u2019s application\u2014and that he was prepared to give any bail and security the Court might require."
+  },
+  "file_name": "0139-01",
+  "first_page_order": 151,
+  "last_page_order": 151
+}

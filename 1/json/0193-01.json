@@ -1,0 +1,61 @@
+{
+  "id": 218980,
+  "name": "William Waters vs. Bank of the State of Georgia and Planters' Bank",
+  "name_abbreviation": "Waters v. Bank of Georgia",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "193",
+  "last_page": "195",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 193"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 327,
+    "char_count": 4677,
+    "ocr_confidence": 0.494,
+    "sha256": "8e34328594314a994cd907440e8cf38301e0f40c91382c9571b9ff64012fd6bc",
+    "simhash": "1:3d813743f36f1a30",
+    "word_count": 796
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William Waters vs. Bank of the State of Georgia and Planters\u2019 Bank."
+    ],
+    "opinions": [
+      {
+        "text": "CSEABB-h1C\u00aeN, Jis\u00edSge.\nTHIS is an application for establishment of lost conformably to the mode prescribed by rule of Cour\nThe case has been argued on paper with very considerable ability, and is entitled to a place on the minutes of this Court, for the information, and I may add, the instruction of my brethren of the bar, on topics and points of law\u2014involving much nicety,: and upon which the best cultivated professional intellect may form different opinions, and deduce the most conflicting conclusions. The argument submitted on each side, will illustrate the position, at the same time, and shew the learning\u2014logical precis' ion, and plausibility with which principles and doctrines may he maintained in contrary and hostile characters. The argument submitted by Mr. Davies, in answer to that of Mr. D'Lyon, did for some time change the current of my reflections as to the equity Mr. Waters was entitled to, on his application, under the rule of Court. According to Mr. Davies' exposition of the Act of 1799\u2014the circumstances of the case\u2014and the questionable shape of the facts upon which these Bank notes are attempted to be established as lost, or destroyed\u2014it would seem, that the comparative equitable and summary mode of proceeding under the rule of Court, passed in pursuance of Legislative permission, is not the remedy the applicant ought to have adopted. With much deference to the suggestions and reasoning of counsel, I do not think myself authorized to countenance any proceeding, for the establishment of a lost or destroyed paper, variant from that prescribed by the Legislation of the Court. The petition has gone through the forms prescribed, and the Jury have found the fact, that these notes are lost. It is true these Bank notes may still be in circulation, whether as notes payable to bearer,, or post notes, for the reasons assigned by Mr. Davies, and it may be true, that the mail containing them was robbed. Still these notes in relation to the petitioner are completely lost\u2014and throwing himself within the circle of contingencies\u2014it would be difficult for any ingenuity to designate a happy casualty by which he could flatter himself with the hope of his having them restored. Admitting the accident or the felony, by which the petitioner has upon principles of law, (particularly on the authority of the case of Miller vs. Race, 1 Burrow. 452,) been divested of the possessory right to, or interest in these notes, then the difficulty would only occur when these notes\"\"are, (if they ever will be,) presented at Bank for payment. This payment might be resisted on two grounds : 1st. Under the notice of Waters; and 2dly. That his interest in, and title to them still remained. If neither ground should be available, and the Bank should feel itself obliged to pay them to the offerer, whoever he might be, the Bank would lose nothing under a satisfactory and substantial indemnity from the petitioner. It ends in this then, that unless the petitioner is allowed to establish these notes as lost, they are to him lost forever ; but if established, he obtains what justice awards to him, and the Bank under his indemnity assumes no'further liability than it always assumed after the issuing of these notes, and can incur no loss by payment, to any person or persons in whose hands they may be. Authorities hold me out in requiringUhis indemnity, and the rule of Court warrants and sanctions \u201c sqch order in the premises, as shall be meet and conformable to just^ced^\nD\u2019Lyon, for the petitioner\u2014Davies & Berrien, contra.\nIt is therefore ordered, that the rule be made absolute for the establishment of these notes as lost papers; and that upon the presentation at the Banks, from which they may have issued, that he the petitioner do tender to the President and Directors of said respective Banks, good and sufficient security, by bond or otherwise, to be approved by said President and Directors of said respective Banks, conditioned for the full and complete indemnification of said President and Directors, against any liability on the original notes, should they at any future period be presented for payment by any other person or persons whatsoever, to whose hands they may have come.",
+        "type": "majority",
+        "author": "CSEABB-h1C\u00aeN, Jis\u00edSge."
+      }
+    ],
+    "attorneys": [
+      "D\u2019Lyon, for the petitioner\u2014Davies & Berrien, contra."
+    ],
+    "corrections": "",
+    "head_matter": "William Waters vs. Bank of the State of Georgia and Planters\u2019 Bank.\nPetition to establish lost Notes.\nA party who proves the loss of a Bank note, is entitled to have the same established as a lost paper, by pursuing the method prescribed by the rule of Court, and to require payment of said established note from the Bank from whence it issued.\nBut he will be compelled, before payment of the same, to indemnify the Bank \u00fa^rh all on the original note. vT *"
+  },
+  "file_name": "0193-01",
+  "first_page_order": 205,
+  "last_page_order": 207
+}

@@ -1,0 +1,100 @@
+{
+  "id": 219032,
+  "name": "Simon Jackson vs. Joseph Soude, by P. P. Thomasson, his Guardian",
+  "name_abbreviation": "Jackson v. Soude",
+  "decision_date": "1819-03",
+  "docket_number": "",
+  "first_page": "38",
+  "last_page": "41",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 38"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "10 Serg. & Rawl. 14",
+      "category": "reporters:state",
+      "reporter": "Serg. & Rawle",
+      "case_ids": [
+        1811156
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/serg-rawl/10/0014-01"
+      ]
+    },
+    {
+      "cite": "5 Rand. 31",
+      "category": "reporters:state",
+      "reporter": "Rand.",
+      "case_ids": [
+        6732299
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/26/0313-01"
+      ]
+    },
+    {
+      "cite": "3 Wash. C. C. Rep. 440",
+      "category": "reporters:federal",
+      "reporter": "Wash. C. C.",
+      "case_ids": [
+        6129966
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/28/0754-02"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 389,
+    "char_count": 6412,
+    "ocr_confidence": 0.464,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008703017048484293
+    },
+    "sha256": "66d294c6eeb7d01271190004d45e09ace1095d29091614cf6412874d154bda70",
+    "simhash": "1:0a00583e578aad36",
+    "word_count": 1124
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Simon Jackson vs. Joseph Soude, by P. P. Thomasson, his Guardian."
+    ],
+    "opinions": [
+      {
+        "text": "By BEBJ&5EW, Judge.\nTHIS is an application to reverse a judgment rendered in the Mayor\u2019s Court of the city of Savannah.\nIn the progress of the cause before that Court, two trials were had. On the first trial, John Lawson Esquire, late a counsellor of this Court, was sworn as a witness for the plaintiff, and testified to certain facts material to his recovery. In the interval between this and the second trial, Mr. Lawson died\u2014and upon this last trial, the plaintiff offered a witness to prove the facts sworn to by Mr. Lawson on the first trial, which evidence was rejected by the Mayor upon the grounds,\nlsi. That the testimony given by Mr. Lawson, was not reduced to writing at the time it was delivered.\n2d. That the witness tendered, offered to prove the substance of the direct testimony only, and not of that delivered on the cross examination. .\nIt has been long settled, that what a witness who is since dead testified on a former action between the same parties, when the same point was in issue, may be proved in a second action by one who heard him give evidence. Bui evidence of this sort is received from necessity. It is a departure from general law of evidence, which requires the viva voce examination of witnesses, and must be restrained within the limits prescribed for it by authority and precedent. The principal difficulty which arises in the practical application of this rule of evidence, does not occur here; it results from the question whether the second witness may be permitted to speak to the substance of what was sworn to by the first, or shall be required to recollect and repeat his very words. The latter proposition is supported with much plausibility by the argument, that the Jury alone can judge of the effect of the words\u2014and that they might attach to the words of the first witness a very different interpretation from that which is given to them by the second. But it is opposed by the consideration, that such a limitation of the rule woixld render it almost wholly inoperative, since even in the case of cotemporaneous written notes of evidence, few persons would consent to swear that such notes contained the very words of the witnesses. And still less, would a conscientious man, relying upon memory merely, undertake to repeat precisely the words of a witness. What further embarasses the question, is, that the rule has been so limited in the only cases with which I have been enabled to meet, in which this particular point came under consideration. While on the other hand, the substance and effect of what was sworn to by a witness, has been testified by succeeding witnesses in various cases in which this particular objection has not been raised. But this difficulty does not occur here, the Mayor was willing to receive the substance of what was sworn to by Mr. Lawson on the former trial\u2014but required the substance of his whole testimony\u2014that given under the cross as well as the direct examination. Now whatever opinion may be entertained upon the first point, this requisition was certainly a correct one. The answers given by the witness under his cross examination, constitute a part of his evidence as much as those extracted from him by the direct interrogatories\u2014and are frequently indispensable to the perfect apprehension of that evidence. The Jury were entitled to judge upon the whole evidence. Suppose the witness tendered had offered to prove a single fact sworn to by Mr. Lawson, without being enabled to recollect the residue of his direct examination, would not such witness have been obviously incompetent, and since the answers given under the direct and cross examination together constitute the evidence of the witness, of what importance is it whether the defect of recollection relates to the one or to the other ? The importance of the cross examination will further appear from the consideration that cross interrogatories are framed for the purpose of testing the correctness of the direct narration, or to shew the existence of circumstances, calculated to defeat or avoid the effect of such representation. Suppose a witness on his direct examination to prove the execution of a bond\u2014and when cross examined to state that execution under such circumstances as would in law amount to duress, and would therefore operate an avoidance of the deed\u2014and the importance of requiring from one who should thereafter undertake to detail the testimony of such witness, the substance of his cross as well as of his direct examination, will appear to be as it is, really absolute and indispensable. It would of course be a sufficient answer to this objection to prove that the party having the right to cross examine declined exercising it, so that in fact the witness was not cross examined,\u2014but in the absence of such proof, and the transcript does not shew that any such proof was tendered for aught that appears to the Court, the testimony offered, was part, not the whole of the evidence delivered by the first witness, and was therefore very properly rejected. The result of this opinion is that upon the certiorari granted in this case, judgment must he for the defendant and a procedendo be awarded, all which the Clerk will certify accordingly.\nThe very words of the witness must be sworn to. Lord Palmerston\u2019s case, cited by Lord Kenyon, in Rex vs. Joliffe, 4 Term Rep. 290. Ennis vs. Donisthorne, Corn. Sum. Ass. 1789. Ms. 1 Ph. Ev. 274. U. S. vs. Wood, 3 Wash. C. C. Rep. 440. Wilbur vs. Selden, 6 Cowen 162, Ballenger vs. Barnes, 3 Devereux, 460. Bowir vs. O\u2019neal, et. al. 5 Harr. & Johns. 266. And see Bliss vs. Long, 357. Smith vs. Smith, Wright\u2019s (Ohio) Rep. 643. But contra, Caton, et. al. vs. Lennox, et. al. 5 Rand. 31. Cornell vs. Green. 10 Serg. & Rawl. 14 and see note 1 to Am. Ed. of Roscoe\u2019s Crim. Ev. p. 50. Ed.\nThe whole examination in chief and in cross must be given. Wolf vs. Wyeth. 11 Serg. and R. 149. Ed.",
+        "type": "majority",
+        "author": "By BEBJ&5EW, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Simon Jackson vs. Joseph Soude, by P. P. Thomasson, his Guardian.\nCertiorari.\nWhat a witness who is since dead, testified in a former action between the same parlies, when the same point was in issue, may be proved in a second action by one who heard him give evidence.\nBut the witness must be competent to speak to the whole, and not to a part only of the testimony of deceased witness.\nQuccre, If the second witness must be required to repeat the very words or the substance only of such testimony *?"
+  },
+  "file_name": "0038-01",
+  "first_page_order": 50,
+  "last_page_order": 53
+}

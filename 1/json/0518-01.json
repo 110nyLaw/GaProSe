@@ -1,0 +1,61 @@
+{
+  "id": 219084,
+  "name": "The State vs. James Allen",
+  "name_abbreviation": "State v. Allen",
+  "decision_date": "1837-01",
+  "docket_number": "",
+  "first_page": "518",
+  "last_page": "522",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 427,
+    "char_count": 8937,
+    "ocr_confidence": 0.487,
+    "sha256": "e3ca2c9e2b54d979f3cb795cdd72fc25028b95f37b71dc36e7303d8fc0536dc4",
+    "simhash": "1:855a2478f95fe885",
+    "word_count": 1571
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. James Allen."
+    ],
+    "opinions": [
+      {
+        "text": "By JS.OIBffilBt\u2019E' M. CIS ARIL TORT, JTiidge.\nTHE motion in arrest of judgment, in this case, is based upon two grounds :\u20141st. That the indictment on which the prisoner has-been convicted of the alleged offence, has been quashed. 2d. That the indictment is defective, because there is no return of \u201c true bill,\u201d endorsed thereon by the Grand Jury.\nCauses of arrest of judgment, being confined to objections which arise upon the face of the record itself, I have made an attentive examination of the records and proceedings of the Court, in reference to this prisoner. On the 23d February, 1837, a true bill was found against him, for the offence of privately stealing, in a dwelling-house. On the 27th February, a second bill was found by the Grand Jury against him, for the same offence, and a third bill for simple larceny. The bills were entered on the criminal docket, in the order in which they were found. On the game day, the Solicitor General moved, that a Nol. Pros, should be entered on the first indictment found against prisoner, and the minutes of the Court bear recorded upon them an entry of Nol. Pros. The criminal docket has opposite to the entry of the indictment first found, to wit, the indictment of 23d February, the words \u201c Nolle Prosequi\u201d entered. By an examination of the indictment of 27th February, I find no entry of nol. pros., but on the contrary, the plea ol the prisoner, and the verdict of conviction on the same day\u2014and on the 28th February, a nol. pros, appears to have been entered on the indictment for simple larceny. There is nothing, therefore, either on the indictment, or any part of the record, which imports that the proceedings were inconsistent or repugnant, and which would make the sentence appear irregular hereafter. The prisoner\u2019s counsel supposes, that the indictments of the 23d and 27th February, were in truth the same; and that the Solicitor General changed the word \u201c note\u201d to \u201cbill,\u201d wherever it occurred in the indictment of the 23d\u2014and submitted that indictment, thus changed, on the 27th Feb. to the Grand Jury, by whom it was again returned as a true bill, and he offers as a truth of this assertion, the fact, that the indictment of 23d February is not produced with the entry of nol. pros. He contends, therefore, that the entry of nol. pros, which the Solicitor General moved should be made on the indictment of 23d Feb. and which the minutes of the Court disclose was made, was in truth a nol. pros, on the indictment of 27th February\u2014it being the same paper, and that the prisoner was convicted on an indictment which had no existence. Whatever correctness there may be in the assertion of prisoner\u2019s counsel, it is not borne out by the record, by which alone I must be governed. The indictment on which prisoner was convicted, has upon it, in the hand-writing of the Foreman of the Grand Jury, the words \u201c True Bill, G. B. Lamar, Foreman, Feb. 27, 1837.\u201d However informal it may be in the prosecuting officer, to take an existing indictment, and to make a material change in it, and to present it to the Grand Jury, thus changed, for a second action* and however such change may affect the first indictment, I do not see how it could destroy the second indictment, or how I can determine, that a nal. jiros, intended to be endorsed on one indictment, and declared by the proceedings to have been so entered* shall operate to discharge anotherindictment, not appearing by the record to be in any manner connected with it. I cannot even tell whether the subject matter of the larceny was the same in both indictments. I certainly am not bound to presume it. I must, therefore, dismiss both these grounds, as they are not sustained by the records of the Court.\nThe grounds in relation to the motion for a new trial, are', 1st. That the verdict is contrary to evidence, because there was no proof that the bank bills, which were the subject matter of the alleged offence, were genuine. 2d. That the verdict is contrary to law, because the bank bills, which were the subject matter of the alleged offence, were not proven to be the bank bills of the respective banks, as the indictment avers.\nThere is no principle of law better settled, than that in larceny, evidence must be given, that the thing stolen is of some value. Hence, it has been determined, that on an indictment for stealing a bank note, it must be proved to have been genuine. (State vs. Tillery, 1 Nott & McCord 9.) That decision was perfectly correct, with reference to the case then under consideration; but the circumstances of the present case are very different. The prosecutor here, swore that he received the fifty dollar bills, which formed a part of the subject matter of the larceny, from the bank, whose bills they purported to be. Unless we can presume that a bank would be guilty of the absurdity of issuing counterfeit notes of its own corporation, we have good evidence that they were genuine. But if they were not, I am not prepared to say, that the rule> laid down in Nott & McCord, ought to be a universal one. Stealing a counterfeit bill, is certainly not larceny, as a general tule, because the thing stolen must be of some Value. But it \u00ed\u00e1 not necessary that the subject matter of the larceny should be of Value to third persons, if valuable to the owner. The prosecutor having received these bills from the bank, whose notes they pur*ported to be, upon every principle of law, could have made such corporation pay specie for them, whether genuine or not, and they were, therefore, of the same value to him. A somewhat analogous principle may be found decided in Ranson\u2019s case, (Russ. & Ry. 232. 2 Leach 1090. Roscoe\u2019s Crim. Ev. 512.)\nAnd in reference to the second ground, I observe, that the bil\u00ed\u00e1 exhibited in evidence, and which were admitted by prisoner, to have been taken from him, did correspond with the averment in the indictment; and the fact that they Were issued by the bank, whose bills they purported to be, and therefore, in the absence of all proof to the contrary, presumed to be g-enuine, seems to me to have sufficiently proved the allegation, that they were bills of that bank. Craven\u2019s case, (in Russ. & Ry. 14) in which it was determined, that where a bank note was described, as being signed by A. Hooper, some evidence must be given of the signature being by him, is not a case in point. There was no allegation here, that the notes were signed by any one, but merely, that they were notes of the Georgia Rail Road and Banking Company, and that, I think, was sufficiently proved.\nAll this argument, of course, proceeds upon the supposition, that the bills which Stewart lost, were the same found upon the person of the prisoner. The want of identity is not urged in the notice given to the Solicitor General, for a new trial, but i'twas insisted on in the argument of such motion. The point of identity was commented on by me, to the Jury, upon the trial, the evidence and the law explained to them, and the facts left exclusively for them to determine. By their verdict, they have declared, that the idem tity of the bills Was sufficiently ascertained-. Though such \u00a9vi* dence was not of a positive character, yet there was strong circtmistantial evidence to shew that prisoner was the felon, and I do not feel disposed to disturb a verdict, with which I cannot say I am dissatisfied.\nAlexander Drysdale, for Prisoner\u2014John E. Ward, Solicitor General,, contra.\nA case strikingly analogous, in some of its facts, may be found? in 1 Nott & McCord 91, (State vs. Casados)\u2014and the Court there refused the motion\u2014as all Courts ought to do, when acting in the exercise of a sound disctetion, and with no doubt of the justice of the verdict.\nMotion denied.",
+        "type": "majority",
+        "author": "By JS.OIBffilBt\u2019E' M. CIS ARIL TORT, JTiidge."
+      }
+    ],
+    "attorneys": [
+      "Alexander Drysdale, for Prisoner\u2014John E. Ward, Solicitor General,, contra."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. James Allen.\nIndictment, privately stealing in a dwelling house. Verdict, Guilty on both counts of Indictment. Motion in arrest of judgment, and for new trial.\nCauses of arrest of judgment are confined to objections, which arise upon, the face of the record itself, and the Court must be governed by that alone, in determining them.\nIt seems, that if an existing indictment be altered by the prosecuting officer, and submitted, thus changed to the Grand Jury, who, again, return \u201c True Bill\u201d thereon, such informality will not destroy the second Indictment, even though Not. Pros, be subsequently entered on. the minutes, in reference to the first indictment.\nEvidence must be given, on an indictment for Larcency, that the thing stolen is of some value. But it is not necessary, that the subject matter of the Larcency should be of value to third persons, if valuable to the owner.\nWhere the indictment alleged, that the notes stolen, were \u201cnotes of the Georgia Rail Road and Banking Company,\u201d and the owner proved, that he received them from such Banking Company, held, in the absence of all proof to the contrary, that this was sufficient proof of their genuineness, to support the allegation."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 530,
+  "last_page_order": 534
+}

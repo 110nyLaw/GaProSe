@@ -1,0 +1,59 @@
+{
+  "id": 219103,
+  "name": "Howard vs. Bank of Darien, et. al.",
+  "name_abbreviation": "Howard v. Bank of Darien",
+  "decision_date": "1822-08",
+  "docket_number": "",
+  "first_page": "216",
+  "last_page": "216",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 216"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 137,
+    "char_count": 1605,
+    "ocr_confidence": 0.482,
+    "sha256": "4a9c7ddbfdbb08f6729c7e154134e33347b26e6f90daed99512f9982c4fdcc11",
+    "simhash": "1:f2cc2b5d4836e899",
+    "word_count": 271
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Howard vs. Bank of Darien, et. al."
+    ],
+    "opinions": [
+      {
+        "text": "Sty CH1EM0M, Judge.\nTHIS was originally a motion under notice to re-amend the complainant\u2019s bill, by, among other matters, suggesting the death of Jay. Johnston, and then as the complainant supposes, the equitable doctrine which resulted from that event, viz. that the interest, which Johnston had, survived to his co-partners, two other defendants, Hills <Sf Wilcox.\nI shall not disturb the impression imbibed by the complainant on this doctrine, because he has withdrawn the motion as it relates to his amendment and its consequences, and now moves that the surviving defendants do answer within such time as this Court may direct.\nIt is a principle of equity, that the death of one defendant only abates the proceeding, quaod him. The other defendants therefore in this case must file their respective answers, and as one of the amendments of complainant was effected during the last term, to which the bill was returnable, the defendants are entitled to the same time to file their answers as the rule of Court allows them four months afteii- the adjournment of the Court, to which the subpoena to the original bill is returnable. At least I shall allow it, in the exercise of the discretion which may be assumed by every Chancellor, in granting further time on the application of defendant. '\nIt is ordered, that the \u2022 surviving defendants and parties to the bill of the complainant, do file answers to his original and amended bills within sixty days from this date.",
+        "type": "majority",
+        "author": "Sty CH1EM0M, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Howard vs. Bank of Darien, et. al.\nIn Equity.\nThe death of one defendant to a suit in equity, only abates the proceeding quoad him."
+  },
+  "file_name": "0216-01",
+  "first_page_order": 228,
+  "last_page_order": 228
+}

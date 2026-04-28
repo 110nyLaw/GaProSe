@@ -1,0 +1,61 @@
+{
+  "id": 219136,
+  "name": "Commissioners of Pilotage vs. John Low and others",
+  "name_abbreviation": "Commissioners of Pilotage v. Low",
+  "decision_date": "1830-01",
+  "docket_number": "",
+  "first_page": "298",
+  "last_page": "301",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 298"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 380,
+    "char_count": 7250,
+    "ocr_confidence": 0.452,
+    "sha256": "cd9784fa0eb2e9bc1397a9bfe4fbed9d8782d6c0183cb2d6f67144dc3d338ee9",
+    "simhash": "1:3f22ff94cf867cf3",
+    "word_count": 1257
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Commissioners of Pilotage vs. John Low and others."
+    ],
+    "opinions": [
+      {
+        "text": "By MW, Judge.\nTHE return of the commisioners of the certiorari issued in this case, discloses the following facts ;\nThat on the 7th of January, a fine of twenty dollars was severally imposed upon the said John Low and others, the petitioners for this writ; that this fine was so imposed for the purpose of discharging a claim which had been made by the master of the ship Helen Mar, for damages sustained by the ship, in coming over the bar and up the river, in consequence of the neglect of the pilots who were in sight of her, to come on board; that the said claim amounted to one hundred and sixty-nine dollars, eighty cents. It further appears, that on the twentieth January, the said pilots having been notified of the imposition of said fine, and required to pay the same, and having neglected so to do, the commissioners in consequence of such neglect, proceeded to pass a resolution declaring the said defendants suspended from the exercise of their said office, till the said fines were paid.\nThe question of jurisdiction has been raised, as to the power of this Court to bring up the proceedings of the commissioners by certiorari; and upon this, I remark, that when a new jurisdiction is created by statute, proceeding according to the course of the common law, this Court can bring up their proceedings and correct their errors. The jurisdiction becomes in fact transferred to this Court: but when such newly created jurisdiction is summary and does not proceed according to the course of the common law, this Court issues the writ of certiorari, and will confirm the proceedings if within their jurisdiction, or will quash them if they have not confined themselves strictly within the powers given them by statute.\nAfter the most careful examination which I have been able to give to the 5th Sec. of the Act of 1799, (Prince\u2019s Dig. 438,) I have been led to the conclusion that the neglect or refusal of a Pilot to board a vessel, when he can, knowing her to be in want of a Pilot, from the exhibition of signals or otherwise, if damage ensue to her on that account, will subject such Pilot to be proceeded against, according to the provisions of the 5th section of said Act. So far then, as the order of the 7th January imposing the fine, is concerned, the only question is, have the Commissioners proceeded in obedience to the provisions of the 5th section? It is there declared in express terms, that they shall have jurisdiction only when the claim does not exceed $100\u2014but here the claim did exceed $100, and it is most clear, therefore, that the Commissioners transcended the limits prescribed to them by the statute, and acted without authority. The powers given to them are large, their proceedings summary, and the Legislature did not intend to subject the property of the citizen to such a jurisdiction where the demand against it was large. In their discretion, they have fixed the limit, and it must be observed. It is true the award of the Commissioners does not exceed $100, but the statute does not place it upon this, but upon the amount of the claim; the test of the jurisdiction is made to consist in the apiount of the claim, and not the measure of damages assessed in the discretion of the Commissioners. It is well settled that consent cannot give jurisdiction, neither the act of one party; and that an item in an account cannot be stricken out after it has been presented to the Court, for the purpose of giving jurisdiction. On the 20th January, in consequence of the non-payment of the said fines by the said defendants, the Commissioners proceeded to pass the resolution of suspension. The 5th section points out the remedy for the non-payment of the fines so imposed. It gives in addition the penalty of not exceeding $100, the whole to be levied by warrant of distress. This would seem to exclude the idea that the non-payment of the fine was also a ground of suspension and amotion from office. The Commissioners may have proceeded to suspend under the 7th section, for any of the reasons therein pointed out as grounds of suspension. This they have not done, but have used that Sect, to comp>ass an object,- the attainment of which is directed by other means in the Act. The two sections have in view totally different objects : the one is between Master and Pilot\u2014the other vests a controlling power directly in the Commissioners, independently of any claim of damages. No notice whatever was given to the defendants of this proceeding; no opportunity afforded them of being heard in their defence. Where no form or mode of proceeding is pointed out by the Act creating a new jurisdiction, as in this case, the Commissioners indeed have the right to adopt their own form and mode, not contrary to, or violating the laws of the land. Now the fundamerjtal principle of justice, so essential to a free government, that every citizen shall he maintained in the enjoyment of his rights, is not to be understood, and more strictly acted upon in this country, than that other principle, which affords him an op. portunity to answer such charges, as would, according to the laws, justify a forfeiture or suspension of those rights. The statute in this case is silent, but the commissioners in obedience to this omnipotent principle of jurisprudence, ought to have notified the defendants, and it is to be understood as required, before they exercise the power of suspending, they shall give opportunity to the accused of being heard in support of his innocence. It becomes unnecessary that I should proceed to examine the many remaining points raised in this case, being of opinion that both in relation to the order of the 7th January and of the 20th January, the commissioners have not acted according to the provisions of the Act creating them, and that their proceedings, both in regard to the imposition of fines and the suspension, must be quashed\u2014and it is accordingly so ordered.\nM. H. McAllister, for plaintiff\u2014Jno. C. Nicoll, for defendant.",
+        "type": "majority",
+        "author": "By MW, Judge."
+      }
+    ],
+    "attorneys": [
+      "M. H. McAllister, for plaintiff\u2014Jno. C. Nicoll, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "Commissioners of Pilotage vs. John Low and others.\nCertiorari.\nWhere a new jurisdiction is created by statute, proceeding according to the course of the common law, the Superior Court can cause its proceedings to be brought up, and correct its errors. But where such newly created jurisdiction its summary, and does not proceed according to the common law, tho Superior Court will, on certiorari, confirm or quash its proceedings.\nThe neglect or refusal of a Pilot to board a vessel, by which damage ensues to her, may be proceeded against under the 5th See. of the Act of 1799, if the claim for damage does not exceed $100.\nAnd the claim, and not the measure of damages assessed by the Commissioners, is the test of the jurisdiction.\nBut the non-payment of the fine assessed under the 5th Sec. will not authorize the Commissioners to suspend the Pilot, from the exercise of his duties.\nWhere a new jurisdiction is created by statute, without prescribing its form of proceeding, such jurisdiction may pursue its own forms and regulations, if not inconsistent with the laws of the land. . ,\nBut notice to a defendant, is an implied and Indispensable pre-requisite to the exercise of jurisdiction.\nNeither consent, nor the act of one party, can confer jurisdiction."
+  },
+  "file_name": "0298-01",
+  "first_page_order": 310,
+  "last_page_order": 313
+}

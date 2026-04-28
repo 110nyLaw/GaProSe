@@ -1,0 +1,78 @@
+{
+  "id": 219017,
+  "name": "Frans. H. Welman vs. Polhill, Guerard and Polhill",
+  "name_abbreviation": "Welman v. Polhill, Guerard & Polhill",
+  "decision_date": "1822-10",
+  "docket_number": "",
+  "first_page": "235",
+  "last_page": "236",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 235"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "3 Hen. & Mun. 309",
+      "category": "reporters:state",
+      "reporter": "Hen. & M.",
+      "case_ids": [
+        6725434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/13/0674-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 234,
+    "char_count": 3274,
+    "ocr_confidence": 0.485,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008702437864138025
+    },
+    "sha256": "0cfda9545f35830d55e4795def23748abf2695df18f0fd56fb29124d1ea2126a",
+    "simhash": "1:622e3a79335c5951",
+    "word_count": 561
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Frans. H. Welman vs. Polhill, Guerard and Polhill."
+    ],
+    "opinions": [
+      {
+        "text": "ISy CBSASSXTTOW, Judge.\nIN this case, service of petition and process was effected by leaving a copy of the writ and process with the agents of two of the defendants, Peter Guerard and. Thomas Polhill. The service on James Polhill, a co-defendant, is admitted to be good.\nIn October term, 1821, Wayne and Cuyler subscribing themselves attorneys for P. Guerard and Thos. Polhill, filed the general issue for these defendants, and no plea has been filed for James Polhill. The objection now taken by attorneys substituted for Wayne and Cuyler, is, that notwithstanding the plea of the general issue, it is still competent for them to move to set aside this service upon the ground that it is violative of the Judicial Act, which requires that service should be effected by \u201c delivering a copy of such petition and process to the defendant or defendants, or leaving such copy at his, h\u00e9r, er-their most notorious place or places of residence and the Judicial Act declares, that, \u201c all process issued or returned in any other manner than that herein before directed, shall be, and the same is hereby declared to be null and void.'\u201d\nMr. Gamble, on the other side contends, that the objection, admitting it to be a substantial one, comes too late ; for that 'all irregularities are cured by appearance, and a fortiori by pleading. (2 Cr. 498. 7 John\u2019s Rep. 209. 3 Hen. & Mun. 309.)\nI do not intend to disturb the doctrine contained in these cases, because I do not conceive their applicability. Simple irregularity is not complained of in this case, but a defect which. \u201c vitiates the proceedings in toto:\u201d\u2014=and the distinction is, that objections, \u201c or applications to set aside proceedings for irregularity should be made the first opportunity that the party has to bring his complaint before the Court, and before the party committing the error has taken any further step in the cause.\u201d (2 Taunton 242. 1 Sellon, Am. Ed. 102 :)\u2014but if the defect vitiates the proceedings, the defendant may at any time, apply to set aside the proceedings\u2014for it is as no process\u2014And. 16. Sellon 101. When the affidavit of personal service was defective, proceedings set aside, though the defendant was in execution\u2014Ibid.\nR. L. Gamble, for plaintiff\u2014Wayne & Cuyler, for T. Pol-hill and P, Guerard, defendants,\nIn this case there is not that irregularity in the mesne process, which is cured by appearance according to the authorities cited. It is a defect which renders process issued and returned \u201c null and void.\u201d Obeying the mandate, therefore, of our judicial system, supported as the distinction is by the authorities referred to, the objection is not too late, and this service not being in conformity to the Judicial Act of Georgia, without which, it cannot be operative, and is so far vitiated with or without appearance or consent of defendant, as to be declared \u201cnull and void,\u201d I am of the opinion that the service ought to be, and is accordingly hereby set aside.\nService set aside.",
+        "type": "majority",
+        "author": "ISy CBSASSXTTOW, Judge."
+      }
+    ],
+    "attorneys": [
+      "R. L. Gamble, for plaintiff\u2014Wayne & Cuyler, for T. Pol-hill and P, Guerard, defendants,"
+    ],
+    "corrections": "",
+    "head_matter": "Frans. H. Welman vs. Polhill, Guerard and Polhill.\nService of petition and process on agent of defendant is null and void, under the law of Georgia. Where the service of process is null and void, appearance and plea t\u00a9 merits will not cure it. And objection may be taken to such process at any lime."
+  },
+  "file_name": "0235-01",
+  "first_page_order": 247,
+  "last_page_order": 248
+}

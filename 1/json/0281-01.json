@@ -1,0 +1,61 @@
+{
+  "id": 219119,
+  "name": "Patrick McDermott, compl't. vs. James G. Blois, et. al., def'ts",
+  "name_abbreviation": "McDermott v. Blois",
+  "decision_date": "1830-01",
+  "docket_number": "",
+  "first_page": "281",
+  "last_page": "283",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 281"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 335,
+    "char_count": 5800,
+    "ocr_confidence": 0.349,
+    "sha256": "546d21aacf2e342a11f01d1d67eab3c13462081689793e45ff917d0085bd5c65",
+    "simhash": "1:552f7ba6e4f5ba32",
+    "word_count": 1040
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Patrick McDermott, compl\u2019t. vs. James G. Blois, et. al., def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "Hy MW, JraSge.\nTHE bill in this case alleges the existence of a co-partnership between the complainant and the defendant, J. G. Blois, in 1824, and charges the defendant with fraudulent sales and appropriations of the goods and merchandise of the concern to his individual use, and with making improper entries in the books, and * prays an account. It further charges, that certain conveyances made by the defendant, J. G. Blois, to the other defendants, of the individual property real and personal of the said J. G. Blois, were fraudulent and without consideration; and prays that they may be decreed to be fraudulent and voluntary; that they may be set aside, and the property subjected to the claims of complainant and others, the creditors of Blois, in the order of priority.\nTo this bill the defendant, J. G. Blois, has answered, denying the allegations on the subject of co-partnership, and improper conduct charged, and all the defendants demur to that part of the bill which relates to the conveyances ; and assign on the record, for cause of demurrer, that there is nothing shewn by the bill as a foundation of equity, for this Court to interfere, by compelling a discovery of the consideration for which the conveyances were executed. The case before me is upon the argument of the demurrer; in support of which, several grounds were presented, some of which, it was contended, went to the whole bill and authorized its dismissal. Whatever force this argument might have been entitled to, under a different state of the pleadings, the defendant, J. G. Blois, by submitting to answer as to part of the bill, such answer would overrule a demurrer on the record, going to the whole bill, and must likewise overrule any cause assigned ore tenus in support of demurrer going to the whole bill. Upon what was urged against the demurrer, that the party was confined to the cause assigned on the record, the rule seems to be, that if the cause so assigned be bad or insufficient, other cause may be assigned ore tenus, and as it regards the charge of combination, the rule was, as staled in Mitford, that as every hill charges combination, the demurrer must so far ansrver as to deny that charge. This rule is however denied by the later cases, and is not the modern practice. But if it were, the defendant, /. 6?. Blois, in his answer, denies all combination and confederacy, and this answer is referred to and adopted by all the defendants in the demurrer.\nWe come then to the question, whether a creditor at law, or one whose debt has not been carried to judgment, can call upon a Court of equity to afford its aid in detecting fraud and ferreting out property 1 It is well settled that he cannot. In most of the cases in England, where the creditor is pursuing real estate, an elegit is sued out before the aid of equity is asked for. In New York, it is said, the judgment creates the lien upon real property, and therefore after judgment, equity may be called upon. But in relation to personal property, the lien not being created by the judgment, the execution must be issued; and according to some authorities the return of nulla bona made thereon. Other cases say the return is not necessary. . Now all agree that there must be a lien, and with us, by statute, the lien is given on both real and personal property from the date of judgment. It is this lien which gives the plaintiff the interest, that entitles him to ask for equitable aid. If this were a case, therefore, in which the demand could be established at law, it would not admit of a doubt. But the subject matter of the demand authorizes the plaintiff to come into a Court of equity for the purpose of having that established. Yet he will not be permitted to go beyond that demand, and inquire into other and distinct matters in relation to which he has no interest until he has established his demand. Let the plaintiff proceed therefore to his decree, which creates a lien here like a judgment, and upon which execution may issue; and then he will be entitled to all the aid this Court can give him in subjecting any property which may be attempted to be concealed. The bill will have to be amended by setting forth the facts (which it will be in the power of the complainant to do after the hearing,) necessary as a basis or foundation for the discovery and relief, sought as to the conveyances. And it is obvious that if the bill must be amended, the demurrer ought to be sustained. Again, until a lien has been created and an interest established, this Court will not lend its aid for the purpose of hanging up property. The demurrer is therefore sustained, but expressly without prejudice, leaving it to the plaintiff to amend his bill after the decree, or to file a new bilk\nT, U. P, Charbton, for compl\u2019t\u2014Jno, C, for def\u2019ts.\nA demurrer ore tonus must be to that which the defendant has demurred to on the record. If the cause of that demurrer on the record is not good, he may at the bar assign other cause, but he cannot demur ore tenus, upon a ground, which he has not made the subject of demurrer on the record. Pitts vs- Short, 17 Ves. CU. Rep. 215.\u2014(Ed.)",
+        "type": "majority",
+        "author": "Hy MW, JraSge."
+      }
+    ],
+    "attorneys": [
+      "T, U. P, Charbton, for compl\u2019t\u2014Jno, C, for def\u2019ts."
+    ],
+    "corrections": "",
+    "head_matter": "Patrick McDermott, compl\u2019t. vs. James G. Blois, et. al., def\u2019ts.\nIn Equity.\nWhere a defendant answers part of a bill, such answer will over-rule a demurrer on the record, or ore ienus, going to tho whole bill.\nIf the cause assigned on the record for demurrer bo bad or insufficient, other cause may bo assigned ore ienus.\nA. creditor at large, or one whose debt has not been carried to judgment, cannot call upon a Court of Equity to afford its aid in setting aside conveyances, alleged to bo voluntaiy and fraudulent, made by the supposed debtor, of his property.\nGiucerc, if a bill charges combination, must a demurrer so far answer as to deny the charge,"
+  },
+  "file_name": "0281-01",
+  "first_page_order": 293,
+  "last_page_order": 295
+}

@@ -1,0 +1,59 @@
+{
+  "id": 219060,
+  "name": "The State vs. John Maloney",
+  "name_abbreviation": "State v. Maloney",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "84",
+  "last_page": "85",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 84"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 198,
+    "char_count": 3139,
+    "ocr_confidence": 0.471,
+    "sha256": "7419e19e392392cdd3b7aedf753b579f90e4f20a1b7dfd18d3b56dc7194f9f9c",
+    "simhash": "1:2af8469ee315b284",
+    "word_count": 537
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. John Maloney."
+    ],
+    "opinions": [
+      {
+        "text": "ESy JTutdge.\nA new trial is- moved for in this- case upon the following grounds;\n1st. The verdict of the Jury is contrary to law, because the evidence established the fact, that the dwelling house from which the articles were taken, was the dwelling house of Matthew Dow-ling.\n2d. Because none of the witnesses prove any private or felonious stealing. The objection just sustained in the case of the State vs. Thompson, will apply to this case. The larceny having been proven in a dwelling house excludes the possibility of a conviction under the 36th section of the penal code in an indictment for Burglary. The offences in the penal code of Georgia being distinct in all their properties, one cannot therefore he the foundation of a conviction for the other. There is not that resemblance in features which d\u00e9signate them as the same family of crimes, and upon the proof of the innocence of one, would justify the inflictions of punishment upon another. An indictment for larceny from the house would draw after it different consequences. It pre-supposes the breaking or entering any house, other than a dwelling house with intent to steal, or stealing therefrom. By analogy, therefore, in reference to English precedents, this offence may be the substratum of a verdict for privately stealing from a house, under the 36th section, other than a dwelling house. But every difficulty might be obviated by an indictment under the Stat. 12 Ann, for stealing to the value of forty shillings in a dwelling house, computing the value of the goods, according to American calculation. That statute as far as it can operate is in force in this State, because it is not in hostility with any similar section of the penal code, there being no section providing for the offence of larceny from the dwelling house. . The penal code of Georgia does not abrogate all the criminal law of England in force anterior to its passage, but leaves it as it was, with a restriction, only as to any punishment which may be incompatible with the nature and purposes of a penitentiary system. But if the capital punishment inflicted by the Stat. of Ann, cannot be modified by an adaptation of punishment to the penal code, then it is a casus omissus, and until fresh legislation is not punishable \u00e1t all.\nNew trial granted.\nIn the penal code of Georgia, that went into oporation 1st June, 1834. the words \u201c other than a dwelling house\u201d are omitted.\u2014(Ed.)",
+        "type": "majority",
+        "author": "ESy JTutdge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The State vs. John Maloney.\nIndictment for Burglary, Verdict\u2014\u201c Guilty of Larceny by privately stealing in the house.\nAn indictment for Burglary will not authorize a verdict of \u201c larceny, by privately stealing in the house.\u201d The offences under the penal code of Georgia are distinct in all their properties. Burglary must be committed in a dwelling house, and \u201c larceny from the house,\u201d in a house *fr other than the dwelling house.\u201d\nIt seems, that the penal code of Georgia doesriot abrogate all the criminal law of England in force anterior to its passage, but leaves it as it was, with a restriction only as to any punishjnent which may be incompatible-with the nature and purposes of a penitentiary system."
+  },
+  "file_name": "0084-01",
+  "first_page_order": 96,
+  "last_page_order": 97
+}

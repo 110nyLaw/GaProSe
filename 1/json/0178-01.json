@@ -1,0 +1,59 @@
+{
+  "id": 219010,
+  "name": "William J. Spencer vs. Negroes Amy and Thomas",
+  "name_abbreviation": "Spencer v. Amy",
+  "decision_date": "1822-05",
+  "docket_number": "",
+  "first_page": "178",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 178"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 243,
+    "char_count": 3309,
+    "ocr_confidence": 0.484,
+    "sha256": "c158941e4baa4ee8a0073b344fc295c3cfcaadcbe8e2338c8699f616f50195c6",
+    "simhash": "1:d5efd82d9bfe2cac",
+    "word_count": 558
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "William J. Spencer vs. Negroes Amy and Thomas."
+    ],
+    "opinions": [
+      {
+        "text": "By CBABITOS, Judge.\nTHE question in this case is, whether the will of the elder Spencer, directing the manumission of these slaves, and the deed of the heirs carrying the wishes of the testator into effect, dated 25th of October, 1808, subjects them to the order and sale of the justices of the Inferior Court of Effingham county, under the powers delegated to magistrates by the Act of 1818 ? This Court has already decided on this circuit, that a manumission by deed, will, or otherwise, subsequent to the Act of 1801, produced no legal alteration in the condition of the slave,\u2014that the instrument was absolutely void, for any purpose of freedom, \u2014and following the language of the statute, that the slave was still to \u201c all intents and purposes, as much in a state of slavery, as he was before he was manumitted and set free, by the party so offending,\u201d by giving the instrument of manumission. The Act of 1801, is too unambiguous to require the aid of any technical interpretation, to comprehend its object and intention. It visits with a penalty, the person infracting its inhibition to manumit by private deed, act or, instrument, or in any other manner, or form, than the one prescribed, and it places the slave precisely in the condition he was before.\nI always feel happy, when I can decide upon the plain expression of the law itself, without travelling beyond its context into a field of unnecessary supererogatory learning. I am of the opinion then, that under the operation of the Act of 1801, these slaves remained the property of William Spencer, notwithstanding the directions of his will, and the subsequent instrument of manumission. And they must now be considered the property of that estate; and that interest can only be divested by an Act of the Legislature, not impairing the claims of legitimate creditors.\u2014 The Act of 1818 cannot operate retrospectively, so as to annihilate or accumulate the penalties of the Act of 1801,\u2014because this would be repugnant to the best established doctrines in the construction of penal statutes ; and because, as a penal statute it must operate prospectively. There was then manifest error in the proceedings of the Court below, in considering these slaves, as liable to be sold under the sanction of the Act of 1818.\nIt is, therefore, ordered, that this ease be remanded to said Court, with instructions, and it is hereby instructed, to abstain, in relation to these slaves, from any further proceedings, under the Act entitled an \u201c Act supplementary to, and more effectually to enforce an Act prescribing the mode of manumitting slaves in this State, to prevent the further migration of free persons of color thereto, to regulate such free persons of color as now reside therein and for other purposes.\u201d Passed 19th December 1818.",
+        "type": "majority",
+        "author": "By CBABITOS, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "William J. Spencer vs. Negroes Amy and Thomas.\nCertiorari.\nA manumission subsequent to the Act of 1801, not sanctioned by legislative authority is abso* lutely void, and produces no change in the condition of the slave.\nPenal statutes cannot have a retrospective operation.\nThe Act of 1818, passed in relation to the attempt to manumit slaves illegally, being a penal statute, cannot be so construed, as to accumulate the penalties of the statute of 1801 to an act committed before the passage of the former statute."
+  },
+  "file_name": "0178-01",
+  "first_page_order": 190,
+  "last_page_order": 191
+}

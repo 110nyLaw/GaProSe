@@ -1,0 +1,59 @@
+{
+  "id": 219040,
+  "name": "Richardson and Bolton vs. Joshua E. White",
+  "name_abbreviation": "Richardson v. White",
+  "decision_date": "1820-06",
+  "docket_number": "",
+  "first_page": "53",
+  "last_page": "55",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 53"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 268,
+    "char_count": 4820,
+    "ocr_confidence": 0.484,
+    "sha256": "c4d29c56a384b745af1373b97021cced2427f58025c51a67b59610fd6cb64541",
+    "simhash": "1:0d53f2501d46e29a",
+    "word_count": 819
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Richardson and Bolton vs. Joshua E. White."
+    ],
+    "opinions": [
+      {
+        "text": "By 5S1EMEH, \u00bfffauiig\u00ae.\nTHIS ease comes up upon exceptions taken in the Inferior Court of the county of Chatham under the provisions of the judicial statute.\nThe transcript of the record discloses the following facts. The plaintiffs sued out in the Inferior Court process under the attachment law, against the defendant, and declared against him as drawer of three several bills of exchange. These bills appear to have been drawn under the following circumstances, viz.: The defendant is one of the mercantile house of Joshua E. White &. Co. of Savannah ; whose commercial house is in Liverpool. The defendant being in Liverpool drew the bills in question upon his house in Savannah, in favor of the plaintiffs, and they credited the account of Joshua E. White & Co. with the amount of such bills, deducting the discount which had been agreed upon. The bills were presented for acceptance, and accepted ; then presented for payment, and protested for non-payment. An action was then commenced against defendant, as drawer of these bills, and he being absent from the State, it was commenced by process of attachment, which was of course levied upon the private property of the defendant. He appeared, pleaded to the attachment, and moved for its dismissal, which was ordered accordingly. To the decision of this motion, the plaintiff excepted, and thus the case comes up for revision before the Superior Court. This decision was founded on the following grounds: 1st. That the parties who ought to have been defendants, viz : Joshua E. White & Co. were present and represented by Steele White, one of the said firm, upon whom process could have been served: 2d. Because by the acceptance of the bills declared on, J. E. White & Co. the acceptors, ought to have been sued, not J. E. White by process of attachment. I am entirely at a loss to discover in the statement that has been made, any thing that will authorize the decision which has been pronounced. The grounds taken by the defendant\u2019s counsel assert the proposition, that the drawer of a bill of exchange is not liable to suit until the acceptor has been previously sued, a proposition which is contradicted by every elementary writer, by every adjudged case upon the point, and by the very nature of the transaction between the parties. According to the authorities upon this subject, the payee of a bijl of exchange, may in a default of payment, sue the acceptor and drawer, and in addition to this, an indorser may sue all prior indorsers. The same authorities teach us that whenever the holder of a bill has a remedy against several parties to it, he may commence and proceed in several actions against each of these parties, at the same time, and an action against one will not preclude any other remedy against the others. The plaintiffs in this case were therefore, authorized to proceed against the drawer or acceptors or both. They were entitled to sue the defendant as drawer, and to proceed against his mercantile house as acceptors, and against either or both, by the ordinary process of law, or the extraordinary processes of attachment, according to the fact of the presence or absence of the party or parties defendant, or defendants in cither case. There is no doubt that a judgment against this defendant would have bound his private property, and that a judgment against the acceptors would have bound the property of the concern. To both these remedies the plaintiffs are unquestionably entitled, and the nature of the transaction, I think, serves to show that they were in the contemplation of the parties at the time it was entered into. At any rate the law is most clearly with the plaintiffs.\nThe judgment of their Honors the justices of the Inferior Court must therefore be reversed, the attachment of the plaintiffs must be re-instated on the docket of that Court, and a procedendo awarded. All which is ordered accordingly\u2014Judgment reversed,",
+        "type": "majority",
+        "author": "By 5S1EMEH, \u00bfffauiig\u00ae."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Richardson and Bolton vs. Joshua E. White.\nCertiorari.\nJ. E. W., one of tlie mercantile firm, of J. E. W. & Co. of Savannah\u2014(whose commercial house was in Liverpool,) whilst in the latter place, drew his individual bill in favor of the Plaintiffs on his house in Savannah, who accepted the same; but afterwards suffered it to be protested for non-payment: held, that the payees of said bill were entitled to take out process of attachment, against the individual estate of the non-resident drawer, as draiocr, in addition to the remedy by action against the firm of J. E. W. & Co. as acceptors.\nThe payee or indorsee of a bill of exchange, may in default of payment, sue all the parties to it at the same time, and an action against one, will not debar his remedy against the others.\nAnd such payee or indorsee may maintain his action against the drawer, without previously suing the acceptor."
+  },
+  "file_name": "0053-01",
+  "first_page_order": 65,
+  "last_page_order": 67
+}

@@ -1,0 +1,61 @@
+{
+  "id": 219149,
+  "name": "The State vs. John Thompson",
+  "name_abbreviation": "State v. Thompson",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "80",
+  "last_page": "83",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 80"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 373,
+    "char_count": 7592,
+    "ocr_confidence": 0.496,
+    "sha256": "1f3097381520dc64ca8812ca935b74794a74f53a5769e8cd4c926dc7917bcb4c",
+    "simhash": "1:dfb466588c1c73d0",
+    "word_count": 1327
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. John Thompson."
+    ],
+    "opinions": [
+      {
+        "text": "S$y CB\u00dcU&E/ffOHT, Jrafige.\nA new trial is moved for in this case, by Pelot, assigned counsel for the prisoner, upon these grounds :\n1st. That the Jury by their verdict, have found the prisoner guilty of an offence, contrary to the 35th Sect, of the 6th Div. of the penal code of this State, which declares and defines larceny from the house to be \u201c the entering or breaking any house, other than a dwelling house, or its appurtenances, with an intent to steal, or after entering, or breaking said house, stealing therefrom any money, goods, chattels, wares, merchandise, or any thing, or things of value whatever.\u201d\n%ly. That the Jury have found the prisoner guilty of an offence, not punishable by the penal code, and upon which the Court, cannot pass its judgment.\nThe prisoner was indicted for Burglary, and the indictment contains no other count. The conviction is \u201c larceny from the dwelling house.\u201d The question for the consideration of the Court is, can this insulated accusation receive the aspect given it by the Jury? Burglary, as defined by the penal code of this State, is the breaking or entering into the dwelling or mansion house, with intent to commit a felony\u2014It may be committed in the day or night. The definition of the offence by the English law is somewhat variant. It is\u2014\u201c a breaking and entering the Scansion house of another, in the night, with intent to commit \u25a0some felony, within the\u2019same, whether such intent be executed or not\u201d\u2014(3 East. C. L. 484.) The variances between the two systems are\u2014breaking, or entering, in the night or day, with intent to commit a felony, according to the penal code of Georgia\u2014a breaking'and entering, With a similar intent, in the night, according to the law of England.\nSubject to these variances and distinctions, the acts which constitute entering or breaking, or either, and all the incidents of the offence, are to he sought for in English law, as explained in English adjudications.\nWe have adopted the offence and all the ideas, (with the differences as designated) from the criminal code of England, and when our own system is silent beyond the definition of the crime and its appellation, it follows, that we have consented to adopt the superstructure of our ancestors, erected upon a similar foundation, provided there is no interference with our statutory regulations.\nThe next question which therefore presents itself for consideration, is, whether English law and English precedents support this verdict of the Jury.\nThe Solicitor General, referred to the case of the King vs. Comer. (1 Leach. C. L. p. 36)\u2014and the King vs. Withal and Overend, (ibid 88.) In the first case, Comer was indicted, as in the case before us, singly for burglary. The verdict of the Jury was: \u201c Guilty of felony only, in stealing goods, &c.\u2014not guilty of the burglary.\u201d The point being reserved, it was unanimously agreed by nine Judges, who met at the Chambers of the Chief Justice, that this verdict, for the reasons assigned in the case, and particularly for this specific acquittal of the burglary, was an acquittal of stealing in the dwelling house; but if the phraseology of the verdict had been : not guilty of entering and breaking the house in the night time, but guilty of the rest of the indictment, he then would have been convicted of stealing 40s., (though no count for that offence) in the dwelling house, contrary to Stat. 12 Ann. c. 7; such finding would not negative the felony as in the verdict rendered by the words not guilty .of the burglary. In the case of the King vs. Withal and Overend, the verdict was entered in these words : \u201c not guilty of entering and breaking the dwelling house in the night, but guilty of stealing the box and money in the dwelling house.\u201d There was no separate count on the Stat. 12 Ann. The judges were of opinion, that the prisoners were by this finding, ousted of their clergy, for that the indictment contained every charge that was necessary in an indictment upon that statute, viz : stealing in a dwelling house\u2014to the amount of forty shillings. The 12 Ann, declares : \u201c that if any person, shall enter into the mansion or dwelling house of another, by day or by night, without breaking the same, with an intent to commit felony, or being in such house, shall commit any felony, and shall in the night time break the said house to get out of the same, such person is, and shall be taken to be guilty of burglary, and shall be ousted of his or her benefit of clergy, in the same manner as if such person had broke, and entered the said house in the night time, with intent to commit felony th$re. (Tomlins' Digest, p. 89. 12 Ann. Stat. 1, c. 7, s. 3.)\nIt must be observed, that this statute innovates upon the common law burglary, in these particulars. Isi. That there must be 'a breaking out in the night time. 2d. An entry with intent to commit a felony in the day or night. The essential constituent of the common law offence, a dwelling or mansion house, is preserved. This being the consanguinity, (if I may so express it) between the common law and statute burglaries, a breaking out being proved, a verdict might be sustained for this offence on an indictment for burglary, in its original character. But the cases from Leach, have reference to another section of this statute of Anri:\u2014It declares any larceny in a dwelling house.or its out houses to the value of forty shillings, to be debarred the benefit of clergy, though the house is not broken open. (Tomlins, Digest, 428, 429.) A conviction of this offence, according to the cases cited by Mr. Solicitar, is deemed' sufficient, though no distinct count in the indictment on the statute, for say the English judges, the indictment for burglary contains every charge that is necessary in an indictment upon that statute. This offence must be committed in a dwelling house, or a house under its protection. This brings us at length to the objection taken in this case by the counsel for the prisoner. It is contended, that no section of 12 Ann, will apply, 1st. Because no breaking out was in evidence, and 2d. That the verdict cannot be supported on the ground that the larceny is of the value of forty shillings, because that species of larceny must be committed in a dwelling house, or a house within its curtilage: and under our penal code, to constitute a larceny from the house, there must be an entry or breaking, (as contemplated in the crime of burglary) either in a dwelling house, or, its appurtenances, with intent to steal, or stealing therefrom. This indictment cannot, therefore, (in the face of proof that the larceny was committed in a dwelling house, without illegal entry, or breaking,) and does not contain \u201c every charge necessary in an indictment\u201d upon this section of the penal code of Georgia. To this construction of our code, with all my impressions of the guilt of the prisoner, my conscience and duty compel me to assent: and-though required by the code to give a liberal exposition to its language and sentiments, I cannot recognize a verdict like this, in opposition to its plain, intelligible and unambiguous letter. Upon the whole, I am of the opinion, that the prisoner is entitled to a new trial, and it is ordered accordingly.\nPerot\u2014for the motion.\nBy tlie existing law of Georgia there must be a breaking and entering.\u2014(Ed.)",
+        "type": "majority",
+        "author": "S$y CB\u00dcU&E/ffOHT, Jrafige."
+      }
+    ],
+    "attorneys": [
+      "Perot\u2014for the motion."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. John Thompson.\nIndictment Burglary\u2014Verdict\u2014Guilty of stealing from the dwelling House.\nIf on an indictment for Burglary, the Jury find the prisoner \u201c guilty of stealing from the dwelling house,\u201d the verdict will he set aside, and a new trial awarded."
+  },
+  "file_name": "0080-01",
+  "first_page_order": 92,
+  "last_page_order": 95
+}

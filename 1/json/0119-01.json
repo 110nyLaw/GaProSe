@@ -1,0 +1,59 @@
+{
+  "id": 219042,
+  "name": "Ex parte Rosetta Ralston",
+  "name_abbreviation": "Ex parte Ralston",
+  "decision_date": "1821-07",
+  "docket_number": "",
+  "first_page": "119",
+  "last_page": "119",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 119"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 93,
+    "char_count": 1118,
+    "ocr_confidence": 0.417,
+    "sha256": "d3003afb7fc95ea39d6f75b2b9181783d4faa55ce88ad7d6e411b84a71cd7542",
+    "simhash": "1:73e38eeca529268b",
+    "word_count": 193
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Ex parte Rosetta Ralston."
+    ],
+    "opinions": [
+      {
+        "text": "By \u00a9HAJ8JLTOW, Judge.\nTHIS is an application by the guardian of the infant for the possession of her person, for the purpose of better care and education, than she can now receive from her grandmother, Mrs. Duke, to whom the writ is directed.\nThe infant is only seven years old, and cannot make a free and unbiassed election between her guardian and grandmother. Upon different circumstances, this Court upon the authority adduced, would permit the infant to go where she pleased. The grandmother is to have access to the infant on her request, and at convenient periods.\nIt is Ordered, that the infant Rosetta Ralston, be delivered to the custody of her guardian, John Shellman.",
+        "type": "majority",
+        "author": "By \u00a9HAJ8JLTOW, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Ex parte Rosetta Ralston.\nHabeas Corpus.\nWhere it appears that the grandmother of an infant of under years, is unable properly to maintain and educate her, the Court on the application of the guardian of such infant, will direct her to be delivered to him, she being too young to make a proper election.\nWhere an infant is of sufficient discretion to make a free and unbiassed election, the Court will permit her to go where she pleases."
+  },
+  "file_name": "0119-01",
+  "first_page_order": 131,
+  "last_page_order": 131
+}

@@ -1,0 +1,59 @@
+{
+  "id": 219141,
+  "name": "Marine and Fire Insurance Bank and al., compl'ts. vs. Eleazer Early and M. Brown, def'ts",
+  "name_abbreviation": "Marine & Fire Insurance Bank v. Early",
+  "decision_date": "1830-01",
+  "docket_number": "",
+  "first_page": "279",
+  "last_page": "280",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 279"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 254,
+    "char_count": 3744,
+    "ocr_confidence": 0.457,
+    "sha256": "9233a434d3ca6799ab909dc407cef50fdf3cd5eadf32766367ab71f0a845539c",
+    "simhash": "1:16f38b9e4ef87034",
+    "word_count": 667
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Marine and Fire Insurance Bank and al., compl\u2019ts. vs. Eleazer Early and M. Brown, def\u2019ts."
+    ],
+    "opinions": [
+      {
+        "text": "By 1LAW, Suidge.\nTHIS is a bill filed to carry into effect an agreement for the sale of certain real property, in the city of Savannah, and to obtain the payment o'f the balance of unpaid purchase money. It alleges that the plaintiff, the Bank, sold to Early in 1822; that $2000 . were paid in cash\u2014that .\u00bfhe balance of $6000 was to be paid by certain instalments, and to be secured by bond and mortgage on the premises : that upon the execution of the bond and mortgage, titles were to pass from plaintiff to defendant. Early; that Early went into possession in pursuance of said agreement; that the bond and mortgage were never made, and titles never passed; 1 that Early is insolvent, and his effects assigned to Brown, for the benefit of his creditors : it prays that the contract may be performed, .by payment of the unpaid purchase money, and that if it be not paid, the property be sold for that purpose, and for general relief.\nTo this bill a general demurrer has been filed, and in support of i\u00bf it was argued, that the prayer of the bill was defective; that there could not be an alternative decree, and that the specific and general relief prayed, were inconsistent.\nIt appears to me that the special relief prayed, is obviously that to which the party is entitled, if any:\u2014-that it is in consistency with the case made by the bill, and the rule is, that relief under the general prayer will be granted if consistent with the case made by the bill, and not inconsistent with the specific relief prayed.\nIt was argued that the doctrine of equitable lien, as recognized by the English chancery cases, could not be applied in this State. Without intending to express an opinion,_ how far that doctrine would be applicable here, where the conveyance had actually passed, considering, that with us, lands, equally with personal property, are subjected to the payment of debts, I can scarcely hesitate to believe, that where no title has ever passed to the purchaser by the execution and delivery of deeds, and the facts and circumstances of the case shew the intention of the parties to look to the property itself as security, that the lien would not be as much preserved in this State as any where else. And persons coming in under the purchaser by act of law, as assignees of a bankrupt, and creditors claiming under a conveyance from the purchaser, are all bound by this equitable lien where no title had passed.\nIt was contended that the plaintiffs had been guilty of such neglect, that if the lien might at one time have been asserted, it is now gone. This ground as well as the question of lien are so dependent upon the facts of the case, that they appear to me rather proper for adjudication at the hearing than upon demurrer.\nDemurrer overruled.\nEnglish, et. al. vs. Foxall, 2 Pet. S. C. Rep 912. S. P.\u2014(Ed.)\nThe rule of the vendor\u2019s equitable lien, may be examined, under all its modifications and restrictions, in 2 Story\u2019s Equity, 462 et. seq. and 4 Kent\u2019s Com. 151\u2014154, (3d ed ) where all the cases are collected. See also, Brown vs. Gilman, 4 Wheaton\u2019s Rep. 291-2 & note (a.)\u2014(Ed.)",
+        "type": "majority",
+        "author": "By 1LAW, Suidge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Marine and Fire Insurance Bank and al., compl\u2019ts. vs. Eleazer Early and M. Brown, def\u2019ts.\nIn Equity.\nRelief may be granted under the'general prayer of a bill, where it is consistent witli the case made by the bill, and not inconsistent with the specific relief prayed.\nThe doctrine of the equitable lien of vendor of land for unpaid purchase money recognized, where no title had passed, and the intention of the parties to look to the property itself, was manifest.\nAnd where no title had passed, the lien will be preserved against purchasers by act of law, as assignees of a Bankrupt, and creditors claiming under a conveyance from vendee."
+  },
+  "file_name": "0279-01",
+  "first_page_order": 291,
+  "last_page_order": 292
+}

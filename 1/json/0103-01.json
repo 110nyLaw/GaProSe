@@ -1,0 +1,59 @@
+{
+  "id": 219006,
+  "name": "Kane vs. Hills",
+  "name_abbreviation": "Kane v. Hills",
+  "decision_date": "1821-06",
+  "docket_number": "",
+  "first_page": "103",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 103"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 157,
+    "char_count": 2324,
+    "ocr_confidence": 0.49,
+    "sha256": "620d8ad7f7488c6c5577625ba84357360b08fe61a5176895a6df6232adcba568",
+    "simhash": "1:456753ae5653bc27",
+    "word_count": 412
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Kane vs. Hills."
+    ],
+    "opinions": [
+      {
+        "text": "By CS-SAK1LTOW, Judge.\nA motion, being made in this case for judgment against Hills, the bail, it was opposed upon the ground, that final judgment was not entered up within the four days after the adjournment of the Court. This was answered by reference to the records of this Court, which established the fact, that an appeal was entered from the verdict of the Petit Jury, within the four days after the adjournment, which was set aside, for irregularity, at the ensuing term, or some subsequent term of the Superior Court. It was therefore urged, that the entry of the appeal, superseded the necessity of entering up final judgment, within the four days: and whatever irregularity there might appear, in the appeal, which even upon its face proclaimed it a nullity, yet it continued to have a legal existence, and operated as a supersedeas of all further proceedings upon the verdict, until set aside and vacated by a decision of the Court.\nIt is prudent to enter up a final judgment within the four days. The Judicial Act allows if, and it is safe and prudent for two reasons, because, it ascertains the epoch, in the absence of an appeal, from which the lien will commence its operation, and because, upon the subversion of the appeal for defects and irregularity, the lien may have a relation back to that epoch, or it may have that relation, upon an agreement to withdraw the appeal, and establish the first verdict. But most certainly the timely entry of an appeal, against which there can he no legal objection as an annihilation of the judgment, which is not all essential to the entry of an appeal\u2014it being exclusively founded upon the dissatisfaction of the party, to the verdict rendered.\nUpon the law and the facts of this case, I am, therefore, of the opinion, that the objection cannot be sustained, and that the attorney of the plaintiff can enter and file his final judgment, nunc pro tunc, or of this term as he may elect.\nJudgment ordered.",
+        "type": "majority",
+        "author": "By CS-SAK1LTOW, Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "Kane vs. Hills.\nSci. Fa.\nIf an. appeal be entered from the verdict of the Petit Jury, although it is prudent to enter up final judgment, within the four days after the adjournment of the Court, an omission to do so will not defeat the verdict, upon such appeal being set aside or withdrawn.\nThe judgment may be filed, nunc pro tunc\u00a1 after the appeal is set aside."
+  },
+  "file_name": "0103-01",
+  "first_page_order": 115,
+  "last_page_order": 116
+}

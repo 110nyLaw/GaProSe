@@ -1,0 +1,59 @@
+{
+  "id": 219062,
+  "name": "The State vs. Doon and Dimond",
+  "name_abbreviation": "State v. Doon",
+  "decision_date": "1811-01",
+  "docket_number": "",
+  "first_page": "1",
+  "last_page": "4",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 1"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 357,
+    "char_count": 5683,
+    "ocr_confidence": 0.483,
+    "sha256": "7ef3868937789579011aba93b30725cfddb3be98963015e938d01fac98bd380f",
+    "simhash": "1:73a9d814478476c1",
+    "word_count": 1009
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Doon and Dimond."
+    ],
+    "opinions": [
+      {
+        "text": "JSy BSBS5.ig.EiEW, JH%e.\nTHIS motion is based on the following grounds.\n1st. Because the Jury were not unanimous in their verdict.\n2d. Because the verdict was contrary to evidence.\nIn support of the first ground, the affidavits of two of the. jurors are produced, who state that they did not in fact agree to the verdict which was rendered.\nUpon the general question whether affidavits of this kind may be received, I think the case of Vaise vs. Delaval, (1 Term Rep. 11,) conclusive. Upon a motion to set aside a verdict upon an affidavit of two jurors, who swore that the Jury being divided in their opinion, tossed up and that the plaintiffs friends won, &c. &c., Lord Mansfield said the Court cannot receive such an affidavit from any of the jurymen themselves, in all of whom such conduct is a very high misdemeanor : but in every such case the Court must derive their knowledge from some other source : such as from some other person having seen the transaction through a window, or by some such other means. But there are other and stronger reasons than that assigned by Lord Mansfield, why in cases like the present, such affidavits should not be received. When the jurors return into Court after deliberating upon a case submitted to them, their names are severally called by the Clerk and they are asked if they are agreed on their verdict. Their written verdict signed by their foreman is then read aloud in their presence, and the Clerk thereupon adds, \u201c so say you all.\u201d If the fact which is stated in these affidavits had occurred, this was the proper time to have made it known to the Court. But after having rendered in his verdict upon oath, shall we permit the juror by oath to deny that such was his verdict, whence it will inevitably result that he must have violated the oath administered to him as a juror in the cause, or that which he has voluntarily taken before the Magistrate. Moreover it would afford such room for the exercise of improper influence, that if this doctrine were once established, few verdicts could stand. The first ground cannot therefore be supported.\nIt is contended, secondly, that the verdict is contrary to evidence. The question presented to the consideration of the Court on this ground, is whether a house in which a Faro table is kept for the purposes of common gambling is necessarily or per se, a nuisance, or whether it only becomes so incidentally by the frequent occurrence of frays or disturbances among those who resort there, to the actual nuisance of persons residing or passing through the neighborhood.\nIn support of the latter branch of the proposition, it is urged that Faro tables are the objects of taxation by our Laws. That their use is thus legalized, and that the use of that which is lawful, cannot be a nuisance, unless from the occurrence of such extrinsic circumstances as are stated above, the existence of which was negatived by the evidence in the cause. This argument is plausible, but not solid. The use of a Faro table for the purpose of gambling, that is to say, for the purpose of winning and losing money, is not rendered lawful by the tax imposed on the instrument. The instrument so taxed, may be lawfully used for innocent purposes, as in the case of a Billiard table which is similarly taxed, and where the owner lets out his table to those who use it for the mere purpose of amusing themselves at so much for each game. But I think it cannot be doubted that if this table were ordinarily let out to persons who used it for the purposes of gambling, that is to say, for the purpose of winning or losing money, whereby the house in which it was kept, became a common gaming house, it would not be protected by being the object of taxation from being considered as a common nuisance, not only (according to Hawlcins,) because it would be a great temptation to idleness, but also because it would be apt to draw together a great number of disorderly persons, which could not but be very inconvenient to the neighborhood. Nor can a contrary inference be deduced from the amount of the tax imposed, which, it is supposed, negatives the idea that any person would pay this tax for the mere permission to amuse himself with a Faro table:' The Legislature intended to suppress this and similar instruments. They imposed this tax upon every person in whose possession such instruments were found\u2014which was much more effectual than prosecutions before the Court, because in the latter case you must prove not only the possession, but the use of these instruments for the purpose of gambling. But what most strongly marks the disposition of the Legislature to suppress these tables and not to render the use of them lawful, is that the act before referred to, makes the holder of such table liable to pay the same tax of One Thousand Dollars in every different county into which he may carry it; a provision which would not only' be inconsistent, but iniquitous, if the payment of the tax rendered lawful the unrestrained use of the instrument.\nFor these reasons the new trial moved for in this case, will not be granted.",
+        "type": "majority",
+        "author": "JSy BSBS5.ig.EiEW, JH%e."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "The State vs. Doon and Dimond.\nIndictment for a nuisance, in keeping a common Gambling House. Verdict for the State and motion for a New Trial.\nThe affidavits of jurors, are not admissible, on the motion for a new trial, to impeach the verdict.\nA house in which a Faro table is kept for the purpose of common gambling, is per se, a nuisanee, and it is not necessary to constitute it such, that there should be proof of frequent frays and disturbances committed there.\nThe use of a Faro table for the purpose of gambling, is not rendered lawful by the tax imposed on the instrument."
+  },
+  "file_name": "0001-01",
+  "first_page_order": 13,
+  "last_page_order": 16
+}

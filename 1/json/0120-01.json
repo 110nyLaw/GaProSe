@@ -1,0 +1,61 @@
+{
+  "id": 219046,
+  "name": "The State vs. Henry J. Howell",
+  "name_abbreviation": "State v. Howell",
+  "decision_date": "1821-07",
+  "docket_number": "",
+  "first_page": "120",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 120"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 191,
+    "char_count": 2800,
+    "ocr_confidence": 0.46,
+    "sha256": "25f6c726904544740f1e9c6aafcf432c85028a3e3004f253839199cdfa0e397d",
+    "simhash": "1:1c3bf50ea35ebe18",
+    "word_count": 490
+  },
+  "last_updated": "2023-07-14T19:38:59.743188+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "The State vs. Henry J. Howell."
+    ],
+    "opinions": [
+      {
+        "text": "JBy CHAllM'\u00a9!', Judge.\nTHE prisoner being brought up by the writ of habeas corpus, VLyon moved for his discharge, upon the ground :\n1st. That the offence charged was committed, if committed at all, in the State of South Carolina\u2014and that therefore, the prisoner could not be detained, but upon the requisition of the Governor of that State for the prisoner, as a fugitive from justice\u2014and if this objection was over-ruled, then that the prisoner was entitled to be bailed\u2014to answer to any offence charged to have been committed in the State of Georgia.\nOn the first ground, I am of the opinion, that a person charged with a felony in another state, and fleeing to this, may upon a principle of comity, which obtains in such cases between sovereign States, be detained for a reasonable period, for the purpose of affording time for an application to the Governor of the State, where the felony is charged to have been committed, to make the demand as stated in the Constitution. Not only the morality and reasonableness of the thing, as involved in the general principle of comity, but the cases referred to by the States\u2019 counsel, support the opinion.\n2d. As to the application for bail: the prisoner is charged with having in his possession a counterfeit Bank Bill, with an intention to pass the same in this State. By the 53d Sect, of the 6th Division of the penal code of this State, that offence is punished by imprisonment at hard labor, for any period of time not exceeding fifteen years. In this high grade of felony, whether the prisoner shall be bailed or not, rests in the sound discretion of the Court. The positiveness of the affidavit in this case, and there being no extrinsic circumstances in favor of the prisoner, will not permit me to accede to this branch of the motion, particularly as the proximity of the session of the Superior Court, excludes the idea of any hardship or rigour, in continuing the imprisonment.\nHabersham, Davies & Berrien, & Bond, Sol. Gen. for the State\u2014Wilde, Gordon & D\u2019Lyon, for prisoner.\nIt is ordered, that the prisoner be remanded and detained in custody, to answer to such bill of indictment as may be preferred against him, at the next Superior Court.",
+        "type": "majority",
+        "author": "JBy CHAllM'\u00a9!', Judge."
+      }
+    ],
+    "attorneys": [
+      "Habersham, Davies & Berrien, & Bond, Sol. Gen. for the State\u2014Wilde, Gordon & D\u2019Lyon, for prisoner."
+    ],
+    "corrections": "",
+    "head_matter": "The State vs. Henry J. Howell.\nHabeas Corpus,\nA person charged with a felony in another State, and fleeing to this, may upon a principle of comity between sovereign States be detained for a reasonable period, for the purpose of af fording an opportunity to the proper authority, to demand the prisoner.\nWhere a felony of a high grade is charged upon a prisoner, it rests in the sound discretion of the Court, whether he shall be admitted to bail, and where on such a charge, the affidavits against him are very positive, and there are no extrinsic circumstances in his favor, bail will be refused."
+  },
+  "file_name": "0120-01",
+  "first_page_order": 132,
+  "last_page_order": 133
+}

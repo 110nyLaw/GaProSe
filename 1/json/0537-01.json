@@ -1,0 +1,84 @@
+{
+  "id": 218997,
+  "name": "A. A. Smets vs. Thomas and Riley Weathersbee",
+  "name_abbreviation": "Smets v. Weathersbee",
+  "decision_date": "1837-05",
+  "docket_number": "",
+  "first_page": "537",
+  "last_page": "541",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Charlton 537"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Chatham Super. Ct.",
+    "id": 8846,
+    "name": "Chatham Superior Court"
+  },
+  "jurisdiction": {
+    "id": 3,
+    "name_long": "Georgia",
+    "name": "Ga."
+  },
+  "cites_to": [
+    {
+      "cite": "1 Gallison 62",
+      "category": "reporters:federal",
+      "reporter": "Gall.",
+      "case_ids": [
+        6129914
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/1/0926-01"
+      ]
+    },
+    {
+      "cite": "7 Wheaton 104",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 9525,
+    "ocr_confidence": 0.486,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.008701665618342999
+    },
+    "sha256": "b990625526ed74f53d2ad5192001bfad88dc954a52fc4b128a8f3dc26d46220d",
+    "simhash": "1:0e754af6e858be91",
+    "word_count": 1681
+  },
+  "last_updated": "2024-02-27T21:10:55.423482+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "A. A. Smets vs. Thomas and Riley Weathersbee."
+    ],
+    "opinions": [
+      {
+        "text": "My MOT M. \u20acMiJ&MOW, Jmdge.\nA MOTION has been made to dismiss this attachment, upon the ground, that it is directed \u201cto the Sheriff of Chatham County,\u201d instead of \u201c to all and singular, the Sheriffs and Constables of this \u2022State,\u201d which is the form prescribed by the Act of 29th Dec. 1836. The motion has been submitted without argument, accompanied, however, with the remark of the Counsel for the attaching creditor, that the attachment has been properly issued, under the provisions of the law regulating attachments, in force anterior to the Act of 29th Dec. 1836, and that by reference to the date of this process, it will be perceived, that tbey could have bad no knowledge of the existence of the latter Act, at the time this proceeding was taken out.\nThe rule of law is now well settled in the United States, that a statute, when duly made, takes effect from its date, when no time is fixed by the Act itself for it to go into operation; (Matthews vs. Zane, 7 Wheaton 104. Brig Ann, 1 Gallison 62.) Chancellor Kent says, (1 vol. Com. 458, 3d edit.) that this rule is deemed to be fixed beyond the power of judicial control, and no time is allowed for the publication of the law before it operates, when the statute itself gives no time. This rule does operate with great hardship, in some cases, but it is an improvement upon the old English principle, which carried back the operation of an Act, by relation,/ to the first day of the session in which the statute was passed, and which might be weeks or months before it was introduced into Parliament. (4 Inst. 25.) This doctrine of relation, sometimes had the effect of making an Act murder, which could not have been so without such relation. (King vs. Thurston, 1 Lev. Rep. 91.) The cases of the Attorney General vs. Panter, (6 Bro. P. C. 553,) and Latless vs. Holmes, (4 Term Rep. 660,) are instances of great hardship, but the Court considered themselves bound by the rule, and it continued to be acted upon until the statute of 33 Geo, III. ch. 13, declared, that statutes should take effect only from the time they receive the royal assent.\nOur Legislature have done much to guard against the rigor of the rule-. Before the passage of this Act, a- joint resolution was concurred in, and approved of by the Governor, (Resolutions of House of Representatives, Pamphlet Acts, of 1836, p. 33,) requiring the Executive to have published, in such of the public Gazettes of this State, as he might select, \u201c all Acts of the present Legislature, that may be of a public or general character,\u201d Such requisition, I believe, has been complied with..\nI must declare this law to have taken effeet, on the day it was. assented to by the Governor, viz: on the 29th December, 1836 ? and as this writ was issued after that time,.it must be governed by it..\nI have examined this attachment, to see i'f it could not be amended. The modern rule of practice in England, draws a distinction between a deviation from a form enjoined by a statute, and one prescribed by a rule of Court. The Courts are much less strict,, in reference to amendments in the latter, than in the former; but though they have shewn a strong disinclination to allow an amendment of irregularities, contravening the forms prescribed by the uniformity of process Act, (2 Wm. IV. c. 39,) yet even there, when \u25a0<the statute of Limitations would otherwise bar the remedy, they have interfered. (Horton vs. Borough of Stamford, 2 Dowl. 96. See 3 Chitty's General Practice, 54, 5, 173, 4, 234, 5.) I do not -consider myself bound by the authority of the recent English cases, because the distinction I have adverted to, has been established by the Judges, from a desire to compel the observance of the directions in the uniformity of process Act. (3 Wm. IV. c. 39.) The Courts in England do not doubt their power to permit amendments, in all cases, where there is any thing to amend by, and I feel myself authorised to allow it in this process. Throughout our statute book, the great desire of our Legislature is shewn, to do away with the stern principles of the ancient law, and to allow amendments of form, not affecting the real merits of the cause, and I confess, that in this matter, I much prefer the modern doctrine. I do not like \u25a0to stand super antiquas vias, when by doing so, I would sacrifice the principles of justice to the worn out technicalities, of a by-gone age. Whenever, therefoie, an amendment can be made without violating any established principle ; when the proceeding, though \u2022defective, still has something to amend by ; whenever I feel that I have a discretion in the matter, I will always take pleasure in permitting the error to be corrected.\nIn all frankness, however, I would remark, that notwithstanding this inclination of my mind, I had at first some difficulty in permitting the amendment in this case. This difficulty proceeded from principle of law, and a provision of another statute, which I will now refer to. The attachment law, of 18th Feb. 1799, (Prince's Dig. 18, 19,) after prescribing the manner in which attachments shall issue and be returned, declares, \u201c that all attachments issued and returned, in any other manner than is herein before directed, shall be, and the same are declared, to be null and void.\u201d The principle of law to which I have last adverted, is, that all statutes in pari materia, are to be taken together, as if they were one law. The Act of 39th December, 1836, repeals only such laws, or parts of laws, as militate with that Act; the section, therefore, of the statute of 18th February, 1799, above referred to, is still of force, so far as to make all attachments not issued and returned, in the manner prescribed by that Act, as amended by the Act of 1836, null and void. However, after the most careful examination of both Acts, I am satisfied, that the words \u201c all attachments issued and returned in any other manner, than is herein before directed,\u201d do not refer to that portion of the general section, or division, which requires the attachment to be directed to, and served by, the Sheriff of the county where the property may be found, or his deputy, or any constable, and I think, by reference to the context, and to the spirit of the law, that it will be apparent to any one, that this clause refers to the formalities of bond, affidavit, attestation by the Magistrate granting, mode and time of return, or at least, that it was not intended by the Legislature, that any little deviation in the direction, should make the whole proceedings null and void, provided, that it was still directed to the proper officer. As an attachment was an extraordinary remedy, there was great reason in requiring, that the debt should be sworn to, previous to granting the writ, that the applicant should givebond and security, to indemnify the individuals, whose property, (without notice to himself,) was to be levied on, and that the attachment should be attested by the Magistrate granting the writ, in order that it might be certified to all persons, that these formalities of bond and affidavit had been complied with: and that the Sheriff should so conduct his proceeding, by advertising the writ, at the proper place, and returning it into Court, at the proper time, so that notice might be brought hornero the friends of the absent debtor; but such reason ceases to operate, when it is applied to an error in the direction, which could not at all prejudice the rights or interests of defendant.\nI think, therefore, that an error in the direction, will not make 'the whole proceedings null and void, provided that it be such an prror as leaves something to amend by. The writ must unquestionably be directed to tbe proper officer, or it will be inoperative. If it had been directed to the Governor of Georgia, for instance, it would not be operative and could not be amended; but in this case it is directed to the Sheriff of the county of Chatham, the officer of this court, one of the individuals to whom the present law declares it must be directed, and the most proper officer to execute the writ in the county of Chatham, where alone it was intended to be enforced. The object of the Act of 1836, in changing the law, and requiring all attachments to be directed to all and singular the Sheriff and Constables of the state, instead of \u201c the Sheriff of the county where the property may be found, his deputy or any Constable,\u201d is very apparent, from the subsequent parts of the same section. It is ordered so \u201c that an original attachment and copy shall issue, if the plaintiff shall desire, for any other county ,or counties, besides the one in which the first original attachment shall be issued.\u201d I have adverted to this difficulty, that it might not seem to have escaped my attention.\n\u2019Sy'iLLiAM H. Stiles, for motion\u2014Mielen & Kollock, contra,\nIt is ordered, that the attachment be amended so as to conform to the Act of 1836, and that a term be given to the defendants.",
+        "type": "majority",
+        "author": "My MOT M. \u20acMiJ&MOW, Jmdge."
+      }
+    ],
+    "attorneys": [
+      "\u2019Sy'iLLiAM H. Stiles, for motion\u2014Mielen & Kollock, contra,"
+    ],
+    "corrections": "",
+    "head_matter": "A. A. Smets vs. Thomas and Riley Weathersbee.\nAttachment.\nIf no time be fixed byu statute for it to go into operation, it takes effect from its date.\nWhere an attachment was directed to the \u201cSheriff of the county of Chatham,\u20195 instead of, \u201c to all and singular the Sheriffs and Constables of this State,\u201d held} that it might be amended, it haying been addressed to one of the individuals entrusted bylawwithits execution, and therb being something, therefore, to amend by.\nAll the statutes relating to attachments, being in pari materia, must be taken together."
+  },
+  "file_name": "0537-01",
+  "first_page_order": 549,
+  "last_page_order": 553
+}
