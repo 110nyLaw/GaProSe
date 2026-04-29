@@ -1,0 +1,59 @@
+---
+title: "EDALawrenceNHANES"
+format: html
+author: Nyla Lawrence
+date: May 1, 2026
+---
+
+```{r}
+#install packages
+install.packages(c("dplyr", "tidyverse"))
+```
+
+```{r}
+#load libraries
+library(dplyr)
+library(tidyverse)
+```
+
+```{r}
+#load data
+judyRecords <- read.csv("/Users/nylaaa./Documents/noBS/CSVs/judyCases.csv") #9353
+courtListener <- read.csv("/Users/nylaaa.//Documents/noBS/CSVs/courtListenerCases.csv") #315
+googleScholar <- read.csv("/Users/nylaaa./Documents/noBS/CSVs/googleScholarCases.csv") #1036
+```
+
+```{r}
+judyRecords <- judyRecords %>%
+  rename("Path" = "Link") 
+
+googleScholar <- googleScholar %>%
+  rename("Path" = "Location")
+```
+
+```{r}
+
+#binding
+equalBind <- bind_rows(judyRecords, courtListener)
+
+#calculate na's
+numNA = sum(is.na(equalBind) == TRUE)
+
+#total number of data points
+total = nrow(equalBind) * ncol(equalBind)
+
+#proportion of data that is missing
+prop = numNA/total
+
+prop
+```
+
+```{r}
+#if wanted google scholar objects within same data frame
+unequalBind <- bind_rows(equalBind, googleScholar)
+```
+
+```{r}
+#export as csv
+write.csv(equalBind, "/Users/nylaaa./Documents/noBS/CSVs/joinedGaProSe.csv", row.names = TRUE)
+```
